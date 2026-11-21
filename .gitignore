@@ -1,0 +1,4 @@
+_bluesky_poster/config.json
+_bluesky_poster/.config.sha256
+_bluesky_poster/*.tmp
+__pycache__/

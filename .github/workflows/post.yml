@@ -1,0 +1,95 @@
+name: Post daily meme
+
+on:
+  schedule:
+    # 4 PM New York time. Two entries cover both EST and EDT; the gate below
+    # drops the one that lands at 3 PM, and the script never posts twice a day.
+    - cron: "0 20 * * *"
+    - cron: "0 21 * * *"
+    # Tuesday morning: copy new memes from Dropbox into _inbox for the Tuesday job.
+    - cron: "0 13 * * 2"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "post = post today's meme now (if not already posted) | check = test logins only | catchup = post what any account missed, one per hour | dryrun = show what's next | fetchnew = look for new memes in Dropbox"
+        type: choice
+        options: [post, check, catchup, dryrun, fetchnew]
+        default: post
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meme-poster
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      TZ: America/New_York
+      MEME_SOURCE: dropbox
+      CONFIG_KEY: ${{ secrets.CONFIG_KEY }}
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Decide what to do
+        id: mode
+        run: |
+          if [ ! -f _bluesky_poster/config.json.enc ] || [ -z "$CONFIG_KEY" ]; then
+            echo "Not set up yet - run move_to_github.bat on the PC." ; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "${{ github.event.schedule }}" = "0 13 * * 2" ]; then
+              echo "mode=fetchnew" >> "$GITHUB_OUTPUT"
+            elif [ "$(date +%H)" -ge 16 ]; then
+              echo "mode=post" >> "$GITHUB_OUTPUT"
+            else
+              echo "It's $(date +%H:%M) in New York - waiting for the 4 PM run."; echo "mode=none" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.mode.outputs.mode != 'none'
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        if: steps.mode.outputs.mode != 'none'
+        run: pip install --quiet pillow cryptography
+
+      - name: Unlock logins
+        if: steps.mode.outputs.mode != 'none'
+        run: python _bluesky_poster/cloud_config.py decrypt
+
+      - name: Run
+        if: steps.mode.outputs.mode != 'none'
+        working-directory: _bluesky_poster
+        run: |
+          case "${{ steps.mode.outputs.mode }}" in
+            post)     python post_meme.py ;;
+            check)    python post_meme.py --check ;;
+            catchup)  python post_meme.py --catchup all --every 3600 ;;
+            dryrun)   python post_meme.py --dry-run ;;
+            fetchnew) python fetch_new.py ;;
+          esac
+
+      - name: Save queue, log and logins
+        if: always() && steps.mode.outputs.mode != 'none' && steps.mode.outputs.mode != 'dryrun'
+        run: |
+          python _bluesky_poster/cloud_config.py encrypt || true
+          rm -f _bluesky_poster/config.json _bluesky_poster/.config.sha256
+          git config user.name "meme-poster"
+          git config user.email "meme-poster@users.noreply.github.com"
+          git add -A _bluesky_poster _inbox 2>/dev/null || git add -A _bluesky_poster
+          if git diff --cached --quiet; then echo "nothing to save"; exit 0; fi
+          git commit -m "${{ steps.mode.outputs.mode }} run $(date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --quiet && git push --quiet && exit 0
+            sleep 10
+          done
+          exit 1
