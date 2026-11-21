@@ -768,3 +768,14 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-21 15:14:46] tiktok: catch-up posted item 45 (1/1) -> sent to TikTok via Buffer (post 6b01fbac846b0ee90735d438)
 [2026-11-21 15:14:48] Moved 6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG into _posted (Dropbox).
 [2026-11-21 15:14:48] Catch-up finished - all accounts are in step.
+[2026-11-21 16:18:40] bluesky: posted item 46 (8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2tznsthqg2b
+[2026-11-21 16:18:40] bluesky: 163 memes left in the queue.
+[2026-11-21 16:18:49] instagram: posted item 46 (8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG) -> 18120962987114660
+[2026-11-21 16:18:49] instagram: 163 memes left in the queue.
+[2026-11-21 16:18:53] x: posted item 46 (8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG) -> sent to X via Buffer (post 6b020abbc72676f5e9e0406e)
+[2026-11-21 16:18:53] x: 163 memes left in the queue.
+[2026-11-21 16:19:05] tiktok: posted item 46 (8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG) -> sent to TikTok via Buffer (post 6b020abfc72676f5e9e04122)
+[2026-11-21 16:19:05] tiktok: 163 memes left in the queue.
+[2026-11-21 16:19:12] facebook: posted item 46 (8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG) -> sent to Facebook via Buffer (post 6b020acac72676f5e9e043b9)
+[2026-11-21 16:19:13] Moved 8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG into _posted (Dropbox).
+[2026-11-21 16:19:13] facebook: 163 memes left in the queue.

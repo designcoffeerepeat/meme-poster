@@ -1124,7 +1124,17 @@
         "#funny",
         "#AI",
         "#humor"
-      ]
+      ],
+      "posted_at": "2026-11-21T16:18:40",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2tznsthqg2b",
+      "ig_posted_at": "2026-11-21T16:18:49",
+      "ig_id": "18120962987114660",
+      "x_posted_at": "2026-11-21T16:18:53",
+      "x_id": "buffer:6b020abbc72676f5e9e0406e",
+      "tt_posted_at": "2026-11-21T16:19:05",
+      "tt_id": "buffer:6b020abfc72676f5e9e04122",
+      "fb_posted_at": "2026-11-21T16:19:12",
+      "fb_id": "buffer:6b020acac72676f5e9e043b9"
     },
     {
       "id": 47,
