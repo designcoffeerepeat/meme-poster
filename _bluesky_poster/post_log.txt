@@ -762,3 +762,9 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-21 15:06:17] X (via Buffer) OK: 2Goat2Gloat. Nothing was posted.
 [2026-11-21 15:06:17] TikTok (via Buffer) OK: 2goat2gloat. Nothing was posted.
 [2026-11-21 15:06:17] Facebook (via Buffer) OK: 2goat2gloat. Nothing was posted.
+[2026-11-21 15:14:20] instagram: catching up 1 missed memes (items 45-45), one every 60 minutes.
+[2026-11-21 15:14:20] tiktok: catching up 1 missed memes (items 45-45), one every 60 minutes.
+[2026-11-21 15:14:34] instagram: catch-up posted item 45 (1/1) -> 18123558062055097
+[2026-11-21 15:14:46] tiktok: catch-up posted item 45 (1/1) -> sent to TikTok via Buffer (post 6b01fbac846b0ee90735d438)
+[2026-11-21 15:14:48] Moved 6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG into _posted (Dropbox).
+[2026-11-21 15:14:48] Catch-up finished - all accounts are in step.
