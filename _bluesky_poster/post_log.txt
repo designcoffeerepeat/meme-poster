@@ -756,3 +756,9 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-20 20:22:14] bluesky: already posted today - nothing to do.
 [2026-11-20 20:22:14] instagram: already posted today - nothing to do.
 [2026-11-20 20:22:14] x: already posted today - nothing to do.
+[2026-11-21 15:06:16] Dropbox OK: 175 images waiting in /memes. Nothing was moved.
+[2026-11-21 15:06:17] Bluesky login OK (2goat2gloat.bsky.social, did:plc:xd6aezx2srwkebgyemyexipp). Nothing was posted.
+[2026-11-21 15:06:17] Instagram login OK (@2goat2gloat). Nothing was posted.
+[2026-11-21 15:06:17] X (via Buffer) OK: 2Goat2Gloat. Nothing was posted.
+[2026-11-21 15:06:17] TikTok (via Buffer) OK: 2goat2gloat. Nothing was posted.
+[2026-11-21 15:06:17] Facebook (via Buffer) OK: 2goat2gloat. Nothing was posted.
