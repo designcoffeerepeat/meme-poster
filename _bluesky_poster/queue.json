@@ -1,0 +1,3578 @@
+{
+  "_readme": "One post per day, top to bottom. Edit hashtags or alt text freely. Set \"skip\": true to never post an item. The script fills in posted_at/uri after posting and moves the image into _posted.",
+  "items": [
+    {
+      "id": 1,
+      "images": [
+        {
+          "file": "DF4393FB-1016-4297-91C1-AB2954274AA5.JPG",
+          "alt": "Screenshot of a tweet by grovy, @grovymango, from 18/06/23 with 1.3M views: \"Happy pride to single bisexuals who cant pull any gender\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#pride",
+        "#bisexual",
+        "#lgbtq"
+      ],
+      "posted_at": "2026-10-06T11:38:19",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mx7r6ubfbb2l",
+      "ig_posted_at": "2026-10-06T16:08:27",
+      "ig_id": "17921958162220900",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 2,
+      "images": [
+        {
+          "file": "90EF92F3-18C4-4E80-8D8F-A76A07463A3A.JPG",
+          "alt": "Black text on white: \"I said I was a 'bawler' not a 'baller.' I meant that I cry a lot.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#puns",
+        "#relatable"
+      ],
+      "posted_at": "2026-10-06T12:26:08",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mx7tudxrmk2e",
+      "ig_posted_at": "2026-10-06T16:09:40",
+      "ig_id": "17971927725171035",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 3,
+      "images": [
+        {
+          "file": "86EC41B2-25D0-486D-89CB-6D596D180DE0.JPG",
+          "alt": "Black serif capital letters on a light grey background: \"I HATE WHEN PEOPLE ACCUSE ME OF LOLLYGAGGING WHEN I'M QUITE CLEARLY DILLY DALLYING.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#words"
+      ],
+      "posted_at": "2026-10-06T16:09:22",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxaadkupm627",
+      "ig_posted_at": "2026-10-08T16:00:34",
+      "ig_id": "18001010624808840",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 4,
+      "images": [
+        {
+          "file": "614AF3F1-2052-4F04-95ED-5439AAD076C3.JPG",
+          "alt": "Illustration of the ancient Chinese philosopher Lao Tzu, with a long white beard and robes, beside a fake quote: \"A cringe man will always think he's based, but a based man is truthful to his cringe self.\" — Lao Tzu"
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#philosophy",
+        "#shitpost"
+      ],
+      "posted_at": "2026-10-07T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxcqbuirkg2q",
+      "ig_posted_at": "2026-10-09T16:33:39",
+      "ig_id": "18114853901046633",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 5,
+      "images": [
+        {
+          "file": "18511543-5DDB-458D-8DB7-F79BE9363CAC.JPG",
+          "alt": "Tumblr post by brainstatic: \"Disney executive: I need ideas, people. Big ideas! Employee: What if we did all of our movies...again. Disney executive: *cigar drops out of mouth*\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#disney",
+        "#movies"
+      ],
+      "posted_at": "2026-10-08T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxfaqry2z22b",
+      "ig_posted_at": "2026-10-10T17:57:18",
+      "ig_id": "17960660421237835",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 6,
+      "images": [
+        {
+          "file": "IMG_4625.JPG",
+          "alt": "Screenshot of a Bluesky post by Janel Comeau, @verybadllama.bsky.social, from November 4, 2025: \"well I for one am shocked that 'every aspect of your life gets worse forever and also look at my marble bathroom' did not turn out to be a winning election strategy\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#politics",
+        "#elections"
+      ],
+      "posted_at": "2026-10-09T16:33:29",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxht3guujx2y",
+      "ig_posted_at": "2026-10-13T19:15:34",
+      "ig_id": "18103796186574836",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 7,
+      "images": [
+        {
+          "file": "7A176BF1-9354-4EBB-975C-769F74B278E3.PNG",
+          "alt": "Screenshot of a tweet by machine yearning engineer, @confusionm8trix, with a Mario avatar, from 4/27/25 with 1.8M views: \"men love to show you a youtube video. it is a sign of deep respect in their culture\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#youtube",
+        "#relationships"
+      ],
+      "posted_at": "2026-10-10T17:57:08",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxki7vuyaa2w",
+      "ig_posted_at": "2026-10-14T16:00:59",
+      "ig_id": "18128644027697400",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)"
+    },
+    {
+      "id": 8,
+      "images": [
+        {
+          "file": "A3345D14-A1DC-479E-ABDA-1307F9850AB7.JPG",
+          "alt": "Screenshot of a tweet by Roxi Horror, @roxiqt, from 3/30/22: \"'Oh, so you think everyone should just be handed enough money to live?' lol. lmao. yeah.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#politics",
+        "#economy"
+      ],
+      "posted_at": "2026-10-11T16:00:20",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxms5zvjo42w",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)",
+      "ig_posted_at": "2026-10-16T08:42:42",
+      "ig_id": "18358350955247785"
+    },
+    {
+      "id": 9,
+      "images": [
+        {
+          "file": "04C77C1E-5FE1-4BB9-94EF-4DB495B909B9.JPG",
+          "alt": "Screenshot of a tweet by decent birthday, @decentbirthday, dated 4/30/17: \"Bowser: Honey, the toilet's clogged. Wife: Call someone to fix it. Bowser: *dialing number* Well this is gonna be awkward\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#gaming",
+        "#nintendo",
+        "#mario"
+      ],
+      "posted_at": "2026-10-12T17:28:15",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxphk66cq72y",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)",
+      "ig_posted_at": "2026-10-18T12:29:43",
+      "ig_id": "17893857774681993"
+    },
+    {
+      "id": 10,
+      "images": [
+        {
+          "file": "E8B094AB-D778-40C6-989D-6B3891E77EBF.PNG",
+          "alt": "Collage of a cluster of oyster and beech mushrooms over a soil food-web diagram, with a robin in the corner. Glittery text: \"the only posers i fuck with are DECOMPOSERS\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#mushrooms",
+        "#nature",
+        "#science"
+      ],
+      "posted_at": "2026-10-13T19:15:24",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxs5yofze62w",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)",
+      "ig_posted_at": "2026-10-19T08:18:31",
+      "ig_id": "18627898777042104"
+    },
+    {
+      "id": 11,
+      "images": [
+        {
+          "file": "0E80CE12-9977-4986-8B90-F2B4855D7A90.JPG",
+          "alt": "Four-panel black-and-white comic. A girl with a shepherd's crook stands beside a fluffy lamb: \"mary had a little lamb\". Close-up of the lamb: \"Whos fleece was white as snow\". The lamb on a hill under a crescent moon: \"it went out to a club one night\". The lamb in sunglasses dancing under a disco ball: \"and dropped it hella low\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#humor"
+      ],
+      "posted_at": "2026-10-14T16:00:05",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxudkdmprw2q",
+      "x_posted_at": "skipped (posted before X was set up)",
+      "tt_posted_at": "skipped (posted before tiktok was set up)",
+      "fb_posted_at": "skipped (posted before facebook was set up)",
+      "ig_posted_at": "2026-10-20T16:00:20",
+      "ig_id": "18098392355397315"
+    },
+    {
+      "id": 12,
+      "images": [
+        {
+          "file": "385A67E5-D9BE-4281-89A4-62215B90201D.JPG",
+          "alt": "Screenshot of a tweet by TOUCCI GANG, @aspiringtoucan, from 11/11/17: \"why don't you make like a tree and have a long, stable life benefitting those around you\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#wholesome",
+        "#humor"
+      ],
+      "x_posted_at": "2026-10-15T09:55:16",
+      "x_id": "buffer:6ad0db41c97177442bde166c",
+      "tt_posted_at": "2026-10-15T09:59:36",
+      "tt_id": "buffer:6ad0dc3ecd335deaefef621e",
+      "fb_posted_at": "2026-10-15T10:41:25",
+      "fb_id": "buffer:6ad0e60f4ed96805c7c04000",
+      "posted_at": "2026-10-16T08:42:29",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxylzpdqtp27",
+      "ig_posted_at": "2026-10-21T16:00:17",
+      "ig_id": "17973187278191574"
+    },
+    {
+      "id": 13,
+      "images": [
+        {
+          "file": "12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG",
+          "alt": "Tweet by Jesse Case, @jessecase: \"You were having a fine evening. Feeling youthful, energetic. Then you saw Pokémon cards on Antiques Roadshow.\" Below, a TV photo of a young woman on Antiques Roadshow next to binders of vintage Pokémon cards."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#pokemon",
+        "#gaming",
+        "#millennials"
+      ],
+      "x_posted_at": "2026-10-16T08:42:45",
+      "x_id": "buffer:6ad21bc463c879f95859c0ee",
+      "tt_posted_at": "2026-10-16T08:42:56",
+      "tt_id": "buffer:6ad21bc725d13dd62ee7a887",
+      "fb_posted_at": "2026-10-16T08:43:02",
+      "fb_id": "buffer:6ad21bd22fe657de6ea4d339",
+      "posted_at": "2026-10-18T12:29:31",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3my5znhijis2l",
+      "ig_posted_at": "2026-10-23T17:42:51",
+      "ig_id": "18230438329333133"
+    },
+    {
+      "id": 14,
+      "images": [
+        {
+          "file": "9B8A88AE-CE1C-46C4-8BB6-3155BF42B572.JPG",
+          "alt": "Screenshot of a tweet by Jack Boot, @IamJackBoot: \"Dorothy: What is that? Scarecrow: Looks like a guy with an ax and a can of lube. I'll ask if he wants to join us.\" — a joke about the Tin Man from The Wizard of Oz."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#wizardofoz",
+        "#movies"
+      ],
+      "x_posted_at": "2026-10-18T12:29:48",
+      "x_id": "buffer:6ad4f3f9938409f1d0db3a23",
+      "tt_posted_at": "2026-10-18T12:30:00",
+      "tt_id": "buffer:6ad4f3fd0b0d72757a2e2911",
+      "fb_posted_at": "2026-10-18T12:30:08",
+      "fb_id": "buffer:6ad4f409a48c8f8371a6a96a",
+      "posted_at": "2026-10-19T08:17:22",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mya3zk3wxc27",
+      "ig_posted_at": "2026-10-24T10:56:04",
+      "ig_id": "18048174908815827",
+      "instagram_catchup": true
+    },
+    {
+      "id": 15,
+      "images": [
+        {
+          "file": "0CD9CE6F-134B-4489-965E-4932476E251E.JPG",
+          "alt": "Tweet by Thierry Blancpain, @blancpain: \"My toddler daughter's three energy levels\" above a photo of a theater marquee listing screens 1, 2, 3: \"THE QUIET GIRL\", \"WOMEN TALKING\", \"COCAINE BEAR\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#parenting",
+        "#movies"
+      ],
+      "x_posted_at": "2026-10-19T08:18:35",
+      "x_id": "buffer:6ad60a992dab63998e87afcd",
+      "tt_posted_at": "2026-10-19T08:18:47",
+      "tt_id": "buffer:6ad60a9d7a42a610a511d8cf",
+      "fb_posted_at": "2026-10-19T08:18:54",
+      "fb_id": "buffer:6ad60aaae0cb711786f7987e",
+      "posted_at": "2026-10-20T16:00:05",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mydgdtto5z2o",
+      "ig_posted_at": "2026-10-24T11:56:18",
+      "ig_id": "18125041429908801",
+      "instagram_catchup": true
+    },
+    {
+      "id": 16,
+      "images": [
+        {
+          "file": "5106AC2D-7051-4E8E-981E-F8D3D1E6C86D.JPG",
+          "alt": "Screenshot of a tweet by jody, @wnbagirlfriend, with a Gumby avatar: \"did you seriously just tickle my fancy\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#shitpost"
+      ],
+      "x_posted_at": "2026-10-20T16:00:24",
+      "x_id": "buffer:6ad7c856f5dcb31b88ddba7e",
+      "tt_posted_at": "2026-10-20T16:00:36",
+      "tt_id": "buffer:6ad7c85aad4f0ba79c51fad7",
+      "fb_posted_at": "2026-10-20T16:00:53",
+      "fb_id": "buffer:6ad7c86bf5dcb31b88ddc505",
+      "posted_at": "2026-10-21T16:00:06",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myfwsrayc62b",
+      "ig_posted_at": "2026-10-24T16:18:38",
+      "ig_id": "18108151706255266"
+    },
+    {
+      "id": 17,
+      "images": [
+        {
+          "file": "E0C0C62B-4E5B-49D1-A006-B61AEA22D24B.JPG",
+          "alt": "Tweet by Adam Sturgeon, @sturgeon_adam: \"*walking past a stranger* My Brain: Don't do it\" repeated eight times, then \"Me:\" above a school photo of a boy making an awkward, tight-lipped smile."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#awkward",
+        "#relatable"
+      ],
+      "x_posted_at": "2026-10-21T16:00:22",
+      "x_id": "buffer:6ad919d4d79cb60bb039aea4",
+      "tt_posted_at": "2026-10-21T16:00:34",
+      "tt_id": "buffer:6ad919d8c21668bfe51a2d88",
+      "fb_posted_at": "2026-10-21T16:00:46",
+      "fb_id": "buffer:6ad919e4b945508d3f8467e4",
+      "posted_at": "2026-10-22T16:10:40",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myihunfcgd2w",
+      "ig_posted_at": "2026-10-24T17:39:56",
+      "ig_id": "18113239685619810",
+      "instagram_catchup": true
+    },
+    {
+      "id": 18,
+      "images": [
+        {
+          "file": "BBDD7DD1-83F7-40A1-B507-541945127577.JPG",
+          "alt": "Screenshot of a post by Barney, with a blue bird avatar: \"Ohio was named after that thing where you see a stranger waving at you, then you wave back, then realize they were waving to someone behind you.\" — as in 'Oh, hi... oh.'"
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#ohio",
+        "#puns"
+      ],
+      "x_posted_at": "2026-10-22T16:10:45",
+      "x_id": "buffer:6ada6dc39a872e86219ff8e8",
+      "tt_posted_at": "2026-10-22T16:10:56",
+      "tt_id": "buffer:6ada6dc680b62e6575045adc",
+      "fb_posted_at": "2026-10-22T16:11:01",
+      "fb_id": "buffer:6ada6dd29a872e86219ffa90",
+      "posted_at": "2026-10-23T17:42:40",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myl5hzrsjb25",
+      "ig_posted_at": "2026-10-25T08:49:48",
+      "ig_id": "17953367424311921",
+      "instagram_catchup": true
+    },
+    {
+      "id": 19,
+      "images": [
+        {
+          "file": "543D77F1-5193-47A0-BEC9-CB5CCDB98872.JPG",
+          "alt": "Screenshot of a tweet by Merriam-Webster, @MerriamWebster, on a black background: \"Cleopatra lived closer in time to 'yeet' being in the dictionary than to the construction of the Great Pyramid of Giza\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#History",
+        "#facts"
+      ],
+      "x_posted_at": "2026-10-23T17:42:54",
+      "x_id": "buffer:6adbd4dc3d5b27036b52d3af",
+      "tt_posted_at": "2026-10-23T17:43:05",
+      "tt_id": "buffer:6adbd4df0b5343d070503bdd",
+      "fb_posted_at": "2026-10-23T17:43:11",
+      "fb_id": "buffer:6adbd4ebe4be8a4d86288a60",
+      "posted_at": "2026-10-24T10:55:52",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mymx7k6fnd24",
+      "bluesky_catchup": true,
+      "ig_posted_at": "2026-10-25T12:02:41",
+      "ig_id": "18199712845381239",
+      "instagram_catchup": true
+    },
+    {
+      "id": 20,
+      "images": [
+        {
+          "file": "4B885A32-E12B-4273-B222-679E5425E736.JPG",
+          "alt": "Black text on white: \"Not all Women want flowers. Some just want a 40 acre off-grid homestead with a flowing creek.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#homestead",
+        "#relatable"
+      ],
+      "posted_at": "2026-10-24T16:17:38",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mynj6wappe2q",
+      "x_posted_at": "2026-10-24T16:18:42",
+      "x_id": "buffer:6add12a1e4be8a4d86776505",
+      "tt_posted_at": "2026-10-24T16:18:54",
+      "tt_id": "buffer:6add12a58b3d437ddcd7dd33",
+      "fb_posted_at": "2026-10-24T16:19:01",
+      "fb_id": "buffer:6add12b18b3d437ddcd7df1d",
+      "ig_posted_at": "2026-10-25T16:34:44",
+      "ig_id": "18113072035877663"
+    },
+    {
+      "id": 21,
+      "images": [
+        {
+          "file": "CF726981-68A9-407D-990A-F6122C5BE3A8.PNG",
+          "alt": "Screenshot of a tweet by scooter, @scootergonscoot: \"Maps: turn right in 500ft. Me: how far is that. Maps: make a u-turn\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#driving",
+        "#relatable"
+      ],
+      "posted_at": "2026-10-25T16:34:03",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myq2l5dunp2t",
+      "x_posted_at": "2026-10-25T16:34:48",
+      "x_id": "buffer:6ade67e6e4be8a4d86c6a70e",
+      "tt_posted_at": "2026-10-25T16:34:59",
+      "tt_id": "buffer:6ade67e98b3d437ddc27d539",
+      "fb_posted_at": "2026-10-25T16:35:05",
+      "fb_id": "buffer:6ade67f4e4be8a4d86c6aa39",
+      "ig_posted_at": "2026-10-26T16:00:17",
+      "ig_id": "18198747832386713"
+    },
+    {
+      "id": 22,
+      "images": [
+        {
+          "file": "FA5FA772-8B32-426A-AA19-C6F094139B44.JPG",
+          "alt": "Tweet by herman milly rock, @Eyoyism: \"at a friend's birthday party in rural illinois and people are drinking like there's public transit here...\" above the monkey puppet meme glancing sideways nervously."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#illinois",
+        "#publictransit"
+      ],
+      "posted_at": "2026-10-26T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mysj5dcidf2r",
+      "x_posted_at": "2026-10-26T16:00:23",
+      "x_id": "buffer:6adfb153ddcf56f1d39754b3",
+      "tt_posted_at": "2026-10-26T16:00:36",
+      "tt_id": "buffer:6adfb159cb109ba5d2843d82",
+      "fb_posted_at": "2026-10-26T16:00:49",
+      "fb_id": "buffer:6adfb166419fee619ae6baa3",
+      "ig_posted_at": "2026-10-27T16:00:19",
+      "ig_id": "18074468456784232"
+    },
+    {
+      "id": 23,
+      "images": [
+        {
+          "file": "C2DDEB7C-C691-43FB-AB58-7D26039BD13C.JPG",
+          "alt": "Caption: \"'I don't even see posts anymore. All I see is ragebait, boomerslop, gender war, thirst trap, humblebrag, healthshit...'\" above a still from The Matrix of Cypher smiling in front of screens of scrolling green code."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#matrix",
+        "#socialmedia"
+      ],
+      "posted_at": "2026-10-27T16:00:05",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myuzmb2or22b",
+      "x_posted_at": "2026-10-27T16:00:23",
+      "x_id": "buffer:6ae102d4e8126ef614204dd9",
+      "tt_posted_at": "2026-10-27T16:00:35",
+      "tt_id": "buffer:6ae102d8bdb7bfdd34232005",
+      "fb_posted_at": "2026-10-27T16:00:46",
+      "fb_id": "buffer:6ae102e42d6ce6e7b6e02d95",
+      "ig_posted_at": "2026-10-28T16:00:22",
+      "ig_id": "18125896123919255"
+    },
+    {
+      "id": 24,
+      "images": [
+        {
+          "file": "B36EC032-B669-4E3B-AEA8-096D3DB562C7.PNG",
+          "alt": "Sketchy drawing of Kermit the Frog flailing as he falls off a skateboard that has flipped over beneath him. Text: \"the vibe is in shambles\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#kermit",
+        "#muppets"
+      ],
+      "posted_at": "2026-10-28T16:00:07",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myxk3a374f2q",
+      "x_posted_at": "2026-10-28T16:00:26",
+      "x_id": "buffer:6ae254573e779512a883d18c",
+      "tt_posted_at": "2026-10-28T16:00:37",
+      "tt_id": "buffer:6ae2545a787994b5227a981c",
+      "fb_posted_at": "2026-10-28T16:00:49",
+      "fb_id": "buffer:6ae254663e779512a883dc8b",
+      "ig_posted_at": "2026-10-29T16:00:18",
+      "ig_id": "18239809075319780"
+    },
+    {
+      "id": 25,
+      "images": [
+        {
+          "file": "9E452B3A-9D43-4AF0-B057-E37C1A5B866B.JPG",
+          "alt": "Caption: \"I got my pup a matching chair so he would stop stealing mine. Needless to say, he's very pleased\". Photo of a fluffy golden dog sitting upright in a small grey wingback armchair with a smug, squinty smile, next to its owner's matching full-size chair, while a black cat watches from the background."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dogs",
+        "#wholesome",
+        "#cats"
+      ],
+      "posted_at": "2026-10-29T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mz22k5256l2t",
+      "x_posted_at": "2026-10-29T16:00:22",
+      "x_id": "buffer:6ae3a5d51026f5c4e0c0fa6f",
+      "tt_posted_at": "2026-10-29T16:00:35",
+      "tt_id": "buffer:6ae3a5d91026f5c4e0c0fdeb",
+      "fb_posted_at": "2026-10-29T16:00:47",
+      "fb_id": "buffer:6ae3a5e602b1fcfd3e17a362",
+      "ig_posted_at": "2026-10-30T16:00:26",
+      "ig_id": "18078154265462044"
+    },
+    {
+      "id": 26,
+      "images": [
+        {
+          "file": "D82EF600-FAFD-44A9-B931-2CCF1344FDBD.JPG",
+          "alt": "Google Maps screenshot of the Gulf of Mexico, where the water is labeled \"SPACEBALLS: THE GULF\" — a joke on the 'Spaceballs: The Flamethrower' merchandise gag and the Gulf renaming."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#spaceballs",
+        "#politics",
+        "#movies"
+      ],
+      "posted_at": "2026-10-30T16:00:05",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mz4kz2ehp22w",
+      "x_posted_at": "2026-10-30T16:00:31",
+      "x_id": "buffer:6ae4f75c1891472093950410",
+      "tt_posted_at": "2026-10-30T16:00:43",
+      "tt_id": "buffer:6ae4f761fc1ac02b6ed9af64",
+      "fb_posted_at": "2026-10-30T16:00:51",
+      "fb_id": "buffer:6ae4f76cfc1ac02b6ed9bdc1",
+      "ig_posted_at": "2026-10-31T16:00:18",
+      "ig_id": "18134101214505852"
+    },
+    {
+      "id": 27,
+      "images": [
+        {
+          "file": "4E0E496F-A55B-40FC-A040-D236006284C7.JPG",
+          "alt": "Four stills edited from Pulp Fiction. Jules asks \"We happy?\" Vincent opens the glowing briefcase, and the case is revealed to contain a Nintendo 64 console with two controllers. Vincent grins: \"Oh, we happy.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#gaming",
+        "#nintendo",
+        "#movies"
+      ],
+      "posted_at": "2026-10-31T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mz73hvq5cg2m",
+      "x_posted_at": "2026-10-31T16:00:23",
+      "x_id": "buffer:6ae648d31ee172cd6dbdfbed",
+      "tt_posted_at": "2026-10-31T16:00:35",
+      "tt_id": "buffer:6ae648d821c807e9d5813f96",
+      "fb_posted_at": "2026-10-31T16:00:46",
+      "fb_id": "buffer:6ae648e51ee172cd6dbe0346",
+      "ig_posted_at": "2026-11-01T18:41:33",
+      "ig_id": "18376640410242558"
+    },
+    {
+      "id": 28,
+      "images": [
+        {
+          "file": "D18FF211-55F7-486E-AE6A-FBD2A6F2FD33.JPG",
+          "alt": "Black text on white: \"Therapist: 'And how do we respond when people call us a trainwreck?' Me: *pumps fist* 'choo, choo!' Therapist: ... 'No.'\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#therapy",
+        "#mentalhealth"
+      ],
+      "posted_at": "2026-11-01T18:41:19",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzbyciixek2t",
+      "x_posted_at": "2026-11-01T18:41:37",
+      "x_id": "buffer:6ae7ce2e902c3fb1dec34bd1",
+      "tt_posted_at": "2026-11-01T18:41:48",
+      "tt_id": "buffer:6ae7ce31d016796999f8a46d",
+      "fb_posted_at": "2026-11-01T18:41:55",
+      "fb_id": "buffer:6ae7ce3e779ee9f13cc01a65",
+      "ig_posted_at": "2026-11-02T15:00:22",
+      "ig_id": "18114698663274671"
+    },
+    {
+      "id": 29,
+      "images": [
+        {
+          "file": "A7E111EE-ADE2-40BD-89E5-424A7C33F00A.JPG",
+          "alt": "Fake LEGO instruction sheet by @photosmashed for \"The Human Centipede\". Step 1 builds three plain yellow minifigures. Step 2 shows them bent over and attached head to rear. The finished model shows three minifigures joined in a chain."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#lego",
+        "#horror",
+        "#darkhumor"
+      ],
+      "posted_at": "2026-11-02T15:00:07",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mze4fs5u4e2a",
+      "x_posted_at": "2026-11-02T15:00:29",
+      "x_id": "buffer:6ae8ebda4efbf4f5475fb64d",
+      "tt_posted_at": "2026-11-02T15:00:43",
+      "tt_id": "buffer:6ae8ebe002371b91fa513a53",
+      "fb_posted_at": "2026-11-02T15:00:56",
+      "fb_id": "buffer:6ae8ebed02371b91fa514226",
+      "ig_posted_at": "2026-11-03T15:00:18",
+      "ig_id": "18112821881155694"
+    },
+    {
+      "id": 30,
+      "images": [
+        {
+          "file": "B464E8D6-248F-4006-9B91-987E95100A55.JPG",
+          "alt": "Black text on white: \"Screech up to a yard sale. Ask if they have any haunted amulets. Yell at the dog in your backseat, 'I'm GETTING the spell reversed, Greg!'\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dogs",
+        "#humor"
+      ],
+      "posted_at": "2026-11-03T15:00:06",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzgmuqzgvc2b",
+      "x_posted_at": "2026-11-03T15:00:22",
+      "x_id": "buffer:6aea3d545fa3d509fa3dafb0",
+      "tt_posted_at": "2026-11-03T15:00:34",
+      "tt_id": "buffer:6aea3d58b3ec15847385aa4e",
+      "fb_posted_at": "2026-11-03T15:00:40",
+      "fb_id": "buffer:6aea3d64343beca74f09f2e2",
+      "ig_posted_at": "2026-11-04T15:01:56",
+      "ig_id": "18103668176550939"
+    },
+    {
+      "id": 31,
+      "images": [
+        {
+          "file": "2C719645-579E-45D8-BD9B-A10A571EB5FA.JPG",
+          "alt": "Vintage Bible illustration of the plague of frogs in ancient Egypt: frogs fly everywhere while the pharaoh and Egyptians recoil. A speech bubble from the pharaoh says \"O shit waddup\" and a caption reads \"Every damn Wednesday!\" — a reference to the 'it is Wednesday my dudes' frog meme."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#wednesday",
+        "#history"
+      ],
+      "posted_at": "2026-11-04T15:01:43",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzj5gkc4yy2j",
+      "x_posted_at": "2026-11-04T15:02:00",
+      "x_id": "buffer:6aeb8f368aec178794a3ba0f",
+      "tt_posted_at": "2026-11-04T15:02:12",
+      "tt_id": "buffer:6aeb8f3960e67ef1d1cbd18f",
+      "fb_posted_at": "2026-11-04T15:02:19",
+      "fb_id": "buffer:6aeb8f45a101dc5e7730d5a9",
+      "ig_posted_at": "2026-11-05T16:00:14",
+      "ig_id": "18131575747871334"
+    },
+    {
+      "id": 32,
+      "images": [
+        {
+          "file": "AD14F764-CACB-4437-85A6-2A0044C118B0.JPG",
+          "alt": "Screenshot of a Facebook post by Corinne Phillips: \"'I Waited Too Long to Eat and Now I'm Mean and Also Crying' a memoir\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#hangry",
+        "#relatable"
+      ],
+      "posted_at": "2026-11-05T16:00:03",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzlr5rvete22",
+      "x_posted_at": "2026-11-05T16:00:22",
+      "x_id": "buffer:6aecee6194067731a41f6442",
+      "tt_posted_at": "2026-11-05T16:00:34",
+      "tt_id": "buffer:6aecee66cf99e575e90befdd",
+      "fb_posted_at": "2026-11-05T16:00:45",
+      "fb_id": "buffer:6aecee725a4f8c0d3fa51e03",
+      "ig_posted_at": "2026-11-06T16:00:17",
+      "ig_id": "18110666723627672"
+    },
+    {
+      "id": 33,
+      "images": [
+        {
+          "file": "CA43E564-3960-404B-9910-0EEFC20EF07E.JPG",
+          "alt": "Lisa Simpson giving a presentation meme. She stands at a podium in front of a projector screen reading: \"CPR IS JUST THE HUMAN VERSION OF BLOWING INTO A VIDEO GAME CARTRIDGE HOPING IT'LL WORK AGAIN\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#simpsons",
+        "#gaming",
+        "#retrogaming"
+      ],
+      "posted_at": "2026-11-06T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzobmri6bj25",
+      "x_posted_at": "2026-11-06T16:00:21",
+      "x_id": "buffer:6aee3fe3229bf05daf0ce7fe",
+      "tt_posted_at": "2026-11-06T16:00:33",
+      "tt_id": "buffer:6aee3fe7a7751de7c9a97a61",
+      "fb_posted_at": "2026-11-06T16:00:39",
+      "fb_id": "buffer:6aee3ff3a7751de7c9a98c4f",
+      "ig_posted_at": "2026-11-07T16:37:44",
+      "ig_id": "17996203710073247"
+    },
+    {
+      "id": 34,
+      "images": [
+        {
+          "file": "4ED41A09-0196-4346-A0F8-759D5CF38BF9.JPG",
+          "alt": "Tweet by Rohita Kadambi, @RohitaKadambi: \"This is what your 9th Grade English teacher means when she says 'give your essay a strong opener.'\" It quotes a New Yorker article opening: \"The first time I heard about Taylor Swift, I was in a Los Angeles County jail, waiting to be sent to prison for murder.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#TaylorSwift",
+        "#writing"
+      ],
+      "posted_at": "2026-11-07T16:37:32",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzqu6nvndq2h",
+      "x_posted_at": "2026-11-07T16:37:48",
+      "x_id": "buffer:6aef9a29562f2e6de9810435",
+      "tt_posted_at": "2026-11-07T16:37:59",
+      "tt_id": "buffer:6aef9a2c229bf05daf760c8a",
+      "fb_posted_at": "2026-11-07T16:38:05",
+      "fb_id": "buffer:6aef9a38d6bbae6fa1b0fc7d",
+      "ig_posted_at": "2026-11-08T16:32:58",
+      "ig_id": "18116801789171401"
+    },
+    {
+      "id": 35,
+      "images": [
+        {
+          "file": "6A3A5789-1FD2-434E-AA31-2F434598C336.JPG",
+          "alt": "Six-panel Safely Endangered webcomic. An old man on his deathbed tells his friend: \"I'M DYING. MY LIFE FLASHES BEFORE MY EYES\". The flashback panels show him sitting at a computer, unchanged, through the years until he is old. Back at the deathbed, with a tear, he says: \"NICE\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#gaming"
+      ],
+      "posted_at": "2026-11-08T16:32:45",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzteezutel2b",
+      "x_posted_at": "2026-11-08T16:33:02",
+      "x_id": "buffer:6af0ea8b004e4879a7e0eb2f",
+      "tt_posted_at": "2026-11-08T16:33:14",
+      "tt_id": "buffer:6af0ea909214322f687a5be7",
+      "fb_posted_at": "2026-11-08T16:33:24",
+      "fb_id": "buffer:6af0ea9d9214322f687a5da2",
+      "ig_posted_at": "2026-11-09T16:00:19",
+      "ig_id": "18148868635572298"
+    },
+    {
+      "id": 36,
+      "images": [
+        {
+          "file": "64C92837-A133-428F-8077-B917BF67B9DF.JPG",
+          "alt": "Screenshot of a tweet by Adam Morgan, @adammOrgan: \"sex is great but have you ever opened a book with a map in the front\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#books",
+        "#booksky"
+      ],
+      "posted_at": "2026-11-09T16:00:05",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzvszjlh462f",
+      "x_posted_at": "2026-11-09T16:00:27",
+      "x_id": "buffer:6af23464a5835b9ab5b8ca24",
+      "tt_posted_at": "2026-11-09T16:00:39",
+      "tt_id": "buffer:6af2346cba863ca7a14988fd",
+      "fb_posted_at": "2026-11-09T16:00:46",
+      "fb_id": "buffer:6af2347818d54f7e0dd04812",
+      "ig_posted_at": "2026-11-10T16:00:16",
+      "ig_id": "18175535524455877"
+    },
+    {
+      "id": 37,
+      "images": [
+        {
+          "file": "BA095669-8636-4891-8390-9664D5F4A061.JPG",
+          "alt": "Screenshot of a tweet by Axe, @bladeeobama, from 2021-04-29: \"call me marge simpson because i love you homie\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#simpsons",
+        "#wholesome"
+      ],
+      "posted_at": "2026-11-10T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzydigy2og2l",
+      "x_posted_at": "2026-11-10T16:00:21",
+      "x_id": "buffer:6af385e391300263f77f89f1",
+      "tt_posted_at": "2026-11-10T16:00:33",
+      "tt_id": "buffer:6af385e7d302743b715ff66f",
+      "fb_posted_at": "2026-11-10T16:00:45",
+      "fb_id": "buffer:6af385f34cc2b37f6a10b61c",
+      "ig_posted_at": "2026-11-13T08:34:34",
+      "ig_id": "17910693585330372"
+    },
+    {
+      "id": 38,
+      "images": [
+        {
+          "file": "9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG",
+          "alt": "Cartoon still of a tiny Snoopy-like white puppy sitting on a big blue sofa, reading a picture book about a dog, chewing on a ring. Caption: \"yeah I got that dog in me\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dogs",
+        "#wholesome"
+      ],
+      "posted_at": "2026-11-13T08:34:21",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n273y7edmy25",
+      "x_posted_at": "2026-11-13T08:34:38",
+      "x_id": "buffer:6af711eb22fdd0eb2eda48e9",
+      "tt_posted_at": "2026-11-13T08:34:49",
+      "tt_id": "buffer:6af711ef49bae9df2d0b479c",
+      "fb_posted_at": "2026-11-13T08:34:55",
+      "fb_id": "buffer:6af711fa1cbca7cd9c3b364f",
+      "ig_posted_at": "2026-11-14T16:00:22",
+      "ig_id": "18205399384375861"
+    },
+    {
+      "id": 39,
+      "images": [
+        {
+          "file": "B2498891-DFD9-4CE8-BD91-2319D73162A6.JPG",
+          "alt": "Screenshot of a tweet by slick, @dlicj: \"At my funeral play the Super Mario original theme until my casket is lowered in the ground then play the underground music\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#mario",
+        "#gaming",
+        "#nintendo"
+      ],
+      "posted_at": "2026-11-14T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2cfe4ojgo2o",
+      "x_posted_at": "2026-11-14T16:00:27",
+      "x_id": "buffer:6af8cbe8c5b364e0621782b9",
+      "tt_posted_at": "2026-11-14T16:00:39",
+      "tt_id": "buffer:6af8cbede5a113497aa9f62b",
+      "fb_posted_at": "2026-11-14T16:00:52",
+      "fb_id": "buffer:6af8cbf9e5a113497aaa0cd8",
+      "ig_posted_at": "2026-11-15T18:01:33",
+      "ig_id": "17930225415426387"
+    },
+    {
+      "id": 40,
+      "images": [
+        {
+          "file": "FDD18404-2E2E-45FA-A169-983E7321F4AF.JPG",
+          "alt": "Screenshot of a tweet by La Peña, @gabrielapr_: \"Dear shower curtain, don't FUCKING touch me BITCH.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#humor"
+      ],
+      "posted_at": "2026-11-15T18:01:20",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2f4lvhnwv2r",
+      "x_posted_at": "2026-11-15T18:01:37",
+      "x_id": "buffer:6afa39cfdaa378ad689b27b4",
+      "tt_posted_at": "2026-11-15T18:01:48",
+      "tt_id": "buffer:6afa39d2daa378ad689b2900",
+      "fb_posted_at": "2026-11-15T18:01:53",
+      "fb_id": "buffer:6afa39ddff465c57daba3bab",
+      "ig_posted_at": "2026-11-16T16:00:14",
+      "ig_id": "17916186129555801"
+    },
+    {
+      "id": 41,
+      "images": [
+        {
+          "file": "95B03D68-50C3-4B9D-8F52-ED63B18E31F6.JPG",
+          "alt": "Caption: \"How I look at Dracula after he realizes I rubbed garlic all over myself except my [eggplant emoji].\" Below, a still of Anton Chigurh from No Country for Old Men giving a smug, knowing sideways look."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dracula",
+        "#horror"
+      ],
+      "posted_at": "2026-11-16T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2hgbxutl625",
+      "x_posted_at": "2026-11-16T16:00:27",
+      "x_id": "buffer:6afb6ee32b3e825373d56d04",
+      "tt_posted_at": "2026-11-16T16:00:45",
+      "tt_id": "buffer:6afb6ef02b3e825373d5871e",
+      "fb_posted_at": "2026-11-16T16:00:59",
+      "fb_id": "buffer:6afb6eff614de19dc07764a0",
+      "ig_posted_at": "2026-11-17T16:00:19",
+      "ig_id": "18104853410640767"
+    },
+    {
+      "id": 42,
+      "images": [
+        {
+          "file": "F19C3228-093B-406D-B2E6-D1E69D751300.JPG",
+          "alt": "Tweet by introvert, @livewithnoregrt: \"i don't want noise\", quote-replying to g, @illygrene, who asked: \"What level of adulting have you reached??\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#introvert",
+        "#adulting"
+      ],
+      "posted_at": "2026-11-17T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2jwqvs6342o",
+      "x_posted_at": "2026-11-17T16:00:23",
+      "x_id": "buffer:6afcc065953f4c1b18bdbd03",
+      "tt_posted_at": "2026-11-17T16:00:35",
+      "tt_id": "buffer:6afcc068953f4c1b18bdc4e6",
+      "fb_posted_at": "2026-11-17T16:00:44",
+      "fb_id": "buffer:6afcc075ea84dfa92546a79f",
+      "ig_posted_at": "2026-11-18T17:17:54",
+      "ig_id": "18146363110718921"
+    },
+    {
+      "id": 43,
+      "images": [
+        {
+          "file": "5092BF1A-751F-4D47-8B72-EEED871277E2.JPG",
+          "alt": "Screenshot of a tweet by @doulbedoink: \"We'll see what my group chat of mean-spirited dumb alcoholics has to say about that\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#friends"
+      ],
+      "posted_at": "2026-11-18T17:17:44",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2mlkokxmn2o",
+      "x_posted_at": "2026-11-18T17:17:58",
+      "x_id": "buffer:6afe2414c462756e9e21f3fd",
+      "tt_posted_at": "2026-11-18T17:18:10",
+      "tt_id": "buffer:6afe2418ebd4409dc9fcaf70",
+      "fb_posted_at": "2026-11-18T17:18:17",
+      "fb_id": "buffer:6afe2424c69bd1cb888755ec",
+      "ig_posted_at": "2026-11-19T16:00:17",
+      "ig_id": "18149074486583762"
+    },
+    {
+      "id": 44,
+      "images": [
+        {
+          "file": "4A277D28-5CCE-4A30-A8ED-FAFC61353ECF.JPG",
+          "alt": "Screenshot of a tweet by swag, @chillextremist: \"I get so embarrassed buying toilet paper because everyone looks at me and thinks oh so this guy shits huh\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#shitpost"
+      ],
+      "posted_at": "2026-11-19T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2oxopucha2r",
+      "x_posted_at": "2026-11-19T16:00:23",
+      "x_id": "buffer:6aff6364d606779a4df8c15a",
+      "tt_posted_at": "2026-11-19T16:00:35",
+      "tt_id": "buffer:6aff63688ec824f4cebe522d",
+      "fb_posted_at": "2026-11-19T16:00:46",
+      "fb_id": "buffer:6aff6374d606779a4df8d391",
+      "ig_posted_at": "2026-11-20T16:00:19",
+      "ig_id": "17970934200211155"
+    },
+    {
+      "id": 45,
+      "images": [
+        {
+          "file": "6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG",
+          "alt": "Close-up of Keanu Reeves as Neo from The Matrix, wearing small dark sunglasses. Impact-font caption: \"WHAT IF I TOLD YOU... WHEN YOU SIT ON THE TOILET YOU CONNECT YOUR BUTTHOLE UP TO THE LARGER NETWORK OF CONNECTED BUTTHOLES\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#matrix",
+        "#shitpost"
+      ],
+      "posted_at": "2026-11-20T16:00:04",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2ri5p4snu2b",
+      "x_posted_at": "2026-11-20T16:15:58",
+      "x_id": "buffer:6b00b88d20a2d09a0aaf4d6c",
+      "fb_posted_at": "2026-11-20T16:16:17",
+      "fb_id": "buffer:6b00b89d5102766245d335a7"
+    },
+    {
+      "id": 46,
+      "images": [
+        {
+          "file": "8A384D39-1547-445B-9CDF-0DE61F9B1016.JPG",
+          "alt": "Tweet by kp, @girlthestrike: \"when im angry i project justin timberlake's picture onto this styrofoam head and start verbally abusing him\" with a photo of Justin Timberlake's face projected onto a foam mannequin head in a dim room. Reply from PickledSaint, @PickledSaint: \"AI will never understand the human spirit\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#AI",
+        "#humor"
+      ]
+    },
+    {
+      "id": 47,
+      "images": [
+        {
+          "file": "91AB4A00-C843-436A-A7A2-7CD4DF0CA745.JPG",
+          "alt": "Screenshot of a tweet by Ariel Edwards-Levy, @aedwardslevy: \"is it weird that 'instant' and 'overnight' are synonymous as descriptions of celebrity but antonyms as descriptions of oats\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#words",
+        "#food"
+      ]
+    },
+    {
+      "id": 48,
+      "images": [
+        {
+          "file": "8F4D7C66-9252-4C36-83A3-7E7C7FB076AD.JPG",
+          "alt": "Screenshot of a tweet by Dakota Hiles, @Hakota_Diles: \"me- let's not get political tonight. me, after 1 beer- what the f[blurred] did nickelback do to anybody\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#music",
+        "#nickelback"
+      ]
+    },
+    {
+      "id": 49,
+      "images": [
+        {
+          "file": "538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG",
+          "alt": "Top: a still from Dune with Paul and Jessica in desert gear, subtitle \"Walk without rhythm to avoid attracting the worms\". Bottom: Australian breakdancer Raygun, in a green-and-gold tracksuit, mid-dance pose pasted onto the desert sand dunes."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dune",
+        "#movies",
+        "#olympics"
+      ]
+    },
+    {
+      "id": 50,
+      "images": [
+        {
+          "file": "A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG",
+          "alt": "Caption: \"The Beastie Boys watching you get ready for bed at 9pm after they fought so hard for your rights:\" above an old photo of the three Beastie Boys at the Grammys, one with an exaggerated shocked face — a reference to '(You Gotta) Fight for Your Right (To Party!)'."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#music",
+        "#beastieboys",
+        "#90s"
+      ]
+    },
+    {
+      "id": 51,
+      "images": [
+        {
+          "file": "1CECDD0A-B670-4F1E-B4EC-1867E220D18C.PNG",
+          "alt": "Screenshot from the retro video game Paperboy: a kid on a bicycle rides down a suburban sidewalk past a house with a brick gate. Impact-font caption: \"LET'S BUILD A SPIKED WALL RIGHT HERE / BECAUSE FUCK THE PAPERBOY\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#gaming",
+        "#retrogaming"
+      ]
+    },
+    {
+      "id": 52,
+      "images": [
+        {
+          "file": "39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG",
+          "alt": "Text above a photo: \"Trump: I'm reinstating LIGMA. Journalist: What's LIGMA? Trump: Ligma fucking balls lmao\". The photo shows a Trump look-alike dabbing at the White House press briefing podium next to an American flag."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#Trump",
+        "#politics",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 53,
+      "images": [
+        {
+          "file": "4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG",
+          "alt": "Screenshot of a tweet by Feral Pawg Hunter, @FeralPHunter: \"all men want is to constantly annoy one beautiful woman\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relationships",
+        "#humor"
+      ]
+    },
+    {
+      "id": 54,
+      "images": [
+        {
+          "file": "CF6526E1-7267-4616-BE01-57C44DFF1AE0.JPG",
+          "alt": "Screenshot of a tweet by Sarah Lazarus, @sarahclazarus: \"(subtly sussing out whether a potential new friend has a pool) So what kind of stuff do you do at home? do you ever submerge yourself\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#summer",
+        "#friends"
+      ]
+    },
+    {
+      "id": 55,
+      "images": [
+        {
+          "file": "87E70512-785E-48D4-8E40-B08E13212461.JPG",
+          "alt": "Photo edit: from inside a car, the Mona Lisa rests her arm on the driver's door. In the next lane is a black SUV packed with figures from Renaissance portraits — a bearded nobleman in fur and pink silk leans out the window with a speech line \"suppeth...\", while rows of other painted faces peer over the windows behind him."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#art",
+        "#arthistory"
+      ]
+    },
+    {
+      "id": 56,
+      "images": [
+        {
+          "file": "E4E0934F-548B-4D7A-9B1C-0BF417BDC101.JPG",
+          "alt": "Caption: \"Taking a break from being an absolute specimen.\" Photo of a capybara sitting upright in a bathtub, holding its round belly with both paws, looking calm and satisfied."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#capybara",
+        "#animals"
+      ]
+    },
+    {
+      "id": 57,
+      "images": [
+        {
+          "file": "0381EA6C-0F0C-462A-8D97-A7A4A96507B8.JPG",
+          "alt": "Tumblr post by aprilwitching: \"candles are how we keep fires as pets\". Reblog by annabellioncourt: \"this is unnecessarily adorable\". 222,715 notes."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tumblr",
+        "#wholesome"
+      ]
+    },
+    {
+      "id": 58,
+      "images": [
+        {
+          "file": "01391DE7-6C7C-44A8-8B17-A99B155258E1.JPG",
+          "alt": "Black text on a white background: \"*checks self* *wrecks self anyway*\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 59,
+      "images": [
+        {
+          "file": "49D1D155-70CB-4505-BDDF-1636C5C7D160.JPG",
+          "alt": "Screenshot of a tweet by crème de meme, @OrWhatAbout, from 2/20/20: \"Being a dog must be so cool. Your best friend is a gigantic omnipotent ape creature who can make food materialize out of nowhere and has unlimited love for you.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dogs",
+        "#wholesome"
+      ]
+    },
+    {
+      "id": 60,
+      "images": [
+        {
+          "file": "4AA964EC-EE77-49EF-929E-5746882AD94B.JPG",
+          "alt": "Two-panel Bugs Bunny meme captioned \"Memers 5min after a tragic thing happens in the world\". Top: Bugs Bunny in a big cowboy hat slumped lazily over a bar. Bottom: still slumped, he points a revolver labeled \"MEMES\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#looneytunes",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 61,
+      "images": [
+        {
+          "file": "F4A2F3A5-7E6D-4554-88C6-AE802AD0F3A5.JPG",
+          "alt": "Top: Velma from Scooby-Doo saying \"My generation, we only got one thing on our minds\". Bottom: a retro Soviet-style space poster of a cosmonaut and a formation of rockets with rainbow exhaust trails, captioned \"FULLY AUTOMATED LUXURY GAY SPACE COMMUNISM\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#scoobydoo",
+        "#lgbtq",
+        "#space"
+      ]
+    },
+    {
+      "id": 62,
+      "images": [
+        {
+          "file": "676A79FA-2DF5-4E58-9F23-613C93F14C3C.JPG",
+          "alt": "Screenshot of a tweet by Luis, @Delatorre24Luis: \"Hey sorry for not replying I didn't want to\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#humor"
+      ]
+    },
+    {
+      "id": 63,
+      "images": [
+        {
+          "file": "D5F2F105-A740-4E40-96B9-E4BC22C278FB.JPG",
+          "alt": "Screenshot of a tweet by stuart fiddle, @stuartfiddle, with a Stuart Little avatar: \"every single day there is something to do & I am sick of it\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#mood"
+      ]
+    },
+    {
+      "id": 64,
+      "images": [
+        {
+          "file": "E7375503-4D3D-4910-A03F-C0372506D006.JPG",
+          "alt": "Screenshot of a tweet by Mermaid Venom, @MermaidVenom, from 10/21/20: \"I am not your dream girl. I am the sudden shouting of crows when you enter a part of the forest you shouldn't have.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#crows",
+        "#witchy"
+      ]
+    },
+    {
+      "id": 65,
+      "images": [
+        {
+          "file": "C91B5394-5A2C-447F-96AA-339D9627A08B.JPG",
+          "alt": "Caption: \"Even Flow by Pearl Jam: Starts playing. Me:\" above a photo of the Swedish Chef Muppet in his chef's hat, waving a wooden spoon — a joke about Eddie Vedder's famously garbled vocals."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#music",
+        "#muppets",
+        "#90s"
+      ]
+    },
+    {
+      "id": 66,
+      "images": [
+        {
+          "file": "C5762064-974C-4968-93EF-5FE1F729AD70.JPG",
+          "alt": "\"Nostalgia be like:\" Two rows of the dark, hollow-eyed, withered Wojak face. \"2014:\" — just the miserable face. \"2024:\" — the same miserable face, with a thought bubble showing \"2014:\" as a glowing, serene Wojak against a sunset."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#wojak",
+        "#nostalgia"
+      ]
+    },
+    {
+      "id": 67,
+      "images": [
+        {
+          "file": "4C4933C2-4F16-4A51-B115-8BBB3B06652F.JPG",
+          "alt": "Screenshot of a tweet by 4Livs, @4Livs: \"I say things like, 'Let's go Fuck this day right in the mouth.' Then I look around the room and see who's pumped, who's scared, who's confused... That's how I know who my people are.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#motivation",
+        "#humor"
+      ]
+    },
+    {
+      "id": 68,
+      "images": [
+        {
+          "file": "CA03CDDC-DEF2-4253-AE7D-05A9891DFE4B.JPG",
+          "alt": "The Justice tarot card (XI): a crowned figure in red robes on a throne holds a sword and scales between two pillars. A speech bubble reads: \"Remember, Karma is only a bitch if you are!\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tarot",
+        "#karma"
+      ]
+    },
+    {
+      "id": 69,
+      "images": [
+        {
+          "file": "7CA789AB-894A-4B11-A81E-B80F565878F7.JPG",
+          "alt": "Screenshot of a tweet by Emily Murnane, @emily_murnane, from 2020-11-29: \"The fact that eating healthily and exercising actually does make me feel better is offensive to me\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#fitness"
+      ]
+    },
+    {
+      "id": 70,
+      "images": [
+        {
+          "file": "467CA1AF-143E-4C10-BDD4-C75F8DAACA61.JPG",
+          "alt": "Cartoon by @infiniteguff: a man looks at an empty fish tank. All the fish have flopped out onto the dresser beside it, wearing red caps and carrying an American flag, a rifle, and a \"MY CHOICE\" sign. One says: \"YOU CAN'T MAKE US STAY INSIDE\" — a parody of pandemic lockdown protests."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#politics",
+        "#USA"
+      ]
+    },
+    {
+      "id": 71,
+      "images": [
+        {
+          "file": "7A1AC994-9664-48F4-8C1B-CD99361A9677.JPG",
+          "alt": "Naruto handshake meme: two anime clan leaders labeled \"Jesus\" and \"Princess Peach\" shake hands, and a red close-up of the handshake is labeled \"getting nailed by an Italian\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#nintendo",
+        "#anime",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 72,
+      "images": [
+        {
+          "file": "E3E0B77C-685B-409C-8BDC-6A86D2936ED7.JPG",
+          "alt": "Screenshot of a tweet by Meg, @megannn_lynne: \"you've heard of sex. now let me introduce you to the far superior sensory pleasure of a warm bowl of soup & garlic bread\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#food",
+        "#soup"
+      ]
+    },
+    {
+      "id": 73,
+      "images": [
+        {
+          "file": "6D0557D3-0201-4C9A-84A7-65ED3BAB1140.JPG",
+          "alt": "Screenshot of a tweet by Sentient Smart Fridge, @GloamHallow, from 9/6/22: \"Yo. THATS the liege you swore your vassalage to?? Ok lol. Lmao.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#History",
+        "#medieval"
+      ]
+    },
+    {
+      "id": 74,
+      "images": [
+        {
+          "file": "ECECE760-29F9-42C9-84B9-1AD9EB1B9A81.JPG",
+          "alt": "Screenshot of a tweet by Jonathan Edward Durham, @thisone0verhere: \"Look all I'm saying is if I were a library ghost just hanging out minding my own library ghost business and a bunch of performative science males started stomping around and shooting lasers and quipping up the place, I'd be pretty angry too\" — a take on Ghostbusters."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#ghostbusters",
+        "#movies"
+      ]
+    },
+    {
+      "id": 75,
+      "images": [
+        {
+          "file": "419872B6-45E7-4735-ACD9-6F71CE6BA0CB.JPG",
+          "alt": "Screenshot of a tweet by @sonohoor from 5/27/25 with 1.8M views: \"not to be dramatic but when i accidentally save a file twice and it adds that (1) at the end, it is the worst moment of my life\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#humor"
+      ]
+    },
+    {
+      "id": 76,
+      "images": [
+        {
+          "file": "EA7F82CC-9B28-4C5B-B201-9AC01EDEDB3E.JPG",
+          "alt": "Post from shirts that go hard, @shirtsthtgohard: photo of a man from behind in a crowd wearing a beige T-shirt printed \"I HATE PEDRO PASCAL / JUST KIDDING / CAN YOU IMAGINE\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#pedropascal",
+        "#shirts"
+      ]
+    },
+    {
+      "id": 77,
+      "images": [
+        {
+          "file": "3126C840-781B-4B93-B27D-368D75A56DE9.JPG",
+          "alt": "Photo of a pair of metal kitchen tongs with the caption: \"Instructions for use: Perform 2-3 test clicks before each use and at least once every 3 minutes\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#cooking"
+      ]
+    },
+    {
+      "id": 78,
+      "images": [
+        {
+          "file": "6E5EACF1-BB89-4CC9-AAD3-F9E512C0588C.JPG",
+          "alt": "Screenshot of a tweet by j., @justinbxrnard: \"no matter how small you try to make that 'unsubscribe' at the bottom of an email, I WILL FIND IT\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#email"
+      ]
+    },
+    {
+      "id": 79,
+      "images": [
+        {
+          "file": "IMG_4215.JPG",
+          "alt": "Four-panel comic by The Weekly Concern titled \"CHOOSE YOUR EXCITING NEW CAREER!\" The panels are labeled ACCOUNTANT, GRAPHIC DESIGNER, ENGINEER and EXECUTIVE ASSISTANT, and every one shows the exact same drawing of a man sitting at a computer."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#work",
+        "#comics",
+        "#officelife"
+      ]
+    },
+    {
+      "id": 80,
+      "images": [
+        {
+          "file": "1DD6AF85-55C6-455E-9A78-43C9DC806086.JPG",
+          "alt": "Screenshot of a tweet by CHELB!, @chelbb_, posted 29 Apr 21: \"our father, who art in heaven, gabba be thy gool\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shitpost",
+        "#humor"
+      ]
+    },
+    {
+      "id": 81,
+      "images": [
+        {
+          "file": "91E01C9B-3FB8-4274-B584-8D9DDB5DF08E.JPG",
+          "alt": "Caption \"Marvel villains, when they want to invade earth\" above a still from Borat: Borat, grinning in a grey suit, pulls a wooden cart out of his village while villagers watch, with the subtitle \"I go to America.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#marvel",
+        "#movies",
+        "#USA"
+      ]
+    },
+    {
+      "id": 82,
+      "images": [
+        {
+          "file": "D622FCF1-0E26-4787-830B-A77FCDEBA3E9.JPG",
+          "alt": "Three-panel comic by Ryan Kramer for Toonhole. Batman sees the Bat Signal: \"The Bat Signal!\" Close-up of Batman yelling: \"Alfred! Quick! Send out the Virtue Signal.\" A spotlight in the night sky above Gotham reads: \"Thoughts and prayers with Gotham tonight.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#batman",
+        "#comics"
+      ]
+    },
+    {
+      "id": 83,
+      "images": [
+        {
+          "file": "29452E2D-1651-4F6A-93F4-93FDD44C8E18.JPG",
+          "alt": "Three-panel comic by Skeleton Claw. A cloaked Ghost of Christmas Future tells Scrooge, who is holding a candle: \"SCROOGE, I AM THE GHOST OF CHRISTMAS FUTURE, HERE TO SHOW YOU WHAT WILL COME TO PASS.\" Panel two, \"BEHOLD\": a battlefield with a crashed spaceship, a battle droid firing a laser, and a muscular pink octopus-headed soldier with guns. Panel three, Scrooge grins: \"FUCKIN' SICK!\" The ghost: \"RIGHT?\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#christmas"
+      ]
+    },
+    {
+      "id": 84,
+      "images": [
+        {
+          "file": "F9AE70EA-C4BF-4E75-B147-BC9F7B31AE02.JPG",
+          "alt": "Tweet by mr pussy, @_mrpussy: \"thinking about this basic bitch sorority girl looking ass with leg tattoos of serial killers lmao\" above a photo of a smiling blonde woman on a white couch holding a fluffy doodle dog, with realistic portrait tattoos of serial killers covering her leg."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#truecrime",
+        "#tattoos"
+      ]
+    },
+    {
+      "id": 85,
+      "images": [
+        {
+          "file": "E604FAF2-1F7B-410E-A151-BF59A7D8366F.JPG",
+          "alt": "Tweet by The Onion, @TheOnion, from 13 Dec 21: \"Rich Guy Asks Around To Find Out Who The New Jeffrey Epstein Is\" with a stock photo of a tanned man in sunglasses with a sweater over his shoulders, on the phone aboard a sailboat."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#theonion",
+        "#satire"
+      ]
+    },
+    {
+      "id": 86,
+      "images": [
+        {
+          "file": "0316C1A9-2DAD-4F3B-A946-22D1765FC1F0.JPG",
+          "alt": "Screenshot of a tweet by shen the bird, @Shen_the_Bird: \"wikipedia: please. please just give me one dollar i'm begging you give me anything. me: [trying to look up the hamburglar's full name] shut the fuck up\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#wikipedia"
+      ]
+    },
+    {
+      "id": 87,
+      "images": [
+        {
+          "file": "788EF39E-6767-4727-8C1C-6227A7CA0603.JPG",
+          "alt": "Four stills from The Lord of the Rings: The Two Towers with slang subtitles. Aragorn: \"It's hella far, fam\". Gimli: \"Yeet me. I cannot jump the distance! You'll have to Yeet me!\" Gimli: \"Don't tell the squad, fam\". Aragorn: \"Kickass, fam. This finna be lit.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#lotr",
+        "#movies"
+      ]
+    },
+    {
+      "id": 88,
+      "images": [
+        {
+          "file": "78284B9A-4908-446E-B653-2334C8EF2B3D.JPG",
+          "alt": "Painting of Bob Ross as a shirtless, ripped action hero, holding a giant paintbrush and a palette, in front of one of his signature snowy mountain lake landscapes. Caption: \"I GO HARD IN THE MUTHAFUCKIN PAINT\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#bobross",
+        "#art"
+      ]
+    },
+    {
+      "id": 89,
+      "images": [
+        {
+          "file": "7EAB3DD8-D8A9-47C3-8C34-2D88BBDD70AF.JPG",
+          "alt": "Screenshot of a tweet by jamie, @ekvous, from 2021-05-16: \"if I was an Italian plumber whose girlfriend was constantly being imprisoned in castles by an evil fire breathing lizard I would simply not take part in recreational go-kart races with aforementioned lizard\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#mario",
+        "#nintendo",
+        "#gaming"
+      ]
+    },
+    {
+      "id": 90,
+      "images": [
+        {
+          "file": "493D8505-AA55-4C51-8087-B77F45323EC7.JPG",
+          "alt": "Screenshot of a tweet by alien skier, @clichedout: \"my goal is to start being more assertive if it's ok with u guys\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#humor"
+      ]
+    },
+    {
+      "id": 91,
+      "images": [
+        {
+          "file": "78B74848-2D5C-4DEC-A5E3-2857F9AB18FA.JPG",
+          "alt": "Photo edit with no text: Marge Gunderson from Fargo, in her furry police hat and parka, sips coffee in front of a vast frozen Hoth-style battlefield of wrecked giant walker machines below an ice cliff."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#starwars",
+        "#movies"
+      ]
+    },
+    {
+      "id": 92,
+      "images": [
+        {
+          "file": "639689CB-17E0-4FB9-9B31-F04D76FC41F8.JPG",
+          "alt": "Tweet by Jeffrey Masters, @jeffmasters1: \"Obsessed with this bookstore\" above a photo of a bookstore shelf of mixed nonfiction titles with a shelf label reading \"Smart, but not exhausting\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#books",
+        "#booksky"
+      ]
+    },
+    {
+      "id": 93,
+      "images": [
+        {
+          "file": "703241F0-C6F4-4974-A1AD-B170C40F1F30.JPG",
+          "alt": "Screenshot of a tweet by David Hughes, @david8hughes, from 4/20/14: \"[Jesus goes over the bill at the last supper] 'Why would-[closes eyes & rubs bridge of nose]-Why would anyone order wine?'\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#jesus",
+        "#humor"
+      ]
+    },
+    {
+      "id": 94,
+      "images": [
+        {
+          "file": "86FD4616-7710-4629-8BD4-03E02D719909.JPG",
+          "alt": "Mash-up movie poster art by Yannick Bouchard titled \"I'll Be Back to the Future\" in the Back to the Future logo style. Young John Connor and the Terminator, in a leather jacket, both lift their sunglasses and check their wristwatches in shock while Sarah Connor grips the Terminator's arm. They stand in front of a motorcycle and purple lightning."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#movies",
+        "#80s",
+        "#art"
+      ]
+    },
+    {
+      "id": 95,
+      "images": [
+        {
+          "file": "E67FC6FB-2FDF-4EBF-95B7-3EB553E140F1.JPG",
+          "alt": "Black-and-white cartoon signed J.A.K.: Superman flies up to catch a man falling from a skyscraper. The falling man says: \"But don't save me in a woke way.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#superman",
+        "#comics",
+        "#politics"
+      ]
+    },
+    {
+      "id": 96,
+      "images": [
+        {
+          "file": "B158297B-6866-4ADA-A08F-BFCD3AEBA034.JPG",
+          "alt": "Cosmic-themed graphic by @cliffordthebigredscare: a silhouette meditating cross-legged with a starry howling wolf glowing in its chest, against a galaxy background. Text in bubbly gradient letters: \"did you consult that dawg ...within?\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dogs",
+        "#meditation"
+      ]
+    },
+    {
+      "id": 97,
+      "images": [
+        {
+          "file": "IMG_1679.jpg",
+          "alt": "Black-and-white cartoon signed Ellis: in the pouring rain, Noah's Ark is loading animals in the background while two unicorns stop at the open door of an airport-style Hudson News shop. One asks: \"Do we have time for this?\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#unicorns"
+      ]
+    },
+    {
+      "id": 98,
+      "images": [
+        {
+          "file": "CEB67605-B3A8-4751-86DA-8028FF4717F5.JPG",
+          "alt": "Screenshot of a tweet by Timmy, @TheTimmyToes: \"[makes a voodoo doll of himself] [gives it a little back rub]\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#selfcare",
+        "#wholesome"
+      ]
+    },
+    {
+      "id": 99,
+      "images": [
+        {
+          "file": "BEBD4BBD-E314-4127-803E-5F701B4D5584.JPG",
+          "alt": "Caption: \"Oh look I found your house\" above a photo of a blue Paris street sign on a stone wall reading \"19e Arrt / PLACE DE BITCHE\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#paris",
+        "#signs"
+      ]
+    },
+    {
+      "id": 100,
+      "images": [
+        {
+          "file": "71AD56FC-54CE-4F68-BCC2-962E1E67FE13.JPG",
+          "alt": "Two-panel black-and-white cartoon. A normal cow says \"MOO.\" Next to it, a goth cow with a black side-swept fringe, spiked collar, studded ankle cuffs and a cigarette says \"EMOO.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#puns",
+        "#emo"
+      ]
+    },
+    {
+      "id": 101,
+      "images": [
+        {
+          "file": "E0397061-348B-47C9-8E62-6D562EC25DA3.JPG",
+          "alt": "Screenshot of a tweet by James, @CaucasianJames, from 11 Sep 19: \"high school girls are in biology right now caffeinated up from their iced coffee saying shit like 'we stan the cytoplasm' these poor teachers man\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#teachers",
+        "#science"
+      ]
+    },
+    {
+      "id": 102,
+      "images": [
+        {
+          "file": "C3601AB0-321B-494F-A9C6-9CBA87C2CFB8.JPG",
+          "alt": "Screenshot of a tweet by julia reinstein, @juliareinstein: \"me: [selects 'send verification code as text' on a website] me three seconds later: oh boy a tex mesage\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#tech"
+      ]
+    },
+    {
+      "id": 103,
+      "images": [
+        {
+          "file": "6404564B-7ABA-4ED3-91F6-C563C92A1323.JPG",
+          "alt": "Three stills edited from The Shining. Wendy, horrified, looks down at Jack's typewriter. The page, which in the film repeats 'All work and no play makes Jack a dull boy', instead repeats the Talking Heads lyric \"Same as it ever was, same as it ever was\". Below, Jack Nicholson glares while wearing an oversized boxy suit like David Byrne's."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#movies",
+        "#music",
+        "#horror"
+      ]
+    },
+    {
+      "id": 104,
+      "images": [
+        {
+          "file": "1CA3077B-069B-431A-821F-5D64BF6FE8B2.JPG",
+          "alt": "Screenshot of a tweet by nidhi, @drinkwaternidz, dated 12 Oct 24, 250K views: \"men was never meant to see this many beautiful women, social media got us fried. our ancestors used to only see 10 baddies in their whole life\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#socialmedia"
+      ]
+    },
+    {
+      "id": 105,
+      "images": [
+        {
+          "file": "66437107-F267-4D0A-9579-659C6E339A9A.PNG",
+          "alt": "Caption \"dear diary, fuck my gay chungus life fr\" above a still from Twin Peaks of Laura Palmer lying on her bed, reading her diary."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#twinpeaks",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 106,
+      "images": [
+        {
+          "file": "6E23C171-51D9-4ACC-9E4F-9694C1443F4B.JPG",
+          "alt": "Screenshot of a tweet from 2/22/21: \"kind of a bummer to have been born at the very end of the Fuck Around century just to live the rest of my life in the Find Out century\". A reply from Heinz Baked Jeans: \"i'm not comforted at all by how many people with science jobs in their bio are retweeting this\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#climate",
+        "#darkhumor"
+      ]
+    },
+    {
+      "id": 107,
+      "images": [
+        {
+          "file": "5A237405-CA09-49C9-B709-B0C30F217E17.JPG",
+          "alt": "Tumblr post by saoirseronanlynch: \"I'm full of rage but in a very chill and nonchalant way\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tumblr",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 108,
+      "images": [
+        {
+          "file": "5F866AE7-AB1E-474A-9910-B9D0EA0CDC7C.JPG",
+          "alt": "Screenshot of a tweet by Stinky Green, @StinkyGr33n: \"*Creating bees* God: Make them highly beneficial to the ecosystem. Angel: Sure thing, boss. God: Give 'em the greatest knees of all time\" — a pun on the 'bee's knees'."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#bees",
+        "#puns"
+      ]
+    },
+    {
+      "id": 109,
+      "images": [
+        {
+          "file": "9B6270E2-C7E8-449E-B807-AA29B9A4229B.JPG",
+          "alt": "Tumblr post by alleycatboy: \"maybe i can gaslight myself into being okay\". Reblogged by alleycatboy: \"wait this is just cognitive behavioral therapy\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#mentalhealth",
+        "#tumblr"
+      ]
+    },
+    {
+      "id": 110,
+      "images": [
+        {
+          "file": "B83E7324-A51A-4D37-98F9-60947309827C.JPG",
+          "alt": "Caption: \"Prince rollerskating on his tennis court at home. Photo by Jeff Katz\". Photo of Prince on black roller skates, wearing sunglasses, a fishnet top under a black Batman-logo tank, black shorts, knee pads, and white knee socks, gliding with his arms out."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#music",
+        "#prince",
+        "#80s"
+      ]
+    },
+    {
+      "id": 111,
+      "images": [
+        {
+          "file": "05D7C9FE-463E-42C8-8BAA-06FB777C856C.JPG",
+          "alt": "Tumblr post by gelatoisland: \"i bet count von count has killer fuckin music taste\". Below is a photo of Count von Count from Sesame Street driving a purple bat-winged vintage car with a New York license plate reading 12345678910, captioned: \"look what he drives. i have got to get this little purple fucks spotify\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tumblr",
+        "#music",
+        "#sesamestreet"
+      ]
+    },
+    {
+      "id": 112,
+      "images": [
+        {
+          "file": "8A75E2B5-DC2A-4153-A0E6-876755BE2918.JPG",
+          "alt": "Screenshot of a tweet by breebunn, @breebunn: \"is lava just discharge from the earth's crussy\" with a Facebook comment below from Ross Caynes: \"Please don't use any of those words again...\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shitpost",
+        "#cursed"
+      ]
+    },
+    {
+      "id": 113,
+      "images": [
+        {
+          "file": "C58942EC-BCBF-49DB-929A-19D4C510F7FB.JPG",
+          "alt": "Screenshot of a tweet by s3q, @saljoeqmurr: \"aaaaaaand you're banished from the realm\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shitpost",
+        "#medieval"
+      ]
+    },
+    {
+      "id": 114,
+      "images": [
+        {
+          "file": "F9A5F4CD-8A95-47C9-947C-AD1B097553E8.JPG",
+          "alt": "Screenshot of a tweet by octopus/caveman, @OctopusCaveman: \"Romeo: Juliet is the sun. Neil deGrasse Tyson: *loudly from the balcony* NO SHE ISN'T\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shakespeare",
+        "#science"
+      ]
+    },
+    {
+      "id": 115,
+      "images": [
+        {
+          "file": "82913061-403E-4625-BA42-9692E5B63FA3.JPG",
+          "alt": "Screenshot of a tweet by @doyenmxn from 6/25/25 with 4.2M views: \"I don't even fuck around and I still be finding out\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#humor"
+      ]
+    },
+    {
+      "id": 116,
+      "images": [
+        {
+          "file": "39AB2A23-D457-4F5A-AA1C-B2A09645C05A.JPG",
+          "alt": "Tumblr post by cyrus-thenotsogreat: \"people without any whimsy scare me. why are you like that. where are your trinkets.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tumblr",
+        "#humor"
+      ]
+    },
+    {
+      "id": 117,
+      "images": [
+        {
+          "file": "34194E9B-E934-4166-B7A0-B1BCB1B4A88B.JPG",
+          "alt": "Watercolor comic by @twisteddoodles titled \"Bats locate their food using sound\". A bat in front of a full moon yells \"TELL ME WHY\" and a moth below answers \"AIN'T NOTHIN' BUT A HEARTACHE ...SHIT\" — the Backstreet Boys lyric giving away its location."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#music",
+        "#bats"
+      ]
+    },
+    {
+      "id": 118,
+      "images": [
+        {
+          "file": "A1BDEC90-8C52-4D36-9FD5-BBA1848928AD.JPG",
+          "alt": "Tumblr post by slimetony: \"hey people who know astrology shit. ive been having a lot of feeligs lately. any planets i can blame that on.\" Reply from chandra-nalaar: \"earth\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#astrology",
+        "#tumblr"
+      ]
+    },
+    {
+      "id": 119,
+      "images": [
+        {
+          "file": "9B73183F-D297-4FCD-8139-43A3891BF225.JPG",
+          "alt": "Black text on white: \"you let them Shenan once, they'll Shenanigan\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#puns",
+        "#words"
+      ]
+    },
+    {
+      "id": 120,
+      "images": [
+        {
+          "file": "9A50FD7D-11D8-4EFA-B46D-9FB50DF7FAB6.JPG",
+          "alt": "Screenshot of a tweet by emily, @emmixxrose: \"nice argument. unfortunately, yo mama\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shitpost",
+        "#humor"
+      ]
+    },
+    {
+      "id": 121,
+      "images": [
+        {
+          "file": "728A314B-9D9F-4499-893F-545E5D9BF695.JPG",
+          "alt": "Small cartoon of a grey seal with a pink mohawk, wearing a rainbow-striped sweater, wailing \"Straaaight\" — a pun on 'Ally' and 'Straight Ally'."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#lgbtq",
+        "#pride"
+      ]
+    },
+    {
+      "id": 122,
+      "images": [
+        {
+          "file": "AE40B557-0620-4777-8805-7BAA98E0CC22.PNG",
+          "alt": "Text: \"God: Build a big fucking boat. Noah: Do you mean a very large boat or a boat made for fucking. God: *pauses* God: Both\". Below, a painted Bible illustration of Noah with a long white beard and robes, arms outstretched, looking up at the sky."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#bible",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 123,
+      "images": [
+        {
+          "file": "6537A0A5-22AF-415A-9A12-E20D8780D8D5.JPG",
+          "alt": "Text: \"-Are you in bed already? -Yes -I was about to take you out for tacos\". Below, an image from Disney's Cinderella shows her magically transforming from her pink nightdress into her sparkling ball gown."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tacos",
+        "#disney"
+      ]
+    },
+    {
+      "id": 124,
+      "images": [
+        {
+          "file": "8B6CBE02-80CE-43FA-93E4-398AB44FAB3F.JPG",
+          "alt": "Screenshot of a tweet by Matt Popovich, @mpopv, from 7/6/25: \"'grey' is a better spelling than 'gray' because e is a greyer letter than a. i will not elaborate\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#words",
+        "#humor"
+      ]
+    },
+    {
+      "id": 125,
+      "images": [
+        {
+          "file": "02B1476D-7274-4163-BC5A-3AEC875CFE26.JPG",
+          "alt": "Retro low-resolution drawing of Garfield's face with half-closed eyes on a light blue background. Text below reads: \"YOU ARE NOT IMMUNE TO PROPAGANDA\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#garfield",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 126,
+      "images": [
+        {
+          "file": "C449C678-E314-49D9-AED8-432771B8CE00.JPG",
+          "alt": "\"Nobody: / Conservatives for some fucking reason:\" above two stills of General Hux from Star Wars ranting: \"I don't care if a fascist regime destroys my life too\" / \"I just need to own the libs\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#politics",
+        "#starwars",
+        "#USA"
+      ]
+    },
+    {
+      "id": 127,
+      "images": [
+        {
+          "file": "3D257555-0B6E-4371-8E15-95E54963BA62.JPG",
+          "alt": "Wordless three-panel comic. Two emperor penguins stand together, one with a chick at its feet. Zoom in under the other penguin's belly flap reveals a glowing doorway. Inside is a tiny gamer room where a penguin chick in a headset sits in a gaming chair at an RGB-lit PC and says \"WHAT'S UP?\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#gaming",
+        "#penguins"
+      ]
+    },
+    {
+      "id": 128,
+      "images": [
+        {
+          "file": "8220FEBB-2E1D-47DF-A6CE-6B9C469C8CBE.JPG",
+          "alt": "Screenshot of a tweet by hussy, @HOSTAGEKILLER, from 11/16/21: \"'I can fix him' No. you cant. The chemicals that make you want a baby are mixing with decades of microplastics in your brain\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#dating",
+        "#relationships"
+      ]
+    },
+    {
+      "id": 129,
+      "images": [
+        {
+          "file": "409365E4-2C79-4581-A988-4ACF3CB5A79C.JPG",
+          "alt": "Screenshot of a tweet by Amy A, @lolennui, from 5/22/24 with 538K views: \"Australian crime shows are like oh naurrr there's been a meerda\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#australia",
+        "#truecrime"
+      ]
+    },
+    {
+      "id": 130,
+      "images": [
+        {
+          "file": "3609C835-92AF-4CBC-991D-A3E9BEE613B1.JPG",
+          "alt": "Two-panel comic by @glasshouses. Two shocked boys at a computer: \"Bro... your Dad's search history\". Panel two shows the screen with a Google-like search list: \"What is rizz / Skibidi rizz / What is Skibidi rizz / Do I have rizz\" while one boy recoils in horror."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#parenting"
+      ]
+    },
+    {
+      "id": 131,
+      "images": [
+        {
+          "file": "00C0A19E-B50C-4E19-BA81-A281AB7B6738.JPG",
+          "alt": "Screenshot of a tweet by madison (top 0.1% on sudoku), @madsmotionless, white text on black: \"Therapy: $195/hr. Saying that's showbiz baby: free\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#humor",
+        "#mentalhealth"
+      ]
+    },
+    {
+      "id": 132,
+      "images": [
+        {
+          "file": "6E672450-8E4F-4CCD-8E8A-DAB6AD2A76AA.JPG",
+          "alt": "Screenshot of a tweet by drew janda, @drewjanda: \"Please stop raising awareness. There is too much. I have become too aware\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#humor"
+      ]
+    },
+    {
+      "id": 133,
+      "images": [
+        {
+          "file": "BF6AFDF0-4FAC-457A-8E2F-BCBE0FC1F5E0.JPG",
+          "alt": "Screenshot of a tweet by Jennifer McAuliffe, @JenniferJokes, from 12/3/15: \"Him: your so funny, smart & beautiful how are you still single. Me: *you're\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#grammar",
+        "#dating"
+      ]
+    },
+    {
+      "id": 134,
+      "images": [
+        {
+          "file": "F9F4DDCF-EE87-445A-B7E8-1F7FCB66F046.JPG",
+          "alt": "Screenshot of a tweet by Simon Holland, @simoncholland: \"I'm pretty bad at math until someone orders mozzarella sticks for the table.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#food",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 135,
+      "images": [
+        {
+          "file": "D5981887-EC71-4D10-A0A5-43095D763DBC.JPG",
+          "alt": "Photo of a plain white T-shirt printed with the words: \"Please be patient with me i'm from the 1900s\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#millennials",
+        "#genx"
+      ]
+    },
+    {
+      "id": 136,
+      "images": [
+        {
+          "file": "EA51A7FC-C02B-4945-B30A-6A7DE5310C29.JPG",
+          "alt": "Top: photo of a matte-black tiny home on wheels with a slanted, wedge-shaped front, looking exactly like the Jawas' sandcrawler from Star Wars. Bottom: a hooded Jawa with glowing eyes, edited into the 'Leonardo DiCaprio pointing' meme, holding a drink and pointing in recognition."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#starwars",
+        "#tinyhouse"
+      ]
+    },
+    {
+      "id": 137,
+      "images": [
+        {
+          "file": "F2F2A381-031F-481B-BA8D-2A05C2F88E7D.JPG",
+          "alt": "White serif text on black: \"Next time a stranger talks to you when you're alone, just look at them shocked and whisper. 'You can see me?'\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#ghosts",
+        "#creepy"
+      ]
+    },
+    {
+      "id": 138,
+      "images": [
+        {
+          "file": "B5B5BB3F-88E0-4A9B-98C9-0817CF10887C.PNG",
+          "alt": "Romantic 19th-century painting of a woman in a pink gown lounging in a hammock while a gentleman in a green coat leans in. His speech bubble: \"YOU TOLD ME YOU WERE INTERESTING\". Hers: \"I SAID I WAS 'INTO RESTING'\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#art",
+        "#puns"
+      ]
+    },
+    {
+      "id": 139,
+      "images": [
+        {
+          "file": "EB5381DE-090E-4DEB-86A0-EA5EE95009FF.JPG",
+          "alt": "Tweet by Mark Stephens, @MarksLarks: \"A short story about decisions.\" Photo of an open sliding door onto a snow-covered deck with exactly one small cat paw print in the snow, and nothing after it — the cat stepped out once and went straight back in."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#cats",
+        "#snow"
+      ]
+    },
+    {
+      "id": 140,
+      "images": [
+        {
+          "file": "IMG_2192.jpg",
+          "alt": "Two-panel comic by @beetlemoses. Cupped hands hold a tiny hamster in a rasta hat with dreadlocks: \"BRO, LOOK: MY HAMSTER IS RASTAFARIAN.\" A man in glasses with his face in his hand: \"I... DON'T THINK THAT'S ALLOWED.\" The hamster replies: \"SMALL UP YUHSELF, MI BRUDDA.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#hamsters"
+      ]
+    },
+    {
+      "id": 141,
+      "images": [
+        {
+          "file": "FC30483E-922A-45F6-BAC8-16AEAEEAB342.JPG",
+          "alt": "Caption: \"Fun Fact: Peru has many different varieties of potatoes\" above a photo of dozens of colorful heirloom potatoes in odd shapes, and a close-up of Samwise Gamgee from Lord of the Rings with the caption \"*Heavy Breathing*\"."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#lotr",
+        "#potatoes",
+        "#food"
+      ]
+    },
+    {
+      "id": 142,
+      "images": [
+        {
+          "file": "3E0009D3-2E2B-446D-9661-96E433E1B86B.JPG",
+          "alt": "Black-and-white single-panel cartoon: a speaker in academic robes addresses rows of graduates in mortarboards at a commencement ceremony. Caption: \"Let the example of my fluke success guide nearly all of you to crushing disappointment.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#comics",
+        "#graduation"
+      ]
+    },
+    {
+      "id": 143,
+      "images": [
+        {
+          "file": "DF4CFDE5-6C35-4770-9302-4564B98A70F2.JPG",
+          "alt": "Caption: \"Every picture from the E.T. ride at Universal Studios looks like he's destroying you in a rap battle\" above four photos of the animatronic E.T. making emphatic hand gestures like a battle rapper."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#movies",
+        "#80s",
+        "#hiphop"
+      ]
+    },
+    {
+      "id": 144,
+      "images": [
+        {
+          "file": "8EDD108A-0644-4241-8091-E4D2BA6A920D.JPG",
+          "alt": "Screenshot of a tweet by Rhys James, @rhysjamesy, from 11/03/2019: \"The only Fresh Prince remake I want to see is one that reveals that the 'couple of guys who were up to no good' which forced Will Smith to leave Philadelphia were Mac, Charlie and Dennis.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#iasip",
+        "#tv"
+      ]
+    },
+    {
+      "id": 145,
+      "images": [
+        {
+          "file": "41FC6E27-0E84-4B5E-A9B4-2E8262C01E03.JPG",
+          "alt": "Two stills from Seinfeld: Newman, in glasses and a postal jacket, leans toward a blonde woman and says \"I'll tell you a little secret about poorly cropped memes.\" The second panel is cropped so badly that it cuts off his face and the rest of the joke."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#seinfeld",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 146,
+      "images": [
+        {
+          "file": "0017950B-B510-44C5-BB9E-CDAC18BE9F9D.JPG",
+          "alt": "Screenshot of a tweet by jon drake, @DrakeGatsby: \"Personally if I was walking through the valley of the shadow of death I would fear some evil.\" A riff on Psalm 23 (\"I will fear no evil\")."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 147,
+      "images": [
+        {
+          "file": "05E0D6EE-A07A-442E-BF4E-B3F19FB8EF9F.JPG",
+          "alt": "Screenshot of a tweet by Ron Iver, @ronnui_: \"Me: Is the red one cherry or strawberry? Morpheus: That honestly should not matter right now.\" A reference to the red pill / blue pill choice in The Matrix."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#movies",
+        "#thematrix"
+      ]
+    },
+    {
+      "id": 148,
+      "images": [
+        {
+          "file": "0E8C3156-2A87-432D-8609-F7B17B995BA1.JPG",
+          "alt": "Screenshot of a tweet by Dad Jokes, @Dadsaysjokes: \"(At my boss's funeral kneeling and whispering at coffin) \"Who's thinking outside the box now Gary?\"\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#darkhumor",
+        "#dadjokes",
+        "#work"
+      ]
+    },
+    {
+      "id": 149,
+      "images": [
+        {
+          "file": "0FC80332-B37A-4513-830A-204EEEFD0C06.JPG",
+          "alt": "Screenshot of a tweet by Matt Margolis, @ItsMattsLaw: \"(angriest I've ever been in my life) ok sounds good\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#work"
+      ]
+    },
+    {
+      "id": 150,
+      "images": [
+        {
+          "file": "16PeUai.png",
+          "alt": "Screenshot of a tweet by toad, @thelifeoftoad (avatar is a cartoon frog): \"Oh sure let's blame the guy whose fault it is\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 151,
+      "images": [
+        {
+          "file": "2eckL3Y.jpeg",
+          "alt": "Screenshot of a tweet by temmie, @tuyoki: \"doing stuff is hard / shoutout to anyone who does anything\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#mentalhealth"
+      ]
+    },
+    {
+      "id": 152,
+      "images": [
+        {
+          "file": "3ED5B57D-2DB1-48E7-B173-E4AF45032DB9.JPG",
+          "alt": "Screenshot of a post by notseanastin: \"A visual representation of what it feels like to listen to RFK speak:\" Below is a cartoon close-up of Ren from Ren & Stimpy, bloodshot eyes and gritted teeth, being pressed cheek-first against a giant stubbly, bristly face. A jab at RFK Jr.'s raspy, strained voice."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#politics",
+        "#RFK",
+        "#cartoons"
+      ]
+    },
+    {
+      "id": 153,
+      "images": [
+        {
+          "file": "3F1BF381-1BF8-43B4-BF0D-2AB6DB36EEC1.JPG",
+          "alt": "Screenshot of a tweet by Keegan Osinski, AN UNMARRIED WO[MAN], @keegzzz: \"Where do mansplainers get their water / From a well, actually\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#puns"
+      ]
+    },
+    {
+      "id": 154,
+      "images": [
+        {
+          "file": "4DFC3D1C-1C3C-44BA-93C2-821AF965ADA6.JPG",
+          "alt": "Screenshot of a post by ajpikewrites, 8/9/26: \"I don't know why AI sloppers get so upset when we call it slop. It's not like we're insulting their work.\" Shows 24.8K likes."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#AI",
+        "#art"
+      ]
+    },
+    {
+      "id": 155,
+      "images": [
+        {
+          "file": "63483BB7-50C7-4C34-A4A0-EEAB0E9CB324.JPG",
+          "alt": "Screenshot of a Bluesky post by Frank Cvetkovic, @gofrankgo.bsky.social: \"Back in my day, AI used to stand for Adobe Illustrator! And we hated that, too!\" Below is Grandpa Abe Simpson angrily shaking his fist and waving a paper at a window."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#simpsons",
+        "#AI",
+        "#design"
+      ]
+    },
+    {
+      "id": 156,
+      "images": [
+        {
+          "file": "6HPRLYi.png",
+          "alt": "Screenshot of a post by bilalcynic: \"ok guys but imagine how hard it's gonna hit if something good ever happens again\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 157,
+      "images": [
+        {
+          "file": "7EL0iOW.jpeg",
+          "alt": "Four-panel comic. A frail old man in a top hat and tuxedo fans out playing cards to his adult son: \"PICK A CARD.\" As the son draws one, the old man clutches his chest: \"HRGH!!\" The son yells \"DAD!!\" holding the card, the queen of hearts. At the will reading, a lawyer reads: \"TO MY SON, I LEAVE... THE QUEEN OF HEARTS!\" and the son clutches his face in shock."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#darkhumor",
+        "#comics"
+      ]
+    },
+    {
+      "id": 158,
+      "images": [
+        {
+          "file": "7FC74590-A6EE-4D4A-AB7C-14562CA0AE58.JPG",
+          "alt": "Screenshot of a tweet by anja, @internetanja: \"i can deal with terms. but conditions? girl that's where i draw the line\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 159,
+      "images": [
+        {
+          "file": "8BDD4A0C-2707-47F5-8D62-10487D064E8E.JPG",
+          "alt": "Screenshot of a tweet by max wittert, @waxmittert: \"\"Omg this reminds me of you so much.\" - someone showing me something I fucking hate\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 160,
+      "images": [
+        {
+          "file": "9027597C-1EB0-44E6-8D3F-409162D8CEF9 (1).JPG",
+          "alt": "Screenshot of a tweet by jim rose circus, @jimrosecircus1: \"They should announce a sequel to Groundhog Day and then just re-release the original.\" Below is a still of Bill Murray as weatherman Phil Connors holding a microphone in front of the groundhog's \"PHIL\" tree stump."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#movies",
+        "#groundhogday"
+      ]
+    },
+    {
+      "id": 161,
+      "images": [
+        {
+          "file": "AA8138FA-28D1-49DE-87FD-AD830593DB31 (1).JPG",
+          "alt": "Screenshot of a tweet by slutty satanist™, @_garbage_girl_: \"if i die and come back as a hillbilly is that called reintarnation\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#puns"
+      ]
+    },
+    {
+      "id": 162,
+      "images": [
+        {
+          "file": "AC51ED3B-3436-4F5B-9DB0-25BA717BAE48.PNG",
+          "alt": "Caption: \"Friend: You can't possibly guess a wheel of fortune puzzle with no letters / Me:\" Below is a Wheel of Fortune board with four rows of completely blank white tiles and the category \"80's SONG LYRICS\", with Vanna White standing beside it."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#music",
+        "#80s"
+      ]
+    },
+    {
+      "id": 163,
+      "images": [
+        {
+          "file": "B557D1F5-41BB-4951-B190-7812967EFE11.JPG",
+          "alt": "Screenshot of a tweet by b, @doyalikebaileys: \"you can de-escalate any situation by simply saying \"are we about to kiss?\"\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 164,
+      "images": [
+        {
+          "file": "BC218AAC-A7ED-4CD6-80EC-C60B49522C29.JPG",
+          "alt": "Caption: \"a lil something to take the edge off\". A first-person photo of someone standing at the top edge of concrete steps in red clogs and white socks, holding up a big slice of layered carrot cake."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#food",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 165,
+      "images": [
+        {
+          "file": "CA81BF5F-A524-4C2D-91E0-C2D65115ECC8.JPG",
+          "alt": "Screenshot of a post by joshuaturek: \"This is the energy the entire AI industry gives off\". Below is a still of Will Arnett as Gob from Arrested Development, wide-eyed, with a knife clenched in his teeth and fanned playing cards in each hand."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#AI",
+        "#arresteddevelopment",
+        "#tv"
+      ]
+    },
+    {
+      "id": 166,
+      "images": [
+        {
+          "file": "D008925D-796F-4AA1-A00F-6F372E660B71.JPG",
+          "alt": "Screenshot of a tweet by linc, @lincnotfound: \"marketing: lets create a fun and exciting cereal / executive: okay, go on / marketing: it'll have cool colors and fruity flavors / executive: omg yes / marketing: and rabbits can fuck right off if they think they can have some\" A reference to the Trix cereal ads (\"Silly rabbit, Trix are for kids\")."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#nostalgia"
+      ]
+    },
+    {
+      "id": 167,
+      "images": [
+        {
+          "file": "EAC78382-DA40-4B93-ADF9-EE8585DD203E.JPG",
+          "alt": "Screenshot of a tweet by sam, @grillpill_: \"babe you wanna come over and read too far into each other's tone. you do? why'd you say it like that\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#relationships"
+      ]
+    },
+    {
+      "id": 168,
+      "images": [
+        {
+          "file": "EjJhqri.jpeg",
+          "alt": "Screenshot of a tweet by Rodney Lacroix, @RodLacroix: \"My wife crocheted this eyeglass holder and I'm okay with her continuing to make stuff like this.\" Below is a brown crocheted bear-face tray holding a pair of glasses, so the glasses become the bear's eyes above a cream snout and black nose."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#crochet",
+        "#crafts"
+      ]
+    },
+    {
+      "id": 169,
+      "images": [
+        {
+          "file": "FE5455BC-DBA2-45D4-B96E-9D885266EEF1.JPG",
+          "alt": "Screenshot of a tweet by p3arlly, @y0urhaunt3dgf: \"Public speaking is actually really easy if you don't respect a single soul in that room. I've had an incredibly easy time delivering speeches when I hated everybody I saw and they all thought I did amazing bc my disdain was read as confidence ( this is not a tip though )\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 170,
+      "images": [
+        {
+          "file": "iaUESLB.jpeg",
+          "alt": "Screenshot of a tweet by Comrade, @Comrade_SSR: \"A PhD is basically just making up a problem and then getting mad at that problem. # @PhDVoice @AcademicChatter\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#academia",
+        "#phdlife"
+      ]
+    },
+    {
+      "id": 171,
+      "images": [
+        {
+          "file": "IQJol7K.jpeg",
+          "alt": "White bold text on a black background: \"We've all been talking about how paranoid you are.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 172,
+      "images": [
+        {
+          "file": "KH81oUL.jpeg",
+          "alt": "Screenshot of a tweet by clare, @sadderlizards: \"i just need to get over everything that has happened to me in my entire life and then we can hang out\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#mentalhealth"
+      ]
+    },
+    {
+      "id": 173,
+      "images": [
+        {
+          "file": "lvUFBYm.jpeg",
+          "alt": "Screenshot of a tweet thread by Heather Hogan, @theheatherhogan: \"There's a couple breaking up so loudly on the sidewalk in front of my house! He said WHO ARE YOU GONNA TAKE TO YOUR SISTER'S WEDDING NEXT WEEKEND? She said MOZZARELLA STICKS! Which is a valid and devastating blow.\" Reply: \"Oh wait hang on. I think Mozzarella Sticks is the name of their dog. Either way, a fine alternative.\" Reply: \"Nope. The dog is named Trudy. She meant actual mozzarella sticks.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#food",
+        "#relationships"
+      ]
+    },
+    {
+      "id": 174,
+      "images": [
+        {
+          "file": "MqIMOlf.jpeg",
+          "alt": "Screenshot of a tweet by mattewe, @mattewe02: \"just melted five butterfingers together and made a butterfist\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#puns",
+        "#food"
+      ]
+    },
+    {
+      "id": 175,
+      "images": [
+        {
+          "file": "NjpxAZd.jpeg",
+          "alt": "Screenshot of a tweet by Brandy Jensen, @BrandyLJensen: \"some people just can't be believably cast in a period piece like sorry Jessica Biel you have a face that knows about text messaging\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#movies"
+      ]
+    },
+    {
+      "id": 176,
+      "images": [
+        {
+          "file": "qOs0yom.jpeg",
+          "alt": "Screenshot of a tweet by Shower Thoughts, @showerfeelings: \"\"Six ton monster with spikes and a giant tentacle growing out of its face\" sounds way creepier than elephants actually are.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#animals",
+        "#showerthoughts"
+      ]
+    },
+    {
+      "id": 177,
+      "images": [
+        {
+          "file": "TFeoXSp.jpeg",
+          "alt": "Screenshot of a tweet by bibo, @biboofficial: \"let a man talk about himself uninterrupted for 10 minutes and he'll be like \"wow i really like you\"\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#dating"
+      ]
+    },
+    {
+      "id": 178,
+      "images": [
+        {
+          "file": "tOzjEuY.jpeg",
+          "alt": "Screenshot of a tweet by Kevin Farzad, @KevinFarzad: \"It's already tonight?? What's next? Tomorrow??? Fuck this.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 179,
+      "images": [
+        {
+          "file": "U9ApZBA.jpeg",
+          "alt": "Screenshot of a tweet by Story, The Animist, @StoryTheAnimist: \"There is no power in the universe that can convince me Jack Black is not actually Dionysus who got bored and decided he wanted to kick it with humans for a few decades.\" Dionysus is the Greek god of wine and revelry."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#JackBlack",
+        "#mythology"
+      ]
+    },
+    {
+      "id": 180,
+      "images": [
+        {
+          "file": "vNDJW2M.jpeg",
+          "alt": "Screenshot of a tweet by Jeremy D. Larson, @jeremydlarson: \"Tons of names in my phones are \"Kenny Landlord\" and \"Mike Electric\" or \"Pete Do Not Answer\" and just realized this is how anglo surnames have always worked\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#History",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 181,
+      "images": [
+        {
+          "file": "vRFNyC9.jpeg",
+          "alt": "Tumblr post. Photo of a round white frosted cake decorated with a teal and purple zigzag squiggle, the classic 90s Solo cup pattern. Caption: \"I went to a 90s themed party last night\". Reply from piesandfalcs: \"it's a cup cake\". Reply from minty-me: \"You're too young if you don't know how good that pun truly is\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#90s",
+        "#nostalgia",
+        "#puns"
+      ]
+    },
+    {
+      "id": 182,
+      "images": [
+        {
+          "file": "Ywlx53d.jpeg",
+          "alt": "Screenshot of a tweet by Kristen Mulrooney, @missmulrooney: \"Every morning my 2 year old sits up in her bed and yells \"HELP, I WOKE UP\" and I think we can all relate\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#parenting"
+      ]
+    },
+    {
+      "id": 183,
+      "images": [
+        {
+          "file": "12261D77-7FED-46BC-8704-43CFCF826CA1.JPG",
+          "alt": "Screenshot of a tweet by Natalia Skrodzki, @xNatata: \"One of my biggest fears is that I'll marry into a family that runs 5ks on holidays\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable",
+        "#running"
+      ]
+    },
+    {
+      "id": 184,
+      "images": [
+        {
+          "file": "13F779E9-BBBD-46DA-9981-FD6240BEFFD5.JPG",
+          "alt": "Screenshot of a tweet by Mike Primavera, @primawesome: \"Whenever I'm trying to spell unnecessary I just hit n, c, and s until auto correct kisses me on the forehead and tells me to stop.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 185,
+      "images": [
+        {
+          "file": "15C022BD-D038-47AB-98E1-EC1ACA8F0494.JPG",
+          "alt": "Screenshot of a two-part Threads post by gnome_whisperer_: \"starting a non-profit called vapes4kidz\" followed by \"I know the name sounds bad but its a good cause. we will be giving vapes to children.\" The avatar is a startled-looking owl."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#darkhumor",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 186,
+      "images": [
+        {
+          "file": "2425FFBC-2ABF-41FD-BF18-2C61AC6DDFC1.JPG",
+          "alt": "Sepia photo looking down at someone's bare feet stretched out on a grassy, flowering clifftop above the sea with a crescent moon in the sky. Text: \"The horrors persist but so do libraries, books, iced coffee, sunsets, trees, the word 'fuck', the moon and the sea.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#books",
+        "#booksky"
+      ]
+    },
+    {
+      "id": 187,
+      "images": [
+        {
+          "file": "2E1EB84A-F704-484E-877C-24ADCD67C604.PNG",
+          "alt": "Text meme: \"me: *hits spider web down with broom* spider: wow me: *puts up fake spider web decorations for Halloween* spider: WOW\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#Halloween",
+        "#spiders"
+      ]
+    },
+    {
+      "id": 188,
+      "images": [
+        {
+          "file": "45C75E35-47D0-4D66-A62B-BF578A4E33C0.JPG",
+          "alt": "Screenshot of a Threads post by daftadelphia: \"Best way I've found to explain poverty to those who've never experienced it: Imagine if your phone battery only went up to 6%.\" Reply by paul_robinson: \"Also, everyone around you reminds you if it goes to 0%, Very Bad Things can happen, but they're totally chill because *their* phone goes to 27% or 41%, and politicians and people invited onto new shows insist that you're just not working hard enough while waving their phone that never drops below 100% they inherited from a great grandparent who stole it.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#politics",
+        "#poverty"
+      ]
+    },
+    {
+      "id": 189,
+      "images": [
+        {
+          "file": "5A3E7B04-5451-4D06-A131-6191D0E97669.PNG",
+          "alt": "Screenshot of a tweet by an pigeon, @imskytrash: \"what's your birthstone? mine is rock bottom\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#darkhumor",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 190,
+      "images": [
+        {
+          "file": "5B879428-6F2A-4A24-B233-9DF7B912409E.JPG",
+          "alt": "Three-panel Seinfeld meme in the diner. George Costanza, leaning in: \"Jerry, just remember:\" then \"True masculinity is making people around you feel safe, not afraid...\" Final panel: Jerry looks back at him, mildly surprised."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#seinfeld",
+        "#TV"
+      ]
+    },
+    {
+      "id": 191,
+      "images": [
+        {
+          "file": "6FF4794C-34DB-4C66-8FA2-C82521F13A83.JPG",
+          "alt": "Screenshot of a tweet by Dan Amira, @DanAmira: \"Can't believe the creators of the monster have lost control of the monster, is there any precedent for this in books or film\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#politics",
+        "#movies"
+      ]
+    },
+    {
+      "id": 192,
+      "images": [
+        {
+          "file": "7C47BB51-1294-4D78-829A-B2D739FBAC7B.JPG",
+          "alt": "Screenshot of a Tumblr post by gutpuker: \"\\\"there is something wrong with me\\\" would imply theres something right with other people. which i dont believe\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tumblr",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 193,
+      "images": [
+        {
+          "file": "ADADD7AE-8439-48FF-91F0-C04A5AE2DE04.JPG",
+          "alt": "Text post (positively rheumatoid): \"Them: You don't look sick. Me: This may shock you but most of my body is on the inside. Where you can't see it.\" A joke about invisible chronic illness."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#chronicillness",
+        "#disability"
+      ]
+    },
+    {
+      "id": 194,
+      "images": [
+        {
+          "file": "B7E38C06-4C27-4710-A37D-CCACCAE22A2B.JPG",
+          "alt": "Screenshot of a tweet by Mikey Carvajal, @Mikey_Carvajal: \"Root beer tastes the way Abraham Lincoln looks, and I can't explain that.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#History",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 195,
+      "images": [
+        {
+          "file": "BE3D20CB-5145-4390-AE26-18AAC7E56489.JPG",
+          "alt": "Screenshot of a post by bilalcynic: \"every few months i rediscover that drinking two liters of water a day, eating whole foods, and walking a lot feels good. but then comes the great forgetting\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 196,
+      "images": [
+        {
+          "file": "CB03720E-05E9-47EF-850C-B4BE594DA6F1.JPG",
+          "alt": "Text meme: \"U only get 782 chances with me bitch I don't tolerate shit\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 197,
+      "images": [
+        {
+          "file": "F0A99A77-2995-406E-8822-4DB3C775A1FD.JPG",
+          "alt": "Two-panel meme. Top: a man leaning in intently asks, \"You're a real PNG file, right?\" Bottom: a smiling woman on a transparent-background checkerboard pattern (a fake PNG) answers, \"Why would I deceive you?\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#tech",
+        "#design"
+      ]
+    },
+    {
+      "id": 198,
+      "images": [
+        {
+          "file": "F292E205-FF0F-44C7-BD11-F161344D7AA6.JPG",
+          "alt": "Screenshot of a tweet by Matt Somerstein, @MPSomerstein: \"can we get some a.i. to pick plastic out of the ocean or do all the robots need to be screenwriters?\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#AI",
+        "#movies"
+      ]
+    },
+    {
+      "id": 199,
+      "images": [
+        {
+          "file": "F6D06229-4274-4688-98B6-5D8316204D1D.JPG",
+          "alt": "Screenshot of a Tumblr thread. mintyton: \"Love is dead and never existed. All you did was betray me as I lay sick and festering. You are the definition of dread.\" the-starstruck-prince: \"Are you okay???\" mintyton: \"My cat stole my fuckign garlic bread\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#cats",
+        "#tumblr"
+      ]
+    },
+    {
+      "id": 200,
+      "images": [
+        {
+          "file": "16D15FBC-D4DE-4AF3-9FE1-18CC605C0F39.JPG",
+          "alt": "Screenshot of a tweet by Matt Margolis, @ItsMattsLaw: \"The trials, fine. But the tribulations?\" A play on the phrase \"trials and tribulations.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 201,
+      "images": [
+        {
+          "file": "75FBA051-0974-4D83-B3B4-F0F6B7825354.JPG",
+          "alt": "Screenshot of a tweet by trash jones, @jzux: \"adulthood is wild because one day you get a little sleepy and then you stay that way for the rest of your life\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 202,
+      "images": [
+        {
+          "file": "8CFFAEEE-8E41-411C-82C8-1B87B9F4579F.JPG",
+          "alt": "Screenshot of a tweet by Sarcastic, @Sarcastic_IG: \"are there other poses for scarecrows or is it just the one where he died for our sins?\" A joke comparing the arms-out scarecrow pose to a crucifixion."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 203,
+      "images": [
+        {
+          "file": "94CD2E84-D6AA-4C88-A25D-389C691F03CA.JPG",
+          "alt": "Screenshot of a tweet by @_sorrengailll: \"job applications are so stupid. \\\"what's ur desired salary?\\\" ten billion dollars next question\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#work",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 204,
+      "images": [
+        {
+          "file": "9790FD16-C7B0-40F1-A057-A219F11576F6.JPG",
+          "alt": "Bold black text on a white background: \"I'd rather drink the water from a tin of tuna than be asked to share a fun fact about myself at a team building activity at work\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#work",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 205,
+      "images": [
+        {
+          "file": "9E3A524E-6E9F-4CF3-BAFD-116E0B4F4E74.JPG",
+          "alt": "Screenshot of a tweet in dark mode by goshdarnedmemes, @goshdarnedmemes: \"You wake up, it's a chilly rainy day, breakfast is already made, you get up and eat with all the homies, maybe you'll read a book and hit the gym. You are in prison for 45 years with no chance of parole ❤️\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#darkhumor",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 206,
+      "images": [
+        {
+          "file": "AADF56EE-C55C-448E-93A6-6A083CB76FA6.JPG",
+          "alt": "Black text on a white background: \"9 min in the white van. Me: so what made y'all choose me\" A joke about being kidnapped and making awkward small talk with the kidnappers."
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#darkhumor",
+        "#shitpost"
+      ]
+    },
+    {
+      "id": 207,
+      "images": [
+        {
+          "file": "B228BF58-60FB-4219-A468-4BC0CEA1E50D.JPG",
+          "alt": "Screenshot of a tweet by Lars Meidell, @larsmeidell: \"Nutritionist: You're eating wrong. Dentist: You're brushing wrong. Trainer: You're lifting wrong. Wine store guy: Excellent choice.\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#wine",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 208,
+      "images": [
+        {
+          "file": "C27C9696-FB85-4163-ACD4-C116830B8D12.JPG",
+          "alt": "Screenshot of a tweet by merverelli, @merverelli: \"therapist: how are you me: im doing good therapist: thats good! what brings you here? me: im doing bad\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#mentalhealth",
+        "#relatable"
+      ]
+    },
+    {
+      "id": 209,
+      "images": [
+        {
+          "file": "F3491C42-3614-42C6-88FB-61F3E7B850A9.JPG",
+          "alt": "Screenshot of a tweet by Swishergirl, @Swishergirl24: \"\\\"This is a mistake\\\" -I whisper as I leave my house\""
+        }
+      ],
+      "hashtags": [
+        "#memes",
+        "#funny",
+        "#relatable"
+      ]
+    }
+  ],
+  "excluded": {
+    "_note": "Files in the memes folder that are deliberately NOT queued. The weekly check skips these.",
+    "files": [
+      "A8136F0B-D3D2-4CAC-BCC2-7BF89BFAFF5C.JPG",
+      "999D435B-FC70-4055-981F-37DA76D40DCF.JPG",
+      "99B42F47-2209-4945-9970-7FD37931DB19.JPG",
+      "CA03CDDC-DEF2-4253-AE7D-05A9891DFE4B (1).JPG",
+      "CEB67605-B3A8-4751-86DA-8028FF4717F5 (1).JPG"
+    ]
+  }
+}
