@@ -1,0 +1,758 @@
+[2026-10-06 11:38:19] Posted item 1 (DF4393FB-1016-4297-91C1-AB2954274AA5.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mx7r6ubfbb2l
+[2026-10-06 11:38:19] 166 memes left in the queue.
+[2026-10-06 12:26:08] Posted item 2 (90EF92F3-18C4-4E80-8D8F-A76A07463A3A.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mx7tudxrmk2e
+[2026-10-06 12:26:08] 143 memes left in the queue.
+[2026-10-06 15:59:20] Instagram connected: @2goat2gloat (id 17841460760533008).
+[2026-10-06 16:08:27] instagram: posted item 1 (DF4393FB-1016-4297-91C1-AB2954274AA5.JPG) -> 17921958162220900
+[2026-10-06 16:08:27] instagram: 144 memes left in the queue.
+[2026-10-06 16:09:22] bluesky: posted item 3 (86EC41B2-25D0-486D-89CB-6D596D180DE0.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxaadkupm627
+[2026-10-06 16:09:22] bluesky: 142 memes left in the queue.
+[2026-10-06 16:09:40] instagram: posted item 2 (90EF92F3-18C4-4E80-8D8F-A76A07463A3A.JPG) -> 17971927725171035
+[2026-10-06 16:09:40] instagram: 143 memes left in the queue.
+[2026-10-07 16:00:04] bluesky: posted item 4 (614AF3F1-2052-4F04-95ED-5439AAD076C3.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxcqbuirkg2q
+[2026-10-07 16:00:04] bluesky: 141 memes left in the queue.
+[2026-10-07 16:00:05] instagram: ERROR posting item 3 (86EC41B2-25D0-486D-89CB-6D596D180DE0.JPG): could not host the image for Instagram: litterbox: POST https://litterbox.catbox.moe/resources/internals/api.php failed: HTTP 500 <!doctype html><html lang="en"><meta charset="UTF-8"><meta content="nofollow,noarchive,noindex" name="robots"><title>500 | Internal Server Error</title><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="500 | Internal Server Error" name="title"><meta content="The request was not completed. The server met an unexpected condition." name="description"><meta content="500 | Internal Server Error" property="og:title"><; tmpfiles: POST https://tmpfiles.org/api/v1/upload failed: HTTP 403 error code: 1010
+
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 495, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 381, in ig_post
+    url = host_temporarily(jpeg, cfg)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 332, in host_temporarily
+    raise RuntimeError("could not host the image for Instagram: " + "; ".join(errors))
+RuntimeError: could not host the image for Instagram: litterbox: POST https://litterbox.catbox.moe/resources/internals/api.php failed: HTTP 500 <!doctype html><html lang="en"><meta charset="UTF-8"><meta content="nofollow,noarchive,noindex" name="robots"><title>500 | Internal Server Error</title><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="500 | Internal Server Error" name="title"><meta content="The request was not completed. The server met an unexpected condition." name="description"><meta content="500 | Internal Server Error" property="og:title"><; tmpfiles: POST https://tmpfiles.org/api/v1/upload failed: HTTP 403 error code: 1010
+
+[2026-10-08 16:00:04] bluesky: posted item 5 (18511543-5DDB-458D-8DB7-F79BE9363CAC.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxfaqry2z22b
+[2026-10-08 16:00:04] bluesky: 140 memes left in the queue.
+[2026-10-08 16:00:34] instagram: posted item 3 (86EC41B2-25D0-486D-89CB-6D596D180DE0.JPG) -> 18001010624808840
+[2026-10-08 16:00:34] instagram: 142 memes left in the queue.
+[2026-10-09 16:33:29] bluesky: posted item 6 (IMG_4625.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxht3guujx2y
+[2026-10-09 16:33:29] bluesky: 139 memes left in the queue.
+[2026-10-09 16:33:39] instagram: posted item 4 (614AF3F1-2052-4F04-95ED-5439AAD076C3.JPG) -> 18114853901046633
+[2026-10-09 16:33:39] instagram: 141 memes left in the queue.
+[2026-10-10 17:57:08] bluesky: posted item 7 (7A176BF1-9354-4EBB-975C-769F74B278E3.PNG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxki7vuyaa2w
+[2026-10-10 17:57:08] bluesky: 138 memes left in the queue.
+[2026-10-10 17:57:18] instagram: posted item 5 (18511543-5DDB-458D-8DB7-F79BE9363CAC.JPG) -> 17960660421237835
+[2026-10-10 17:57:18] instagram: 140 memes left in the queue.
+[2026-10-11 16:00:20] bluesky: posted item 8 (A3345D14-A1DC-479E-ABDA-1307F9850AB7.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxms5zvjo42w
+[2026-10-11 16:00:20] bluesky: 137 memes left in the queue.
+[2026-10-11 16:00:22] instagram: ERROR posting item 6 (IMG_4625.JPG): could not host the image for Instagram: litterbox: POST https://litterbox.catbox.moe/resources/internals/api.php failed: HTTP 500 <!doctype html><html lang="en"><meta charset="UTF-8"><meta content="nofollow,noarchive,noindex" name="robots"><title>500 | Internal Server Error</title><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="500 | Internal Server Error" name="title"><meta content="The request was not completed. The server met an unexpected condition." name="description"><meta content="500 | Internal Server Error" property="og:title"><; tmpfiles: POST https://tmpfiles.org/api/v1/upload failed: HTTP 403 error code: 1010
+
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 495, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 381, in ig_post
+    url = host_temporarily(jpeg, cfg)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 332, in host_temporarily
+    raise RuntimeError("could not host the image for Instagram: " + "; ".join(errors))
+RuntimeError: could not host the image for Instagram: litterbox: POST https://litterbox.catbox.moe/resources/internals/api.php failed: HTTP 500 <!doctype html><html lang="en"><meta charset="UTF-8"><meta content="nofollow,noarchive,noindex" name="robots"><title>500 | Internal Server Error</title><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="500 | Internal Server Error" name="title"><meta content="The request was not completed. The server met an unexpected condition." name="description"><meta content="500 | Internal Server Error" property="og:title"><; tmpfiles: POST https://tmpfiles.org/api/v1/upload failed: HTTP 403 error code: 1010
+
+[2026-10-12 17:28:15] bluesky: posted item 9 (04C77C1E-5FE1-4BB9-94EF-4DB495B909B9.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxphk66cq72y
+[2026-10-12 17:28:15] bluesky: 136 memes left in the queue.
+[2026-10-12 17:28:16] instagram: ERROR posting item 6 (IMG_4625.JPG): could not host the image for Instagram: litterbox: POST https://litterbox.catbox.moe/resources/internals/api.php failed: HTTP 500 <!doctype html><html lang="en"><meta charset="UTF-8"><meta content="nofollow,noarchive,noindex" name="robots"><title>500 | Internal Server Error</title><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="500 | Internal Server Error" name="title"><meta content="The request was not completed. The server met an unexpected condition." name="description"><meta content="500 | Internal Server Error" property="og:title"><; tmpfiles: POST https://tmpfiles.org/api/v1/upload failed: HTTP 403 error code: 1010
+
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 495, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 381, in ig_post
+    url = host_temporarily(jpeg, cfg)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 332, in host_temporarily
+    raise RuntimeError("could not host the image for Instagram: " + "; ".join(errors))
+RuntimeError: could not host the image for Instagram: litterbox: POST https://litterbox.catbox.moe/resources/internals/api.php failed: HTTP 500 <!doctype html><html lang="en"><meta charset="UTF-8"><meta content="nofollow,noarchive,noindex" name="robots"><title>500 | Internal Server Error</title><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="500 | Internal Server Error" name="title"><meta content="The request was not completed. The server met an unexpected condition." name="description"><meta content="500 | Internal Server Error" property="og:title"><; tmpfiles: POST https://tmpfiles.org/api/v1/upload failed: HTTP 403 error code: 1010
+
+[2026-10-13 19:15:24] bluesky: posted item 10 (E8B094AB-D778-40C6-989D-6B3891E77EBF.PNG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxs5yofze62w
+[2026-10-13 19:15:24] bluesky: 135 memes left in the queue.
+[2026-10-13 19:15:25] Instagram token refreshed (good for another 60 days).
+[2026-10-13 19:15:34] instagram: posted item 6 (IMG_4625.JPG) -> 18103796186574836
+[2026-10-13 19:15:34] instagram: 139 memes left in the queue.
+[2026-10-14 16:00:05] bluesky: posted item 11 (0E80CE12-9977-4986-8B90-F2B4855D7A90.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxudkdmprw2q
+[2026-10-14 16:00:05] bluesky: 134 memes left in the queue.
+[2026-10-14 16:00:59] instagram: posted item 7 (7A176BF1-9354-4EBB-975C-769F74B278E3.PNG) -> 18128644027697400
+[2026-10-14 16:00:59] instagram: 138 memes left in the queue.
+[2026-10-15 09:53:44] Note: Buffer's API didn't offer an alt-text field; X posts will go out without alt text.
+[2026-10-15 09:53:44] X: starting with the same meme as Bluesky (11 earlier memes skipped on X).
+[2026-10-15 09:53:44] X connected through Buffer: 2Goat2Gloat (channel 6ad0da7e778b240e2f18e937).
+[2026-10-15 09:55:16] x: posted item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG) -> sent to X via Buffer (post 6ad0db41c97177442bde166c)
+[2026-10-15 09:55:16] x: 133 memes left in the queue.
+[2026-10-15 09:59:16] tiktok: starting with the same meme as Bluesky (11 earlier memes skipped).
+[2026-10-15 09:59:16] TikTok connected through Buffer: 2goat2gloat (channel 6ad0dc1b778b240e2f18f488).
+[2026-10-15 09:59:36] tiktok: posted item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG) -> sent to TikTok via Buffer (post 6ad0dc3ecd335deaefef621e)
+[2026-10-15 09:59:36] tiktok: 133 memes left in the queue.
+[2026-10-15 10:37:55] facebook: starting with the same meme as Bluesky (11 earlier memes skipped).
+[2026-10-15 10:37:55] Facebook connected through Buffer: 2goat2gloat (channel 6ad0e529778b240e2f1975af).
+[2026-10-15 10:38:06] facebook: ERROR posting item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG): Buffer refused the Facebook post: Invalid post: Facebook posts require a type (post, story, or reel).
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 853, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 623, in facebook_post
+    pid = buffer_post_with_alt(cfg, item, paths, "facebook", "Facebook")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 611, in buffer_post_with_alt
+    raise RuntimeError(f"Buffer refused the {label} post: {res.get('message')}")
+RuntimeError: Buffer refused the Facebook post: Invalid post: Facebook posts require a type (post, story, or reel).
+[2026-10-15 10:39:06] facebook: ERROR posting item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG): Buffer refused the Facebook post: Invalid post: Facebook posts require a type (post, story, or reel).
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 853, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 623, in facebook_post
+    pid = buffer_post_with_alt(cfg, item, paths, "facebook", "Facebook")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 611, in buffer_post_with_alt
+    raise RuntimeError(f"Buffer refused the {label} post: {res.get('message')}")
+RuntimeError: Buffer refused the Facebook post: Invalid post: Facebook posts require a type (post, story, or reel).
+[2026-10-15 10:41:25] facebook: posted item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG) -> sent to Facebook via Buffer (post 6ad0e60f4ed96805c7c04000)
+[2026-10-15 10:41:25] facebook: 133 memes left in the queue.
+[2026-10-16 08:42:29] bluesky: posted item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mxylzpdqtp27
+[2026-10-16 08:42:29] bluesky: 133 memes left in the queue.
+[2026-10-16 08:42:42] instagram: posted item 8 (A3345D14-A1DC-479E-ABDA-1307F9850AB7.JPG) -> 18358350955247785
+[2026-10-16 08:42:42] instagram: 137 memes left in the queue.
+[2026-10-16 08:42:45] x: posted item 13 (12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG) -> sent to X via Buffer (post 6ad21bc463c879f95859c0ee)
+[2026-10-16 08:42:45] x: 132 memes left in the queue.
+[2026-10-16 08:42:56] tiktok: posted item 13 (12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG) -> sent to TikTok via Buffer (post 6ad21bc725d13dd62ee7a887)
+[2026-10-16 08:42:56] tiktok: 132 memes left in the queue.
+[2026-10-16 08:43:02] facebook: posted item 13 (12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG) -> sent to Facebook via Buffer (post 6ad21bd22fe657de6ea4d339)
+[2026-10-16 08:43:02] facebook: 132 memes left in the queue.
+[2026-10-16 16:00:02] bluesky: already posted today - nothing to do.
+[2026-10-16 16:00:02] instagram: already posted today - nothing to do.
+[2026-10-16 16:00:02] x: already posted today - nothing to do.
+[2026-10-16 16:00:02] tiktok: already posted today - nothing to do.
+[2026-10-16 16:00:02] facebook: already posted today - nothing to do.
+[2026-10-18 12:29:31] bluesky: posted item 13 (12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3my5znhijis2l
+[2026-10-18 12:29:31] bluesky: 132 memes left in the queue.
+[2026-10-18 12:29:43] instagram: posted item 9 (04C77C1E-5FE1-4BB9-94EF-4DB495B909B9.JPG) -> 17893857774681993
+[2026-10-18 12:29:43] instagram: 136 memes left in the queue.
+[2026-10-18 12:29:48] x: posted item 14 (9B8A88AE-CE1C-46C4-8BB6-3155BF42B572.JPG) -> sent to X via Buffer (post 6ad4f3f9938409f1d0db3a23)
+[2026-10-18 12:29:48] x: 131 memes left in the queue.
+[2026-10-18 12:30:00] tiktok: posted item 14 (9B8A88AE-CE1C-46C4-8BB6-3155BF42B572.JPG) -> sent to TikTok via Buffer (post 6ad4f3fd0b0d72757a2e2911)
+[2026-10-18 12:30:00] tiktok: 131 memes left in the queue.
+[2026-10-18 12:30:08] facebook: posted item 14 (9B8A88AE-CE1C-46C4-8BB6-3155BF42B572.JPG) -> sent to Facebook via Buffer (post 6ad4f409a48c8f8371a6a96a)
+[2026-10-18 12:30:08] facebook: 131 memes left in the queue.
+[2026-10-19 08:17:22] bluesky: posted item 14 (9B8A88AE-CE1C-46C4-8BB6-3155BF42B572.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mya3zk3wxc27
+[2026-10-19 08:17:22] bluesky: 131 memes left in the queue.
+[2026-10-19 08:18:31] instagram: posted item 10 (E8B094AB-D778-40C6-989D-6B3891E77EBF.PNG) -> 18627898777042104
+[2026-10-19 08:18:31] instagram: 135 memes left in the queue.
+[2026-10-19 08:18:35] x: posted item 15 (0CD9CE6F-134B-4489-965E-4932476E251E.JPG) -> sent to X via Buffer (post 6ad60a992dab63998e87afcd)
+[2026-10-19 08:18:35] x: 130 memes left in the queue.
+[2026-10-19 08:18:47] tiktok: posted item 15 (0CD9CE6F-134B-4489-965E-4932476E251E.JPG) -> sent to TikTok via Buffer (post 6ad60a9d7a42a610a511d8cf)
+[2026-10-19 08:18:47] tiktok: 130 memes left in the queue.
+[2026-10-19 08:18:54] facebook: posted item 15 (0CD9CE6F-134B-4489-965E-4932476E251E.JPG) -> sent to Facebook via Buffer (post 6ad60aaae0cb711786f7987e)
+[2026-10-19 08:18:54] facebook: 130 memes left in the queue.
+[2026-10-19 20:28:07] bluesky: already posted today - nothing to do.
+[2026-10-19 20:28:07] instagram: already posted today - nothing to do.
+[2026-10-19 20:28:07] x: already posted today - nothing to do.
+[2026-10-19 20:28:07] tiktok: already posted today - nothing to do.
+[2026-10-19 20:28:07] facebook: already posted today - nothing to do.
+[2026-10-20 16:00:05] bluesky: posted item 15 (0CD9CE6F-134B-4489-965E-4932476E251E.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mydgdtto5z2o
+[2026-10-20 16:00:05] bluesky: 167 memes left in the queue.
+[2026-10-20 16:00:20] instagram: posted item 11 (0E80CE12-9977-4986-8B90-F2B4855D7A90.JPG) -> 18098392355397315
+[2026-10-20 16:00:20] instagram: 171 memes left in the queue.
+[2026-10-20 16:00:24] x: posted item 16 (5106AC2D-7051-4E8E-981E-F8D3D1E6C86D.JPG) -> sent to X via Buffer (post 6ad7c856f5dcb31b88ddba7e)
+[2026-10-20 16:00:24] x: 166 memes left in the queue.
+[2026-10-20 16:00:36] tiktok: posted item 16 (5106AC2D-7051-4E8E-981E-F8D3D1E6C86D.JPG) -> sent to TikTok via Buffer (post 6ad7c85aad4f0ba79c51fad7)
+[2026-10-20 16:00:36] tiktok: 166 memes left in the queue.
+[2026-10-20 16:00:53] facebook: posted item 16 (5106AC2D-7051-4E8E-981E-F8D3D1E6C86D.JPG) -> sent to Facebook via Buffer (post 6ad7c86bf5dcb31b88ddc505)
+[2026-10-20 16:00:53] facebook: 166 memes left in the queue.
+[2026-10-21 16:00:06] bluesky: posted item 16 (5106AC2D-7051-4E8E-981E-F8D3D1E6C86D.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myfwsrayc62b
+[2026-10-21 16:00:06] bluesky: 166 memes left in the queue.
+[2026-10-21 16:00:06] Instagram token refreshed (good for another 60 days).
+[2026-10-21 16:00:17] instagram: posted item 12 (385A67E5-D9BE-4281-89A4-62215B90201D.JPG) -> 17973187278191574
+[2026-10-21 16:00:17] instagram: 170 memes left in the queue.
+[2026-10-21 16:00:22] x: posted item 17 (E0C0C62B-4E5B-49D1-A006-B61AEA22D24B.JPG) -> sent to X via Buffer (post 6ad919d4d79cb60bb039aea4)
+[2026-10-21 16:00:22] x: 165 memes left in the queue.
+[2026-10-21 16:00:34] tiktok: posted item 17 (E0C0C62B-4E5B-49D1-A006-B61AEA22D24B.JPG) -> sent to TikTok via Buffer (post 6ad919d8c21668bfe51a2d88)
+[2026-10-21 16:00:34] tiktok: 165 memes left in the queue.
+[2026-10-21 16:00:46] facebook: posted item 17 (E0C0C62B-4E5B-49D1-A006-B61AEA22D24B.JPG) -> sent to Facebook via Buffer (post 6ad919e4b945508d3f8467e4)
+[2026-10-21 16:00:46] facebook: 165 memes left in the queue.
+[2026-10-22 16:10:40] bluesky: posted item 17 (E0C0C62B-4E5B-49D1-A006-B61AEA22D24B.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myihunfcgd2w
+[2026-10-22 16:10:40] bluesky: 165 memes left in the queue.
+[2026-10-22 16:10:41] instagram: ERROR posting item 13 (12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG): <urlopen error [Errno 11004] getaddrinfo failed>
+Traceback (most recent call last):
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1472, in connect
+    super().connect()
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 841, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 855, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 409, in ig_post
+    container = api.post(f"{user_id}/media", image_url=url, caption=caption,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 373, in post
+    return json.loads(http("POST", f"{self.base}/{path}",
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 112, in http
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11004] getaddrinfo failed>
+[2026-10-22 16:10:45] x: posted item 18 (BBDD7DD1-83F7-40A1-B507-541945127577.JPG) -> sent to X via Buffer (post 6ada6dc39a872e86219ff8e8)
+[2026-10-22 16:10:45] x: 164 memes left in the queue.
+[2026-10-22 16:10:56] tiktok: posted item 18 (BBDD7DD1-83F7-40A1-B507-541945127577.JPG) -> sent to TikTok via Buffer (post 6ada6dc680b62e6575045adc)
+[2026-10-22 16:10:56] tiktok: 164 memes left in the queue.
+[2026-10-22 16:11:01] facebook: posted item 18 (BBDD7DD1-83F7-40A1-B507-541945127577.JPG) -> sent to Facebook via Buffer (post 6ada6dd29a872e86219ffa90)
+[2026-10-22 16:11:01] facebook: 164 memes left in the queue.
+[2026-10-23 17:42:40] bluesky: posted item 18 (BBDD7DD1-83F7-40A1-B507-541945127577.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myl5hzrsjb25
+[2026-10-23 17:42:40] bluesky: 164 memes left in the queue.
+[2026-10-23 17:42:51] instagram: posted item 13 (12C6F916-1B0F-4A12-B993-C5C27BEF9CAF.JPG) -> 18230438329333133
+[2026-10-23 17:42:51] instagram: 169 memes left in the queue.
+[2026-10-23 17:42:54] x: posted item 19 (543D77F1-5193-47A0-BEC9-CB5CCDB98872.JPG) -> sent to X via Buffer (post 6adbd4dc3d5b27036b52d3af)
+[2026-10-23 17:42:54] x: 163 memes left in the queue.
+[2026-10-23 17:43:06] tiktok: posted item 19 (543D77F1-5193-47A0-BEC9-CB5CCDB98872.JPG) -> sent to TikTok via Buffer (post 6adbd4df0b5343d070503bdd)
+[2026-10-23 17:43:06] tiktok: 163 memes left in the queue.
+[2026-10-23 17:43:11] facebook: posted item 19 (543D77F1-5193-47A0-BEC9-CB5CCDB98872.JPG) -> sent to Facebook via Buffer (post 6adbd4ebe4be8a4d86288a60)
+[2026-10-23 17:43:11] facebook: 163 memes left in the queue.
+[2026-10-24 10:55:50] bluesky: catching up 1 missed memes (items 19-19), one every 60 minutes.
+[2026-10-24 10:55:50] instagram: catching up 6 missed memes (items 14-19), one every 60 minutes.
+[2026-10-24 10:55:52] bluesky: catch-up posted item 19 (1/1) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mymx7k6fnd24
+[2026-10-24 10:56:04] instagram: catch-up posted item 14 (1/6) -> 18048174908815827
+[2026-10-24 11:56:18] instagram: catch-up posted item 15 (2/6) -> 18125041429908801
+[2026-10-24 16:17:38] bluesky: posted item 20 (4B885A32-E12B-4273-B222-679E5425E736.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mynj6wappe2q
+[2026-10-24 16:17:38] bluesky: 162 memes left in the queue.
+[2026-10-24 16:18:38] instagram: posted item 16 (5106AC2D-7051-4E8E-981E-F8D3D1E6C86D.JPG) -> 18108151706255266
+[2026-10-24 16:18:38] instagram: 166 memes left in the queue.
+[2026-10-24 16:18:42] x: posted item 20 (4B885A32-E12B-4273-B222-679E5425E736.JPG) -> sent to X via Buffer (post 6add12a1e4be8a4d86776505)
+[2026-10-24 16:18:42] x: 162 memes left in the queue.
+[2026-10-24 16:18:54] tiktok: posted item 20 (4B885A32-E12B-4273-B222-679E5425E736.JPG) -> sent to TikTok via Buffer (post 6add12a58b3d437ddcd7dd33)
+[2026-10-24 16:18:54] tiktok: 162 memes left in the queue.
+[2026-10-24 16:19:01] facebook: posted item 20 (4B885A32-E12B-4273-B222-679E5425E736.JPG) -> sent to Facebook via Buffer (post 6add12b18b3d437ddcd7df1d)
+[2026-10-24 16:19:01] facebook: 162 memes left in the queue.
+[2026-10-24 17:39:56] instagram: catch-up posted item 17 (4/6) -> 18113239685619810
+[2026-10-25 08:49:48] instagram: catch-up posted item 18 (5/6) -> 17953367424311921
+[2026-10-25 12:02:41] instagram: catch-up posted item 19 (6/6) -> 18199712845381239
+[2026-10-25 12:02:41] Catch-up finished - all accounts are in step.
+[2026-10-25 16:34:03] bluesky: posted item 21 (CF726981-68A9-407D-990A-F6122C5BE3A8.PNG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myq2l5dunp2t
+[2026-10-25 16:34:03] bluesky: 161 memes left in the queue.
+[2026-10-25 16:34:44] instagram: posted item 20 (4B885A32-E12B-4273-B222-679E5425E736.JPG) -> 18113072035877663
+[2026-10-25 16:34:44] instagram: 162 memes left in the queue.
+[2026-10-25 16:34:48] x: posted item 21 (CF726981-68A9-407D-990A-F6122C5BE3A8.PNG) -> sent to X via Buffer (post 6ade67e6e4be8a4d86c6a70e)
+[2026-10-25 16:34:48] x: 161 memes left in the queue.
+[2026-10-25 16:34:59] tiktok: posted item 21 (CF726981-68A9-407D-990A-F6122C5BE3A8.PNG) -> sent to TikTok via Buffer (post 6ade67e98b3d437ddc27d539)
+[2026-10-25 16:34:59] tiktok: 161 memes left in the queue.
+[2026-10-25 16:35:05] facebook: posted item 21 (CF726981-68A9-407D-990A-F6122C5BE3A8.PNG) -> sent to Facebook via Buffer (post 6ade67f4e4be8a4d86c6aa39)
+[2026-10-25 16:35:05] facebook: 161 memes left in the queue.
+[2026-10-26 16:00:04] bluesky: posted item 22 (FA5FA772-8B32-426A-AA19-C6F094139B44.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mysj5dcidf2r
+[2026-10-26 16:00:05] bluesky: 160 memes left in the queue.
+[2026-10-26 16:00:17] instagram: posted item 21 (CF726981-68A9-407D-990A-F6122C5BE3A8.PNG) -> 18198747832386713
+[2026-10-26 16:00:17] instagram: 161 memes left in the queue.
+[2026-10-26 16:00:23] x: posted item 22 (FA5FA772-8B32-426A-AA19-C6F094139B44.JPG) -> sent to X via Buffer (post 6adfb153ddcf56f1d39754b3)
+[2026-10-26 16:00:23] x: 160 memes left in the queue.
+[2026-10-26 16:00:36] tiktok: posted item 22 (FA5FA772-8B32-426A-AA19-C6F094139B44.JPG) -> sent to TikTok via Buffer (post 6adfb159cb109ba5d2843d82)
+[2026-10-26 16:00:36] tiktok: 160 memes left in the queue.
+[2026-10-26 16:00:49] facebook: posted item 22 (FA5FA772-8B32-426A-AA19-C6F094139B44.JPG) -> sent to Facebook via Buffer (post 6adfb166419fee619ae6baa3)
+[2026-10-26 16:00:49] facebook: 160 memes left in the queue.
+[2026-10-27 16:00:05] bluesky: posted item 23 (C2DDEB7C-C691-43FB-AB58-7D26039BD13C.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myuzmb2or22b
+[2026-10-27 16:00:05] bluesky: 159 memes left in the queue.
+[2026-10-27 16:00:19] instagram: posted item 22 (FA5FA772-8B32-426A-AA19-C6F094139B44.JPG) -> 18074468456784232
+[2026-10-27 16:00:19] instagram: 160 memes left in the queue.
+[2026-10-27 16:00:23] x: posted item 23 (C2DDEB7C-C691-43FB-AB58-7D26039BD13C.JPG) -> sent to X via Buffer (post 6ae102d4e8126ef614204dd9)
+[2026-10-27 16:00:23] x: 159 memes left in the queue.
+[2026-10-27 16:00:35] tiktok: posted item 23 (C2DDEB7C-C691-43FB-AB58-7D26039BD13C.JPG) -> sent to TikTok via Buffer (post 6ae102d8bdb7bfdd34232005)
+[2026-10-27 16:00:35] tiktok: 159 memes left in the queue.
+[2026-10-27 16:00:46] facebook: posted item 23 (C2DDEB7C-C691-43FB-AB58-7D26039BD13C.JPG) -> sent to Facebook via Buffer (post 6ae102e42d6ce6e7b6e02d95)
+[2026-10-27 16:00:46] facebook: 159 memes left in the queue.
+[2026-10-28 16:00:07] bluesky: posted item 24 (B36EC032-B669-4E3B-AEA8-096D3DB562C7.PNG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3myxk3a374f2q
+[2026-10-28 16:00:07] bluesky: 158 memes left in the queue.
+[2026-10-28 16:00:08] Instagram token refreshed (good for another 60 days).
+[2026-10-28 16:00:22] instagram: posted item 23 (C2DDEB7C-C691-43FB-AB58-7D26039BD13C.JPG) -> 18125896123919255
+[2026-10-28 16:00:22] instagram: 159 memes left in the queue.
+[2026-10-28 16:00:26] x: posted item 24 (B36EC032-B669-4E3B-AEA8-096D3DB562C7.PNG) -> sent to X via Buffer (post 6ae254573e779512a883d18c)
+[2026-10-28 16:00:26] x: 158 memes left in the queue.
+[2026-10-28 16:00:37] tiktok: posted item 24 (B36EC032-B669-4E3B-AEA8-096D3DB562C7.PNG) -> sent to TikTok via Buffer (post 6ae2545a787994b5227a981c)
+[2026-10-28 16:00:37] tiktok: 158 memes left in the queue.
+[2026-10-28 16:00:49] facebook: posted item 24 (B36EC032-B669-4E3B-AEA8-096D3DB562C7.PNG) -> sent to Facebook via Buffer (post 6ae254663e779512a883dc8b)
+[2026-10-28 16:00:49] facebook: 158 memes left in the queue.
+[2026-10-29 16:00:04] bluesky: posted item 25 (9E452B3A-9D43-4AF0-B057-E37C1A5B866B.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mz22k5256l2t
+[2026-10-29 16:00:05] bluesky: 157 memes left in the queue.
+[2026-10-29 16:00:18] instagram: posted item 24 (B36EC032-B669-4E3B-AEA8-096D3DB562C7.PNG) -> 18239809075319780
+[2026-10-29 16:00:18] instagram: 158 memes left in the queue.
+[2026-10-29 16:00:22] x: posted item 25 (9E452B3A-9D43-4AF0-B057-E37C1A5B866B.JPG) -> sent to X via Buffer (post 6ae3a5d51026f5c4e0c0fa6f)
+[2026-10-29 16:00:22] x: 157 memes left in the queue.
+[2026-10-29 16:00:35] tiktok: posted item 25 (9E452B3A-9D43-4AF0-B057-E37C1A5B866B.JPG) -> sent to TikTok via Buffer (post 6ae3a5d91026f5c4e0c0fdeb)
+[2026-10-29 16:00:35] tiktok: 157 memes left in the queue.
+[2026-10-29 16:00:47] facebook: posted item 25 (9E452B3A-9D43-4AF0-B057-E37C1A5B866B.JPG) -> sent to Facebook via Buffer (post 6ae3a5e602b1fcfd3e17a362)
+[2026-10-29 16:00:47] facebook: 157 memes left in the queue.
+[2026-10-30 16:00:05] bluesky: posted item 26 (D82EF600-FAFD-44A9-B931-2CCF1344FDBD.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mz4kz2ehp22w
+[2026-10-30 16:00:05] bluesky: 156 memes left in the queue.
+[2026-10-30 16:00:26] instagram: posted item 25 (9E452B3A-9D43-4AF0-B057-E37C1A5B866B.JPG) -> 18078154265462044
+[2026-10-30 16:00:26] instagram: 157 memes left in the queue.
+[2026-10-30 16:00:31] x: posted item 26 (D82EF600-FAFD-44A9-B931-2CCF1344FDBD.JPG) -> sent to X via Buffer (post 6ae4f75c1891472093950410)
+[2026-10-30 16:00:31] x: 156 memes left in the queue.
+[2026-10-30 16:00:43] tiktok: posted item 26 (D82EF600-FAFD-44A9-B931-2CCF1344FDBD.JPG) -> sent to TikTok via Buffer (post 6ae4f761fc1ac02b6ed9af64)
+[2026-10-30 16:00:43] tiktok: 156 memes left in the queue.
+[2026-10-30 16:00:51] facebook: posted item 26 (D82EF600-FAFD-44A9-B931-2CCF1344FDBD.JPG) -> sent to Facebook via Buffer (post 6ae4f76cfc1ac02b6ed9bdc1)
+[2026-10-30 16:00:51] facebook: 156 memes left in the queue.
+[2026-10-31 16:00:04] bluesky: posted item 27 (4E0E496F-A55B-40FC-A040-D236006284C7.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mz73hvq5cg2m
+[2026-10-31 16:00:04] bluesky: 155 memes left in the queue.
+[2026-10-31 16:00:18] instagram: posted item 26 (D82EF600-FAFD-44A9-B931-2CCF1344FDBD.JPG) -> 18134101214505852
+[2026-10-31 16:00:18] instagram: 156 memes left in the queue.
+[2026-10-31 16:00:23] x: posted item 27 (4E0E496F-A55B-40FC-A040-D236006284C7.JPG) -> sent to X via Buffer (post 6ae648d31ee172cd6dbdfbed)
+[2026-10-31 16:00:23] x: 155 memes left in the queue.
+[2026-10-31 16:00:35] tiktok: posted item 27 (4E0E496F-A55B-40FC-A040-D236006284C7.JPG) -> sent to TikTok via Buffer (post 6ae648d821c807e9d5813f96)
+[2026-10-31 16:00:35] tiktok: 155 memes left in the queue.
+[2026-10-31 16:00:46] facebook: posted item 27 (4E0E496F-A55B-40FC-A040-D236006284C7.JPG) -> sent to Facebook via Buffer (post 6ae648e51ee172cd6dbe0346)
+[2026-10-31 16:00:46] facebook: 155 memes left in the queue.
+[2026-11-01 18:41:19] bluesky: posted item 28 (D18FF211-55F7-486E-AE6A-FBD2A6F2FD33.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzbyciixek2t
+[2026-11-01 18:41:19] bluesky: 154 memes left in the queue.
+[2026-11-01 18:41:33] instagram: posted item 27 (4E0E496F-A55B-40FC-A040-D236006284C7.JPG) -> 18376640410242558
+[2026-11-01 18:41:33] instagram: 155 memes left in the queue.
+[2026-11-01 18:41:37] x: posted item 28 (D18FF211-55F7-486E-AE6A-FBD2A6F2FD33.JPG) -> sent to X via Buffer (post 6ae7ce2e902c3fb1dec34bd1)
+[2026-11-01 18:41:37] x: 154 memes left in the queue.
+[2026-11-01 18:41:48] tiktok: posted item 28 (D18FF211-55F7-486E-AE6A-FBD2A6F2FD33.JPG) -> sent to TikTok via Buffer (post 6ae7ce31d016796999f8a46d)
+[2026-11-01 18:41:48] tiktok: 154 memes left in the queue.
+[2026-11-01 18:41:55] facebook: posted item 28 (D18FF211-55F7-486E-AE6A-FBD2A6F2FD33.JPG) -> sent to Facebook via Buffer (post 6ae7ce3e779ee9f13cc01a65)
+[2026-11-01 18:41:55] facebook: 154 memes left in the queue.
+[2026-11-02 15:00:07] bluesky: posted item 29 (A7E111EE-ADE2-40BD-89E5-424A7C33F00A.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mze4fs5u4e2a
+[2026-11-02 15:00:07] bluesky: 153 memes left in the queue.
+[2026-11-02 15:00:22] instagram: posted item 28 (D18FF211-55F7-486E-AE6A-FBD2A6F2FD33.JPG) -> 18114698663274671
+[2026-11-02 15:00:22] instagram: 154 memes left in the queue.
+[2026-11-02 15:00:29] x: posted item 29 (A7E111EE-ADE2-40BD-89E5-424A7C33F00A.JPG) -> sent to X via Buffer (post 6ae8ebda4efbf4f5475fb64d)
+[2026-11-02 15:00:29] x: 153 memes left in the queue.
+[2026-11-02 15:00:43] tiktok: posted item 29 (A7E111EE-ADE2-40BD-89E5-424A7C33F00A.JPG) -> sent to TikTok via Buffer (post 6ae8ebe002371b91fa513a53)
+[2026-11-02 15:00:43] tiktok: 153 memes left in the queue.
+[2026-11-02 15:00:56] facebook: posted item 29 (A7E111EE-ADE2-40BD-89E5-424A7C33F00A.JPG) -> sent to Facebook via Buffer (post 6ae8ebed02371b91fa514226)
+[2026-11-02 15:00:56] facebook: 153 memes left in the queue.
+[2026-11-03 15:00:06] bluesky: posted item 30 (B464E8D6-248F-4006-9B91-987E95100A55.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzgmuqzgvc2b
+[2026-11-03 15:00:06] bluesky: 169 memes left in the queue.
+[2026-11-03 15:00:18] instagram: posted item 29 (A7E111EE-ADE2-40BD-89E5-424A7C33F00A.JPG) -> 18112821881155694
+[2026-11-03 15:00:18] instagram: 170 memes left in the queue.
+[2026-11-03 15:00:22] x: posted item 30 (B464E8D6-248F-4006-9B91-987E95100A55.JPG) -> sent to X via Buffer (post 6aea3d545fa3d509fa3dafb0)
+[2026-11-03 15:00:22] x: 169 memes left in the queue.
+[2026-11-03 15:00:34] tiktok: posted item 30 (B464E8D6-248F-4006-9B91-987E95100A55.JPG) -> sent to TikTok via Buffer (post 6aea3d58b3ec15847385aa4e)
+[2026-11-03 15:00:34] tiktok: 169 memes left in the queue.
+[2026-11-03 15:00:41] facebook: posted item 30 (B464E8D6-248F-4006-9B91-987E95100A55.JPG) -> sent to Facebook via Buffer (post 6aea3d64343beca74f09f2e2)
+[2026-11-03 15:00:41] facebook: 169 memes left in the queue.
+[2026-11-04 15:01:43] bluesky: posted item 31 (2C719645-579E-45D8-BD9B-A10A571EB5FA.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzj5gkc4yy2j
+[2026-11-04 15:01:43] bluesky: 168 memes left in the queue.
+[2026-11-04 15:01:56] instagram: posted item 30 (B464E8D6-248F-4006-9B91-987E95100A55.JPG) -> 18103668176550939
+[2026-11-04 15:01:57] instagram: 169 memes left in the queue.
+[2026-11-04 15:02:00] x: posted item 31 (2C719645-579E-45D8-BD9B-A10A571EB5FA.JPG) -> sent to X via Buffer (post 6aeb8f368aec178794a3ba0f)
+[2026-11-04 15:02:00] x: 168 memes left in the queue.
+[2026-11-04 15:02:12] tiktok: posted item 31 (2C719645-579E-45D8-BD9B-A10A571EB5FA.JPG) -> sent to TikTok via Buffer (post 6aeb8f3960e67ef1d1cbd18f)
+[2026-11-04 15:02:12] tiktok: 168 memes left in the queue.
+[2026-11-04 15:02:19] facebook: posted item 31 (2C719645-579E-45D8-BD9B-A10A571EB5FA.JPG) -> sent to Facebook via Buffer (post 6aeb8f45a101dc5e7730d5a9)
+[2026-11-04 15:02:19] facebook: 168 memes left in the queue.
+[2026-11-05 16:00:03] bluesky: posted item 32 (AD14F764-CACB-4437-85A6-2A0044C118B0.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzlr5rvete22
+[2026-11-05 16:00:03] bluesky: 167 memes left in the queue.
+[2026-11-05 16:00:04] Instagram token refreshed (good for another 60 days).
+[2026-11-05 16:00:14] instagram: posted item 31 (2C719645-579E-45D8-BD9B-A10A571EB5FA.JPG) -> 18131575747871334
+[2026-11-05 16:00:14] instagram: 168 memes left in the queue.
+[2026-11-05 16:00:22] x: posted item 32 (AD14F764-CACB-4437-85A6-2A0044C118B0.JPG) -> sent to X via Buffer (post 6aecee6194067731a41f6442)
+[2026-11-05 16:00:22] x: 167 memes left in the queue.
+[2026-11-05 16:00:34] tiktok: posted item 32 (AD14F764-CACB-4437-85A6-2A0044C118B0.JPG) -> sent to TikTok via Buffer (post 6aecee66cf99e575e90befdd)
+[2026-11-05 16:00:34] tiktok: 167 memes left in the queue.
+[2026-11-05 16:00:45] facebook: posted item 32 (AD14F764-CACB-4437-85A6-2A0044C118B0.JPG) -> sent to Facebook via Buffer (post 6aecee725a4f8c0d3fa51e03)
+[2026-11-05 16:00:45] facebook: 167 memes left in the queue.
+[2026-11-06 16:00:04] bluesky: posted item 33 (CA43E564-3960-404B-9910-0EEFC20EF07E.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzobmri6bj25
+[2026-11-06 16:00:04] bluesky: 166 memes left in the queue.
+[2026-11-06 16:00:17] instagram: posted item 32 (AD14F764-CACB-4437-85A6-2A0044C118B0.JPG) -> 18110666723627672
+[2026-11-06 16:00:17] instagram: 167 memes left in the queue.
+[2026-11-06 16:00:21] x: posted item 33 (CA43E564-3960-404B-9910-0EEFC20EF07E.JPG) -> sent to X via Buffer (post 6aee3fe3229bf05daf0ce7fe)
+[2026-11-06 16:00:21] x: 166 memes left in the queue.
+[2026-11-06 16:00:33] tiktok: posted item 33 (CA43E564-3960-404B-9910-0EEFC20EF07E.JPG) -> sent to TikTok via Buffer (post 6aee3fe7a7751de7c9a97a61)
+[2026-11-06 16:00:33] tiktok: 166 memes left in the queue.
+[2026-11-06 16:00:39] facebook: posted item 33 (CA43E564-3960-404B-9910-0EEFC20EF07E.JPG) -> sent to Facebook via Buffer (post 6aee3ff3a7751de7c9a98c4f)
+[2026-11-06 16:00:39] facebook: 166 memes left in the queue.
+[2026-11-07 16:37:32] bluesky: posted item 34 (4ED41A09-0196-4346-A0F8-759D5CF38BF9.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzqu6nvndq2h
+[2026-11-07 16:37:32] bluesky: 165 memes left in the queue.
+[2026-11-07 16:37:44] instagram: posted item 33 (CA43E564-3960-404B-9910-0EEFC20EF07E.JPG) -> 17996203710073247
+[2026-11-07 16:37:44] instagram: 166 memes left in the queue.
+[2026-11-07 16:37:48] x: posted item 34 (4ED41A09-0196-4346-A0F8-759D5CF38BF9.JPG) -> sent to X via Buffer (post 6aef9a29562f2e6de9810435)
+[2026-11-07 16:37:48] x: 165 memes left in the queue.
+[2026-11-07 16:37:59] tiktok: posted item 34 (4ED41A09-0196-4346-A0F8-759D5CF38BF9.JPG) -> sent to TikTok via Buffer (post 6aef9a2c229bf05daf760c8a)
+[2026-11-07 16:37:59] tiktok: 165 memes left in the queue.
+[2026-11-07 16:38:05] facebook: posted item 34 (4ED41A09-0196-4346-A0F8-759D5CF38BF9.JPG) -> sent to Facebook via Buffer (post 6aef9a38d6bbae6fa1b0fc7d)
+[2026-11-07 16:38:05] facebook: 165 memes left in the queue.
+[2026-11-08 16:32:45] bluesky: posted item 35 (6A3A5789-1FD2-434E-AA31-2F434598C336.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzteezutel2b
+[2026-11-08 16:32:45] bluesky: 164 memes left in the queue.
+[2026-11-08 16:32:58] instagram: posted item 34 (4ED41A09-0196-4346-A0F8-759D5CF38BF9.JPG) -> 18116801789171401
+[2026-11-08 16:32:58] instagram: 165 memes left in the queue.
+[2026-11-08 16:33:02] x: posted item 35 (6A3A5789-1FD2-434E-AA31-2F434598C336.JPG) -> sent to X via Buffer (post 6af0ea8b004e4879a7e0eb2f)
+[2026-11-08 16:33:02] x: 164 memes left in the queue.
+[2026-11-08 16:33:14] tiktok: posted item 35 (6A3A5789-1FD2-434E-AA31-2F434598C336.JPG) -> sent to TikTok via Buffer (post 6af0ea909214322f687a5be7)
+[2026-11-08 16:33:14] tiktok: 164 memes left in the queue.
+[2026-11-08 16:33:24] facebook: posted item 35 (6A3A5789-1FD2-434E-AA31-2F434598C336.JPG) -> sent to Facebook via Buffer (post 6af0ea9d9214322f687a5da2)
+[2026-11-08 16:33:24] facebook: 164 memes left in the queue.
+[2026-11-09 16:00:05] bluesky: posted item 36 (64C92837-A133-428F-8077-B917BF67B9DF.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzvszjlh462f
+[2026-11-09 16:00:05] bluesky: 163 memes left in the queue.
+[2026-11-09 16:00:19] instagram: posted item 35 (6A3A5789-1FD2-434E-AA31-2F434598C336.JPG) -> 18148868635572298
+[2026-11-09 16:00:19] instagram: 164 memes left in the queue.
+[2026-11-09 16:00:27] x: posted item 36 (64C92837-A133-428F-8077-B917BF67B9DF.JPG) -> sent to X via Buffer (post 6af23464a5835b9ab5b8ca24)
+[2026-11-09 16:00:27] x: 163 memes left in the queue.
+[2026-11-09 16:00:39] tiktok: posted item 36 (64C92837-A133-428F-8077-B917BF67B9DF.JPG) -> sent to TikTok via Buffer (post 6af2346cba863ca7a14988fd)
+[2026-11-09 16:00:39] tiktok: 163 memes left in the queue.
+[2026-11-09 16:00:46] facebook: posted item 36 (64C92837-A133-428F-8077-B917BF67B9DF.JPG) -> sent to Facebook via Buffer (post 6af2347818d54f7e0dd04812)
+[2026-11-09 16:00:46] facebook: 163 memes left in the queue.
+[2026-11-10 16:00:04] bluesky: posted item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3mzydigy2og2l
+[2026-11-10 16:00:04] bluesky: 172 memes left in the queue.
+[2026-11-10 16:00:16] instagram: posted item 36 (64C92837-A133-428F-8077-B917BF67B9DF.JPG) -> 18175535524455877
+[2026-11-10 16:00:16] instagram: 173 memes left in the queue.
+[2026-11-10 16:00:21] x: posted item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG) -> sent to X via Buffer (post 6af385e391300263f77f89f1)
+[2026-11-10 16:00:21] x: 172 memes left in the queue.
+[2026-11-10 16:00:33] tiktok: posted item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG) -> sent to TikTok via Buffer (post 6af385e7d302743b715ff66f)
+[2026-11-10 16:00:33] tiktok: 172 memes left in the queue.
+[2026-11-10 16:00:45] facebook: posted item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG) -> sent to Facebook via Buffer (post 6af385f34cc2b37f6a10b61c)
+[2026-11-10 16:00:45] facebook: 172 memes left in the queue.
+[2026-11-12 16:00:02] bluesky: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 272, in bsky_post
+    prepared = [bsky_prepare_image(p) for p in paths]
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 206, in bsky_prepare_image
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-12 16:00:02] instagram: ERROR posting item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 413, in ig_post
+    jpeg, _ = ig_prepare_image(paths[0])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 296, in ig_prepare_image
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-12 16:00:02] x: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 640, in x_post
+    return x_post_via_buffer(cfg, item, paths)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 625, in x_post_via_buffer
+    pid = buffer_post_with_alt(cfg, item, paths, "x", "X")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 583, in buffer_post_with_alt
+    urls = [host_temporarily(to_jpeg(p), cfg, keep="12h")
+                             ^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 531, in to_jpeg
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-12 16:00:02] tiktok: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 566, in tiktok_post
+    urls = [host_temporarily(tiktok_prepare(p), cfg, keep="12h") for p in paths[:35]]
+                             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 546, in tiktok_prepare
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-12 16:00:02] facebook: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 632, in facebook_post
+    pid = buffer_post_with_alt(cfg, item, paths, "facebook", "Facebook")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 583, in buffer_post_with_alt
+    urls = [host_temporarily(to_jpeg(p), cfg, keep="12h")
+                             ^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 531, in to_jpeg
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-13 08:31:55] bluesky: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 272, in bsky_post
+    prepared = [bsky_prepare_image(p) for p in paths]
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 206, in bsky_prepare_image
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-13 08:31:56] Instagram token refreshed (good for another 60 days).
+[2026-11-13 08:31:56] instagram: ERROR posting item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 413, in ig_post
+    jpeg, _ = ig_prepare_image(paths[0])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 296, in ig_prepare_image
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-13 08:31:56] x: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 640, in x_post
+    return x_post_via_buffer(cfg, item, paths)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 625, in x_post_via_buffer
+    pid = buffer_post_with_alt(cfg, item, paths, "x", "X")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 583, in buffer_post_with_alt
+    urls = [host_temporarily(to_jpeg(p), cfg, keep="12h")
+                             ^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 531, in to_jpeg
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-13 08:31:56] tiktok: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 566, in tiktok_post
+    urls = [host_temporarily(tiktok_prepare(p), cfg, keep="12h") for p in paths[:35]]
+                             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 546, in tiktok_prepare
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-13 08:31:56] facebook: ERROR posting item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG): No module named 'PIL'
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 632, in facebook_post
+    pid = buffer_post_with_alt(cfg, item, paths, "facebook", "Facebook")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 583, in buffer_post_with_alt
+    urls = [host_temporarily(to_jpeg(p), cfg, keep="12h")
+                             ^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 531, in to_jpeg
+    from PIL import Image, ImageOps
+ModuleNotFoundError: No module named 'PIL'
+[2026-11-13 08:34:21] bluesky: posted item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n273y7edmy25
+[2026-11-13 08:34:21] bluesky: 171 memes left in the queue.
+[2026-11-13 08:34:34] instagram: posted item 37 (BA095669-8636-4891-8390-9664D5F4A061.JPG) -> 17910693585330372
+[2026-11-13 08:34:34] instagram: 172 memes left in the queue.
+[2026-11-13 08:34:38] x: posted item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG) -> sent to X via Buffer (post 6af711eb22fdd0eb2eda48e9)
+[2026-11-13 08:34:38] x: 171 memes left in the queue.
+[2026-11-13 08:34:49] tiktok: posted item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG) -> sent to TikTok via Buffer (post 6af711ef49bae9df2d0b479c)
+[2026-11-13 08:34:49] tiktok: 171 memes left in the queue.
+[2026-11-13 08:34:55] facebook: posted item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG) -> sent to Facebook via Buffer (post 6af711fa1cbca7cd9c3b364f)
+[2026-11-13 08:34:55] facebook: 171 memes left in the queue.
+[2026-11-13 16:00:01] bluesky: already posted today - nothing to do.
+[2026-11-13 16:00:01] instagram: already posted today - nothing to do.
+[2026-11-13 16:00:01] x: already posted today - nothing to do.
+[2026-11-13 16:00:01] tiktok: already posted today - nothing to do.
+[2026-11-13 16:00:01] facebook: already posted today - nothing to do.
+[2026-11-13 19:36:21] bluesky: already posted today - nothing to do.
+[2026-11-13 19:36:21] instagram: already posted today - nothing to do.
+[2026-11-13 19:36:21] x: already posted today - nothing to do.
+[2026-11-13 19:36:21] tiktok: already posted today - nothing to do.
+[2026-11-13 19:36:21] facebook: already posted today - nothing to do.
+[2026-11-14 16:00:04] bluesky: posted item 39 (B2498891-DFD9-4CE8-BD91-2319D73162A6.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2cfe4ojgo2o
+[2026-11-14 16:00:04] bluesky: 170 memes left in the queue.
+[2026-11-14 16:00:22] instagram: posted item 38 (9FB97AE9-DAEA-4576-AB03-5B4FDF007340.JPG) -> 18205399384375861
+[2026-11-14 16:00:22] instagram: 171 memes left in the queue.
+[2026-11-14 16:00:27] x: posted item 39 (B2498891-DFD9-4CE8-BD91-2319D73162A6.JPG) -> sent to X via Buffer (post 6af8cbe8c5b364e0621782b9)
+[2026-11-14 16:00:27] x: 170 memes left in the queue.
+[2026-11-14 16:00:39] tiktok: posted item 39 (B2498891-DFD9-4CE8-BD91-2319D73162A6.JPG) -> sent to TikTok via Buffer (post 6af8cbede5a113497aa9f62b)
+[2026-11-14 16:00:39] tiktok: 170 memes left in the queue.
+[2026-11-14 16:00:52] facebook: posted item 39 (B2498891-DFD9-4CE8-BD91-2319D73162A6.JPG) -> sent to Facebook via Buffer (post 6af8cbf9e5a113497aaa0cd8)
+[2026-11-14 16:00:52] facebook: 170 memes left in the queue.
+[2026-11-14 17:00:02] bluesky: already posted today - nothing to do.
+[2026-11-14 17:00:02] instagram: already posted today - nothing to do.
+[2026-11-14 17:00:02] x: already posted today - nothing to do.
+[2026-11-14 17:00:02] tiktok: already posted today - nothing to do.
+[2026-11-14 17:00:02] facebook: already posted today - nothing to do.
+[2026-11-14 18:00:02] bluesky: already posted today - nothing to do.
+[2026-11-14 18:00:02] instagram: already posted today - nothing to do.
+[2026-11-14 18:00:02] x: already posted today - nothing to do.
+[2026-11-14 18:00:02] tiktok: already posted today - nothing to do.
+[2026-11-14 18:00:02] facebook: already posted today - nothing to do.
+[2026-11-14 19:00:02] bluesky: already posted today - nothing to do.
+[2026-11-14 19:00:02] instagram: already posted today - nothing to do.
+[2026-11-14 19:00:02] x: already posted today - nothing to do.
+[2026-11-14 19:00:02] tiktok: already posted today - nothing to do.
+[2026-11-14 19:00:02] facebook: already posted today - nothing to do.
+[2026-11-14 22:33:57] bluesky: already posted today - nothing to do.
+[2026-11-14 22:33:57] instagram: already posted today - nothing to do.
+[2026-11-14 22:33:57] x: already posted today - nothing to do.
+[2026-11-14 22:33:57] tiktok: already posted today - nothing to do.
+[2026-11-14 22:33:57] facebook: already posted today - nothing to do.
+[2026-11-15 18:01:20] bluesky: posted item 40 (FDD18404-2E2E-45FA-A169-983E7321F4AF.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2f4lvhnwv2r
+[2026-11-15 18:01:20] bluesky: 169 memes left in the queue.
+[2026-11-15 18:01:33] instagram: posted item 39 (B2498891-DFD9-4CE8-BD91-2319D73162A6.JPG) -> 17930225415426387
+[2026-11-15 18:01:33] instagram: 170 memes left in the queue.
+[2026-11-15 18:01:37] x: posted item 40 (FDD18404-2E2E-45FA-A169-983E7321F4AF.JPG) -> sent to X via Buffer (post 6afa39cfdaa378ad689b27b4)
+[2026-11-15 18:01:37] x: 169 memes left in the queue.
+[2026-11-15 18:01:48] tiktok: posted item 40 (FDD18404-2E2E-45FA-A169-983E7321F4AF.JPG) -> sent to TikTok via Buffer (post 6afa39d2daa378ad689b2900)
+[2026-11-15 18:01:48] tiktok: 169 memes left in the queue.
+[2026-11-15 18:01:53] facebook: posted item 40 (FDD18404-2E2E-45FA-A169-983E7321F4AF.JPG) -> sent to Facebook via Buffer (post 6afa39ddff465c57daba3bab)
+[2026-11-15 18:01:53] facebook: 169 memes left in the queue.
+[2026-11-16 16:00:04] bluesky: posted item 41 (95B03D68-50C3-4B9D-8F52-ED63B18E31F6.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2hgbxutl625
+[2026-11-16 16:00:04] bluesky: 168 memes left in the queue.
+[2026-11-16 16:00:14] instagram: posted item 40 (FDD18404-2E2E-45FA-A169-983E7321F4AF.JPG) -> 17916186129555801
+[2026-11-16 16:00:14] instagram: 169 memes left in the queue.
+[2026-11-16 16:00:27] x: posted item 41 (95B03D68-50C3-4B9D-8F52-ED63B18E31F6.JPG) -> sent to X via Buffer (post 6afb6ee32b3e825373d56d04)
+[2026-11-16 16:00:27] x: 168 memes left in the queue.
+[2026-11-16 16:00:45] tiktok: posted item 41 (95B03D68-50C3-4B9D-8F52-ED63B18E31F6.JPG) -> sent to TikTok via Buffer (post 6afb6ef02b3e825373d5871e)
+[2026-11-16 16:00:45] tiktok: 168 memes left in the queue.
+[2026-11-16 16:00:59] facebook: posted item 41 (95B03D68-50C3-4B9D-8F52-ED63B18E31F6.JPG) -> sent to Facebook via Buffer (post 6afb6eff614de19dc07764a0)
+[2026-11-16 16:00:59] facebook: 168 memes left in the queue.
+[2026-11-16 17:00:02] bluesky: already posted today - nothing to do.
+[2026-11-16 17:00:02] instagram: already posted today - nothing to do.
+[2026-11-16 17:00:02] x: already posted today - nothing to do.
+[2026-11-16 17:00:02] tiktok: already posted today - nothing to do.
+[2026-11-16 17:00:02] facebook: already posted today - nothing to do.
+[2026-11-16 18:00:02] bluesky: already posted today - nothing to do.
+[2026-11-16 18:00:02] instagram: already posted today - nothing to do.
+[2026-11-16 18:00:02] x: already posted today - nothing to do.
+[2026-11-16 18:00:02] tiktok: already posted today - nothing to do.
+[2026-11-16 18:00:02] facebook: already posted today - nothing to do.
+[2026-11-16 19:00:02] bluesky: already posted today - nothing to do.
+[2026-11-16 19:00:02] instagram: already posted today - nothing to do.
+[2026-11-16 19:00:02] x: already posted today - nothing to do.
+[2026-11-16 19:00:02] tiktok: already posted today - nothing to do.
+[2026-11-16 19:00:02] facebook: already posted today - nothing to do.
+[2026-11-16 22:02:30] bluesky: already posted today - nothing to do.
+[2026-11-16 22:02:30] instagram: already posted today - nothing to do.
+[2026-11-16 22:02:30] x: already posted today - nothing to do.
+[2026-11-16 22:02:30] tiktok: already posted today - nothing to do.
+[2026-11-16 22:02:30] facebook: already posted today - nothing to do.
+[2026-11-17 16:00:04] bluesky: posted item 42 (F19C3228-093B-406D-B2E6-D1E69D751300.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2jwqvs6342o
+[2026-11-17 16:00:04] bluesky: 167 memes left in the queue.
+[2026-11-17 16:00:19] instagram: posted item 41 (95B03D68-50C3-4B9D-8F52-ED63B18E31F6.JPG) -> 18104853410640767
+[2026-11-17 16:00:19] instagram: 168 memes left in the queue.
+[2026-11-17 16:00:23] x: posted item 42 (F19C3228-093B-406D-B2E6-D1E69D751300.JPG) -> sent to X via Buffer (post 6afcc065953f4c1b18bdbd03)
+[2026-11-17 16:00:23] x: 167 memes left in the queue.
+[2026-11-17 16:00:35] tiktok: posted item 42 (F19C3228-093B-406D-B2E6-D1E69D751300.JPG) -> sent to TikTok via Buffer (post 6afcc068953f4c1b18bdc4e6)
+[2026-11-17 16:00:35] tiktok: 167 memes left in the queue.
+[2026-11-17 16:00:44] facebook: posted item 42 (F19C3228-093B-406D-B2E6-D1E69D751300.JPG) -> sent to Facebook via Buffer (post 6afcc075ea84dfa92546a79f)
+[2026-11-17 16:00:44] facebook: 167 memes left in the queue.
+[2026-11-17 17:00:02] bluesky: already posted today - nothing to do.
+[2026-11-17 17:00:02] instagram: already posted today - nothing to do.
+[2026-11-17 17:00:02] x: already posted today - nothing to do.
+[2026-11-17 17:00:02] tiktok: already posted today - nothing to do.
+[2026-11-17 17:00:02] facebook: already posted today - nothing to do.
+[2026-11-17 20:58:52] bluesky: already posted today - nothing to do.
+[2026-11-17 20:58:52] instagram: already posted today - nothing to do.
+[2026-11-17 20:58:52] x: already posted today - nothing to do.
+[2026-11-17 20:58:52] tiktok: already posted today - nothing to do.
+[2026-11-17 20:58:52] facebook: already posted today - nothing to do.
+[2026-11-18 17:17:44] bluesky: posted item 43 (5092BF1A-751F-4D47-8B72-EEED871277E2.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2mlkokxmn2o
+[2026-11-18 17:17:44] bluesky: 166 memes left in the queue.
+[2026-11-18 17:17:54] instagram: posted item 42 (F19C3228-093B-406D-B2E6-D1E69D751300.JPG) -> 18146363110718921
+[2026-11-18 17:17:54] instagram: 167 memes left in the queue.
+[2026-11-18 17:17:58] x: posted item 43 (5092BF1A-751F-4D47-8B72-EEED871277E2.JPG) -> sent to X via Buffer (post 6afe2414c462756e9e21f3fd)
+[2026-11-18 17:17:58] x: 166 memes left in the queue.
+[2026-11-18 17:18:10] tiktok: posted item 43 (5092BF1A-751F-4D47-8B72-EEED871277E2.JPG) -> sent to TikTok via Buffer (post 6afe2418ebd4409dc9fcaf70)
+[2026-11-18 17:18:10] tiktok: 166 memes left in the queue.
+[2026-11-18 17:18:17] facebook: posted item 43 (5092BF1A-751F-4D47-8B72-EEED871277E2.JPG) -> sent to Facebook via Buffer (post 6afe2424c69bd1cb888755ec)
+[2026-11-18 17:18:17] facebook: 166 memes left in the queue.
+[2026-11-18 18:17:44] bluesky: already posted today - nothing to do.
+[2026-11-18 18:17:44] instagram: already posted today - nothing to do.
+[2026-11-18 18:17:44] x: already posted today - nothing to do.
+[2026-11-18 18:17:44] tiktok: already posted today - nothing to do.
+[2026-11-18 18:17:44] facebook: already posted today - nothing to do.
+[2026-11-18 21:46:08] bluesky: already posted today - nothing to do.
+[2026-11-18 21:46:08] instagram: already posted today - nothing to do.
+[2026-11-18 21:46:08] x: already posted today - nothing to do.
+[2026-11-18 21:46:08] tiktok: already posted today - nothing to do.
+[2026-11-18 21:46:08] facebook: already posted today - nothing to do.
+[2026-11-19 16:00:04] bluesky: posted item 44 (4A277D28-5CCE-4A30-A8ED-FAFC61353ECF.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2oxopucha2r
+[2026-11-19 16:00:04] bluesky: 165 memes left in the queue.
+[2026-11-19 16:00:17] instagram: posted item 43 (5092BF1A-751F-4D47-8B72-EEED871277E2.JPG) -> 18149074486583762
+[2026-11-19 16:00:17] instagram: 166 memes left in the queue.
+[2026-11-19 16:00:23] x: posted item 44 (4A277D28-5CCE-4A30-A8ED-FAFC61353ECF.JPG) -> sent to X via Buffer (post 6aff6364d606779a4df8c15a)
+[2026-11-19 16:00:23] x: 165 memes left in the queue.
+[2026-11-19 16:00:35] tiktok: posted item 44 (4A277D28-5CCE-4A30-A8ED-FAFC61353ECF.JPG) -> sent to TikTok via Buffer (post 6aff63688ec824f4cebe522d)
+[2026-11-19 16:00:35] tiktok: 165 memes left in the queue.
+[2026-11-19 16:00:46] facebook: posted item 44 (4A277D28-5CCE-4A30-A8ED-FAFC61353ECF.JPG) -> sent to Facebook via Buffer (post 6aff6374d606779a4df8d391)
+[2026-11-19 16:00:46] facebook: 165 memes left in the queue.
+[2026-11-19 17:00:02] bluesky: already posted today - nothing to do.
+[2026-11-19 17:00:02] instagram: already posted today - nothing to do.
+[2026-11-19 17:00:02] x: already posted today - nothing to do.
+[2026-11-19 17:00:02] tiktok: already posted today - nothing to do.
+[2026-11-19 17:00:02] facebook: already posted today - nothing to do.
+[2026-11-19 18:00:02] bluesky: already posted today - nothing to do.
+[2026-11-19 18:00:02] instagram: already posted today - nothing to do.
+[2026-11-19 18:00:02] x: already posted today - nothing to do.
+[2026-11-19 18:00:02] tiktok: already posted today - nothing to do.
+[2026-11-19 18:00:02] facebook: already posted today - nothing to do.
+[2026-11-19 21:29:43] bluesky: already posted today - nothing to do.
+[2026-11-19 21:29:43] instagram: already posted today - nothing to do.
+[2026-11-19 21:29:43] x: already posted today - nothing to do.
+[2026-11-19 21:29:43] tiktok: already posted today - nothing to do.
+[2026-11-19 21:29:43] facebook: already posted today - nothing to do.
+[2026-11-20 16:00:04] bluesky: posted item 45 (6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2ri5p4snu2b
+[2026-11-20 16:00:04] bluesky: 164 memes left in the queue.
+[2026-11-20 16:00:05] Instagram token refreshed (good for another 60 days).
+[2026-11-20 16:00:19] instagram: posted item 44 (4A277D28-5CCE-4A30-A8ED-FAFC61353ECF.JPG) -> 17970934200211155
+[2026-11-20 16:00:19] instagram: 165 memes left in the queue.
+[2026-11-20 16:15:58] x: posted item 45 (6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG) -> sent to X via Buffer (post 6b00b88d20a2d09a0aaf4d6c)
+[2026-11-20 16:15:58] x: 164 memes left in the queue.
+[2026-11-20 16:16:10] tiktok: ERROR posting item 45 (6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG): Buffer refused the TikTok post: Invalid post: Image could not be read from its URL.
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 574, in tiktok_post
+    raise RuntimeError(f"Buffer refused the TikTok post: {res.get('message')}")
+RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be read from its URL.
+[2026-11-20 16:16:17] facebook: posted item 45 (6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG) -> sent to Facebook via Buffer (post 6b00b89d5102766245d335a7)
+[2026-11-20 16:16:17] facebook: 164 memes left in the queue.
+[2026-11-20 17:00:02] bluesky: already posted today - nothing to do.
+[2026-11-20 17:00:02] instagram: already posted today - nothing to do.
+[2026-11-20 17:00:02] x: already posted today - nothing to do.
+[2026-11-20 17:00:15] tiktok: ERROR posting item 45 (6295ABE5-8FCD-4472-ACAC-282C3315F49E.JPG): Buffer refused the TikTok post: Invalid post: Image could not be read from its URL.
+Traceback (most recent call last):
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 925, in main
+    ref = POSTERS[p](cfg, item, paths)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\worki\Dropbox\xVault Temp\memes\_bluesky_poster\post_meme.py", line 574, in tiktok_post
+    raise RuntimeError(f"Buffer refused the TikTok post: {res.get('message')}")
+RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be read from its URL.
+[2026-11-20 17:00:15] facebook: already posted today - nothing to do.
+[2026-11-20 20:22:14] bluesky: already posted today - nothing to do.
+[2026-11-20 20:22:14] instagram: already posted today - nothing to do.
+[2026-11-20 20:22:14] x: already posted today - nothing to do.
