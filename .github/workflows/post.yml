@@ -2,10 +2,11 @@ name: Post daily meme
 
 on:
   schedule:
-    # 4 PM New York time. Two entries cover both EST and EDT; the gate below
-    # drops the one that lands at 3 PM, and the script never posts twice a day.
-    - cron: "0 20 * * *"
-    - cron: "0 21 * * *"
+    # ~4 PM New York time, plus backup slots in case GitHub drops or delays a
+    # scheduled run. The gate below skips anything before 4 PM New York time or
+    # once today's meme is out, and the script never posts twice a day.
+    - cron: "7 20,21,22,23 * * *"
+    - cron: "37 21,22,23 * * *"
     # Tuesday morning: copy new memes from Dropbox into _inbox for the Tuesday job.
     - cron: "0 13 * * 2"
   workflow_dispatch:
@@ -45,7 +46,17 @@ jobs:
             if [ "${{ github.event.schedule }}" = "0 13 * * 2" ]; then
               echo "mode=fetchnew" >> "$GITHUB_OUTPUT"
             elif [ "$(date +%H)" -ge 16 ]; then
-              echo "mode=post" >> "$GITHUB_OUTPUT"
+              if python3 -c "
+          import json, datetime, sys
+          t = datetime.date.today().isoformat()
+          q = json.load(open('_bluesky_poster/queue.json', encoding='utf-8-sig'))
+          f = {'bluesky': 'posted_at', 'instagram': 'ig_posted_at', 'x': 'x_posted_at', 'tiktok': 'tt_posted_at', 'facebook': 'fb_posted_at'}
+          done = all(any(str(i.get(k) or '').startswith(t) and not i.get(p + '_catchup') for i in q['items']) for p, k in f.items())
+          sys.exit(0 if done else 1)"; then
+                echo "Today's meme is already out everywhere."; echo "mode=none" >> "$GITHUB_OUTPUT"
+              else
+                echo "mode=post" >> "$GITHUB_OUTPUT"
+              fi
             else
               echo "It's $(date +%H:%M) in New York - waiting for the 4 PM run."; echo "mode=none" >> "$GITHUB_OUTPUT"
             fi
