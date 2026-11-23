@@ -71,7 +71,9 @@ jobs:
 
       - name: Install
         if: steps.mode.outputs.mode != 'none'
-        run: pip install --quiet pillow cryptography
+        run: |
+          pip install --quiet pillow cryptography
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null)
 
       - name: Unlock logins
         if: steps.mode.outputs.mode != 'none'

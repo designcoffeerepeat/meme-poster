@@ -152,6 +152,22 @@ def hashtags_of(item):
     return tags[:5]                                   # never more than 5
 
 
+GENERIC_TAGS = {"#memes", "#meme", "#funny", "#darkhumor"}
+
+
+def caption_text(item, platform):
+    """Post text for Instagram / X / TikTok / Facebook: the meme's caption (if it has one)
+    plus hashtags. X gets just the 2 most specific tags. Bluesky doesn't use this."""
+    tags = hashtags_of(item)
+    if platform == "x":
+        tags = ([t for t in tags if t.lower() not in GENERIC_TAGS] or tags)[:2]
+    cap = (item.get("caption") or "").strip()
+    if not cap:
+        return " ".join(tags)
+    sep = " " if platform == "x" else "\n\n"
+    return (cap + sep + " ".join(tags)).strip()
+
+
 def build_text_and_facets(hashtags):
     tags = hashtags_of({"hashtags": hashtags})
     text = " ".join(tags)
@@ -338,10 +354,10 @@ def ig_prepare_image(path):
     return buf.getvalue(), im.size
 
 
-def host_temporarily(jpeg_bytes, cfg, keep="1h"):
+def host_temporarily(jpeg_bytes, cfg, keep="1h", ext="jpg", mime="image/jpeg"):
     """Instagram fetches images from a public URL, so park the file on a
     temporary host for a few hours (it deletes itself afterwards)."""
-    name = f"meme_{uuid.uuid4().hex[:10]}.jpg"
+    name = f"meme_{uuid.uuid4().hex[:10]}.{ext}"
     hosts = cfg.get("_test_hosts") or ["litterbox", "uguu", "tmpfiles"]
     errors = []
     for attempt in range(2):                         # two passes over all hosts
@@ -349,7 +365,7 @@ def host_temporarily(jpeg_bytes, cfg, keep="1h"):
             try:
                 if host == "litterbox":
                     body, ctype = multipart({"reqtype": "fileupload", "time": keep},
-                                            "fileToUpload", name, jpeg_bytes, "image/jpeg")
+                                            "fileToUpload", name, jpeg_bytes, mime)
                     url = http("POST", "https://litterbox.catbox.moe/resources/internals/api.php",
                                data=body, headers={"Content-Type": ctype, "User-Agent": BROWSER_UA}
                                ).decode().strip()
@@ -357,12 +373,12 @@ def host_temporarily(jpeg_bytes, cfg, keep="1h"):
                         return url
                     errors.append(f"litterbox: {url[:120]}")
                 elif host == "uguu":
-                    body, ctype = multipart({}, "files[]", name, jpeg_bytes, "image/jpeg")
+                    body, ctype = multipart({}, "files[]", name, jpeg_bytes, mime)
                     out = json.loads(http("POST", "https://uguu.se/upload", data=body,
                                           headers={"Content-Type": ctype, "User-Agent": BROWSER_UA}))
                     return out["files"][0]["url"]
                 elif host == "tmpfiles":
-                    body, ctype = multipart({}, "file", name, jpeg_bytes, "image/jpeg")
+                    body, ctype = multipart({}, "file", name, jpeg_bytes, mime)
                     out = json.loads(http("POST", "https://tmpfiles.org/api/v1/upload", data=body,
                                           headers={"Content-Type": ctype, "User-Agent": BROWSER_UA}))
                     url = out["data"]["url"].replace("http://", "https://")
@@ -417,7 +433,7 @@ def ig_post(cfg, item, paths):
     ig_maybe_refresh_token(cfg)
     api = Insta(cfg)
     user_id = cfg["instagram"].get("user_id") or api.me()["user_id"]
-    caption = " ".join(hashtags_of(item))
+    caption = caption_text(item, "instagram")
     if len(paths) > 1:
         log(f"Item {item['id']}: Instagram gets the first image only.")
     jpeg, _ = ig_prepare_image(paths[0])
@@ -571,20 +587,100 @@ def tiktok_prepare(path):
     return buf.getvalue()
 
 
+MUSIC_EXTS = (".mp3", ".m4a", ".aac", ".wav", ".ogg")
+VIDEO_SECONDS = 12
+
+
+def pick_music():
+    """A random track from the memes folder's _music subfolder (Dropbox or local), or None."""
+    import random
+    try:
+        if DBX is not None:
+            folder = DBX.folder + "/_music"
+            try:
+                names = [n for n in DBX.list_names(folder) if n.lower().endswith(MUSIC_EXTS)]
+            except Exception as e:
+                if "not_found" in str(e):         # make the folder so it's easy to find
+                    DBX._rpc("files/create_folder_v2", {"path": folder})
+                    log("Created the _music folder in Dropbox - drop music files in it for TikTok.")
+                    return None
+                raise
+            if not names:
+                return None
+            name = random.choice(names)
+            dest = os.path.join(DBX.tmp, "music_" + name)
+            return DBX.download(f"{folder}/{name}", dest)
+        folder = os.path.join(MEME_DIR, "_music")
+        names = [n for n in os.listdir(folder) if n.lower().endswith(MUSIC_EXTS)]
+        return os.path.join(folder, random.choice(names)) if names else None
+    except Exception as e:
+        if "not_found" not in str(e) and not isinstance(e, FileNotFoundError):
+            log(f"tiktok: couldn't get background music ({e}) - posting as a photo.")
+        return None
+
+
+def make_music_video(jpeg_bytes, track):
+    """12-second 1080x1920 MP4 of the meme with a random stretch of the track (faded in/out)."""
+    import random
+    import subprocess
+    import tempfile
+    work = tempfile.mkdtemp(prefix="tt_")
+    img, out = os.path.join(work, "meme.jpg"), os.path.join(work, "meme.mp4")
+    with open(img, "wb") as fh:
+        fh.write(jpeg_bytes)
+    try:
+        dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                    "-of", "csv=p=0", track], capture_output=True, text=True,
+                                   timeout=60).stdout.strip() or 0)
+    except (ValueError, subprocess.SubprocessError):
+        dur = 0
+    offset = random.uniform(0, min(45, dur - VIDEO_SECONDS - 1)) if dur > VIDEO_SECONDS + 2 else 0
+    t = VIDEO_SECONDS
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", img,
+           "-ss", f"{offset:.1f}", "-i", track, "-t", str(t),
+           "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-tune", "stillimage", "-preset", "veryfast",
+           "-pix_fmt", "yuv420p", "-r", "30", "-c:a", "aac", "-b:a", "160k",
+           "-af", f"afade=t=in:d=0.4,afade=t=out:st={t - 1.2}:d=1.2", "-shortest",
+           "-movflags", "+faststart", out]
+    r = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+    if r.returncode != 0 or not os.path.exists(out):
+        raise RuntimeError(f"ffmpeg failed: {r.stderr[-300:]}")
+    with open(out, "rb") as fh:
+        return fh.read()
+
+
 def tiktok_post(cfg, item, paths):
     api = BufferApi(cfg)
-    urls = [host_temporarily(tiktok_prepare(p), cfg, keep="12h") for p in paths[:35]]
     mutation = ("mutation($input: CreatePostInput!) { createPost(input: $input) { __typename "
                 "... on PostActionSuccess { post { id } } ... on MutationError { message } } }")
-    variables = {"input": {"text": " ".join(hashtags_of(item)), "channelId": cfg["tiktok"]["channel_id"],
-                           "schedulingType": "automatic", "mode": "shareNow",
-                           "assets": [{"image": {"url": u}} for u in urls]}}
-    res = api.gql(mutation, variables)["createPost"]
+    text = caption_text(item, "tiktok")
+    base = {"text": text, "channelId": cfg["tiktok"]["channel_id"],
+            "schedulingType": "automatic", "mode": "shareNow"}
+    res, kind = None, "photo"
+    track = pick_music()
+    if track:
+        try:
+            video = make_music_video(tiktok_prepare(paths[0]), track)
+            url = host_temporarily(video, cfg, keep="12h", ext="mp4", mime="video/mp4")
+            res = api.gql(mutation, {"input": dict(base, assets=[
+                {"video": {"url": url, "metadata": {"thumbnailOffset": 500}}}])})["createPost"]
+            if res.get("__typename") != "PostActionSuccess":
+                raise RuntimeError(res.get("message"))
+            kind = f"video with music ({os.path.basename(track).replace('music_', '', 1)})"
+        except Exception as e:
+            log(f"tiktok: music video didn't work ({str(e)[:200]}) - posting as a photo instead.")
+            res = None
+    if res is None:
+        urls = [host_temporarily(tiktok_prepare(p), cfg, keep="12h") for p in paths[:35]]
+        photo = dict(base, assets=[{"image": {"url": u}} for u in urls])
+        if item.get("caption"):
+            photo["metadata"] = {"tiktok": {"title": item["caption"][:90]}}
+        res = api.gql(mutation, {"input": photo})["createPost"]
     if res.get("__typename") != "PostActionSuccess":
         raise RuntimeError(f"Buffer refused the TikTok post: {res.get('message')}")
     item["tt_posted_at"] = _dt.datetime.now().isoformat(timespec="seconds")
     item["tt_id"] = f"buffer:{res['post']['id']}"
-    return f"sent to TikTok via Buffer (post {res['post']['id']})"
+    return f"sent to TikTok via Buffer as a {kind} (post {res['post']['id']})"
 
 
 def buffer_post_with_alt(cfg, item, paths, section, label):
@@ -608,7 +704,8 @@ def buffer_post_with_alt(cfg, item, paths, section, label):
             if field:
                 image[field] = alt
             assets.append({"image": image})
-        variables = {"input": {"text": " ".join(hashtags_of(item)), "channelId": xcfg["channel_id"],
+        variables = {"input": {"text": caption_text(item, "x" if section == "x" else section),
+                               "channelId": xcfg["channel_id"],
                                "schedulingType": "automatic", "mode": "shareNow", "assets": assets}}
         if section == "facebook":                 # Buffer requires a Facebook post type
             variables["input"]["metadata"] = {"facebook": {"type": "post"}}
@@ -658,7 +755,7 @@ def x_post(cfg, item, paths):
         api.call("POST", "/2/media/metadata", {
             "id": mid, "metadata": {"alt_text": {"text": img["alt"][:X_ALT_MAX]}}})
         media_ids.append(mid)
-    out = api.call("POST", "/2/tweets", {"text": " ".join(hashtags_of(item)),
+    out = api.call("POST", "/2/tweets", {"text": caption_text(item, "x"),
                                          "media": {"media_ids": media_ids}})
     tweet_id = out["data"]["id"]
     item["x_posted_at"] = _dt.datetime.now().isoformat(timespec="seconds")
@@ -925,7 +1022,7 @@ def main(argv):
                 print(f"\n{p}: queue is empty.")
                 continue
             print(f"\nNext on {p}: item {item['id']}")
-            print(f"  text:  {' '.join(hashtags_of(item))}")
+            print(f"  text:  {' '.join(hashtags_of(item)) if p == 'bluesky' else caption_text(item, p)}")
             for img, path in zip(item["images"], paths):
                 print(f"  image: {img['file']}")
                 print(f"  alt:   {img['alt'][:MAX_ALT_CHARS]}")
