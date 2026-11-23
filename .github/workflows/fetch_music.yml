@@ -2,7 +2,7 @@ name: Fetch music
 on:
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -16,3 +16,9 @@ jobs:
           name: tiktok_music
           path: tiktok_music.zip
           retention-days: 7
+      - name: Put the zip on a temporary branch
+        run: |
+          mkdir /tmp/z && cp tiktok_music.zip /tmp/z/ && cd /tmp/z
+          git init -q -b music-zip && git add tiktok_music.zip
+          git -c user.name=meme-poster -c user.email=meme-poster@users.noreply.github.com commit -qm "music zip"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" music-zip
