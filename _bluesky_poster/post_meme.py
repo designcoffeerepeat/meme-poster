@@ -936,7 +936,8 @@ def main(argv):
 
     failures = 0
     for p in platforms:
-        if posted_today(queue, p) and not force:
+        nxt = next_item(queue, p)
+        if posted_today(queue, p) and not force and not (nxt and nxt.get("extra")):
             log(f"{p}: already posted today - nothing to do.")
             continue
         item, paths = resolve_item(queue, p, dry=False)
@@ -945,6 +946,8 @@ def main(argv):
             continue
         try:
             ref = POSTERS[p](cfg, item, paths)
+            if item.get("extra"):
+                item[f"{p}_catchup"] = True     # an extra post doesn't count as the day's meme
         except Exception as e:
             failures += 1
             log(f"{p}: ERROR posting item {item['id']} ({item['images'][0]['file']}): {e}")

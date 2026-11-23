@@ -1176,7 +1176,8 @@
         "#GTA6",
         "#minimumwage"
       ],
-      "note": "User asked for this one to post Mon Nov 23 ~8 AM ET."
+      "note": "Extra post requested by the user (on top of the daily meme).",
+      "extra": true
     },
     {
       "id": 48,
