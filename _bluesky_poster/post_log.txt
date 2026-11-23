@@ -802,3 +802,10 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-23 08:56:35] facebook: posted item 210 (IMG_0048.jpg) -> sent to Facebook via Buffer (post 6b04460edddd745fc6d68ecc) (extra post)
 [2026-11-23 08:56:37] Moved IMG_0048.jpg into _posted (Dropbox).
 [2026-11-23 08:56:37] facebook: 162 memes left in the queue.
+[2026-11-23 15:42:43] Dropbox OK: 182 images waiting in /memes. Nothing was moved.
+[2026-11-23 15:42:43] TikTok music: 19 tracks in _music.
+[2026-11-23 15:42:44] Bluesky login OK (2goat2gloat.bsky.social, did:plc:xd6aezx2srwkebgyemyexipp). Nothing was posted.
+[2026-11-23 15:42:44] Instagram login OK (@2goat2gloat). Nothing was posted.
+[2026-11-23 15:42:44] X (via Buffer) OK: 2Goat2Gloat. Nothing was posted.
+[2026-11-23 15:42:45] TikTok (via Buffer) OK: 2goat2gloat. Nothing was posted.
+[2026-11-23 15:42:45] Facebook (via Buffer) OK: 2goat2gloat. Nothing was posted.
