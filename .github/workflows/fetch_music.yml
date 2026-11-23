@@ -1,0 +1,17 @@
+name: Fetch music
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 _tools/fetch_music.py _tools/music_list.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: tiktok_music
+          path: tiktok_music.zip
+          retention-days: 7
