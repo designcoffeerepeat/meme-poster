@@ -992,6 +992,11 @@ def main(argv):
         if DBX is not None:
             names = [n for n in DBX.list_names() if n.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".gif", ".heic"))]
             log(f"Dropbox OK: {len(names)} images waiting in {DBX.folder}. Nothing was moved.")
+            try:
+                tracks = [n for n in DBX.list_names(DBX.folder + "/_music") if n.lower().endswith(MUSIC_EXTS)]
+                log(f"TikTok music: {len(tracks)} tracks in _music.")
+            except Exception as e:
+                log(f"TikTok music: no _music folder yet ({str(e)[:80]}).")
         for p in platforms:
             if p == "bluesky":
                 api = bsky_login(cfg)
