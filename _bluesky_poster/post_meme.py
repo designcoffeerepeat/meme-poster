@@ -936,30 +936,37 @@ def main(argv):
 
     failures = 0
     for p in platforms:
-        nxt = next_item(queue, p)
-        if posted_today(queue, p) and not force and not (nxt and nxt.get("extra")):
-            log(f"{p}: already posted today - nothing to do.")
-            continue
-        item, paths = resolve_item(queue, p, dry=False)
-        if item is None:
-            log(f"{p}: queue is empty - every meme has been posted. Add more to queue.json.")
-            continue
-        try:
-            ref = POSTERS[p](cfg, item, paths)
-            if item.get("extra"):
-                item[f"{p}_catchup"] = True     # an extra post doesn't count as the day's meme
-        except Exception as e:
-            failures += 1
-            log(f"{p}: ERROR posting item {item['id']} ({item['images'][0]['file']}): {e}")
-            with open(LOG_PATH, "a", encoding="utf-8") as fh:
-                traceback.print_exc(file=fh)
-            continue
-        save_json_atomic(QUEUE_PATH, queue)
-        log(f"{p}: posted item {item['id']} ({item['images'][0]['file']}) -> {ref}")
-        move_if_done(item, paths, enabled_platforms(cfg))
-        left = sum(1 for i in queue["items"]
-                   if not (i.get("skip") or i.get(DONE_FIELD[p]) or i.get("missing")))
-        log(f"{p}: {left} memes left in the queue.")
+        # An "extra" item posts whenever it's next. If it goes out at/after 4 PM, the
+        # day's regular meme follows right after it, so the extra never replaces it.
+        for _pass in range(2):
+            nxt = next_item(queue, p)
+            if posted_today(queue, p) and not force and not (nxt and nxt.get("extra")):
+                if not _pass:
+                    log(f"{p}: already posted today - nothing to do.")
+                break
+            item, paths = resolve_item(queue, p, dry=False)
+            if item is None:
+                log(f"{p}: queue is empty - every meme has been posted. Add more to queue.json.")
+                break
+            try:
+                ref = POSTERS[p](cfg, item, paths)
+                if item.get("extra"):
+                    item[f"{p}_catchup"] = True     # an extra post doesn't count as the day's meme
+            except Exception as e:
+                failures += 1
+                log(f"{p}: ERROR posting item {item['id']} ({item['images'][0]['file']}): {e}")
+                with open(LOG_PATH, "a", encoding="utf-8") as fh:
+                    traceback.print_exc(file=fh)
+                break
+            save_json_atomic(QUEUE_PATH, queue)
+            log(f"{p}: posted item {item['id']} ({item['images'][0]['file']}) -> {ref}"
+                + (" (extra post)" if item.get("extra") else ""))
+            move_if_done(item, paths, enabled_platforms(cfg))
+            left = sum(1 for i in queue["items"]
+                       if not (i.get("skip") or i.get(DONE_FIELD[p]) or i.get("missing")))
+            log(f"{p}: {left} memes left in the queue.")
+            if not item.get("extra") or _dt.datetime.now().hour < 16:
+                break
     return 1 if failures else 0
 
 
