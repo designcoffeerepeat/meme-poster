@@ -1177,7 +1177,22 @@
         "#minimumwage"
       ],
       "note": "Extra post requested by the user (on top of the daily meme).",
-      "extra": true
+      "extra": true,
+      "posted_at": "2026-11-23T08:56:00",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n2ybu4b4at22",
+      "bluesky_catchup": true,
+      "ig_posted_at": "2026-11-23T08:56:12",
+      "ig_id": "18122286160965492",
+      "instagram_catchup": true,
+      "x_posted_at": "2026-11-23T08:56:16",
+      "x_id": "buffer:6b0445feffec7536549738f3",
+      "x_catchup": true,
+      "tt_posted_at": "2026-11-23T08:56:28",
+      "tt_id": "buffer:6b044602ffec753654973b94",
+      "tiktok_catchup": true,
+      "fb_posted_at": "2026-11-23T08:56:35",
+      "fb_id": "buffer:6b04460edddd745fc6d68ecc",
+      "facebook_catchup": true
     },
     {
       "id": 48,
