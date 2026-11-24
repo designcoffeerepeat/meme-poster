@@ -821,3 +821,14 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-23 16:05:25] Moved 8F4D7C66-9252-4C36-83A3-7E7C7FB076AD.JPG into _posted (Dropbox).
 [2026-11-23 16:05:25] facebook: 161 memes left in the queue.
 [2026-11-24 13:44:54] New-meme check: 0 new meme(s) copied to _inbox for the Tuesday job.
+[2026-11-24 16:04:35] bluesky: posted item 49 (538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n33kbfh3se2a
+[2026-11-24 16:04:35] bluesky: 178 memes left in the queue.
+[2026-11-24 16:04:48] instagram: posted item 49 (538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG) -> 18154850767554076
+[2026-11-24 16:04:48] instagram: 178 memes left in the queue.
+[2026-11-24 16:04:52] x: posted item 49 (538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG) -> sent to X via Buffer (post 6b05fbf29dd8377af11f2267)
+[2026-11-24 16:04:52] x: 178 memes left in the queue.
+[2026-11-24 16:05:09] tiktok: posted item 49 (538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG) -> sent to TikTok via Buffer as a video with music (19 - Lofi Hip-Hop.mp3) (post 6b05fbfada2eab4595a64c1a)
+[2026-11-24 16:05:09] tiktok: 178 memes left in the queue.
+[2026-11-24 16:05:17] facebook: posted item 49 (538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG) -> sent to Facebook via Buffer (post 6b05fc07bbd94e83696e3805)
+[2026-11-24 16:05:18] Moved 538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG into _posted (Dropbox).
+[2026-11-24 16:05:18] facebook: 178 memes left in the queue.

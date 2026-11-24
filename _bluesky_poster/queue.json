@@ -1235,7 +1235,17 @@
         "#movies",
         "#olympics"
       ],
-      "caption": "Arrakis has never been safer."
+      "caption": "Arrakis has never been safer.",
+      "posted_at": "2026-11-24T16:04:35",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n33kbfh3se2a",
+      "ig_posted_at": "2026-11-24T16:04:48",
+      "ig_id": "18154850767554076",
+      "x_posted_at": "2026-11-24T16:04:52",
+      "x_id": "buffer:6b05fbf29dd8377af11f2267",
+      "tt_posted_at": "2026-11-24T16:05:09",
+      "tt_id": "buffer:6b05fbfada2eab4595a64c1a",
+      "fb_posted_at": "2026-11-24T16:05:17",
+      "fb_id": "buffer:6b05fc07bbd94e83696e3805"
     },
     {
       "id": 50,
