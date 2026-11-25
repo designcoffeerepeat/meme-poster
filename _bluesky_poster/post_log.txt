@@ -833,3 +833,14 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-24 16:05:18] Moved 538FC65C-2F30-40B8-8B5B-17CB2C39BF13.JPG into _posted (Dropbox).
 [2026-11-24 16:05:18] facebook: 178 memes left in the queue.
 [2026-11-24 17:55:41] New-meme check: 0 new meme(s) copied to _inbox for the Tuesday job.
+[2026-11-25 16:04:46] bluesky: posted item 50 (A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n362qnlfpm2v
+[2026-11-25 16:04:46] bluesky: 177 memes left in the queue.
+[2026-11-25 16:05:00] instagram: posted item 50 (A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG) -> 18126132794315667
+[2026-11-25 16:05:00] instagram: 177 memes left in the queue.
+[2026-11-25 16:05:06] x: posted item 50 (A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG) -> sent to X via Buffer (post 6b074d7f7ef3c56ccf7c3a09)
+[2026-11-25 16:05:06] x: 177 memes left in the queue.
+[2026-11-25 16:05:23] tiktok: posted item 50 (A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG) -> sent to TikTok via Buffer as a video with music (09 - Funny Background Music.mp3) (post 6b074d89209be591e2e183c8)
+[2026-11-25 16:05:23] tiktok: 177 memes left in the queue.
+[2026-11-25 16:05:30] facebook: posted item 50 (A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG) -> sent to Facebook via Buffer (post 6b074d95209be591e2e18b13)
+[2026-11-25 16:05:32] Moved A08A3D1F-88F9-4B89-B3A9-F057C521B220.JPG into _posted (Dropbox).
+[2026-11-25 16:05:32] facebook: 177 memes left in the queue.
