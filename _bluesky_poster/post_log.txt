@@ -855,3 +855,15 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-26 16:05:53] facebook: posted item 51 (1CECDD0A-B670-4F1E-B4EC-1867E220D18C.PNG) -> sent to Facebook via Buffer (post 6b089f2c3accdac92cfe9ed3)
 [2026-11-26 16:05:55] Moved 1CECDD0A-B670-4F1E-B4EC-1867E220D18C.PNG into _posted (Dropbox).
 [2026-11-26 16:05:55] facebook: 176 memes left in the queue.
+[2026-11-27 16:04:24] bluesky: posted item 52 (39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n3d3ntvrtw2q
+[2026-11-27 16:04:24] bluesky: 175 memes left in the queue.
+[2026-11-27 16:04:25] Instagram token refreshed (good for another 60 days).
+[2026-11-27 16:04:41] instagram: posted item 52 (39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG) -> 17882476581562395
+[2026-11-27 16:04:41] instagram: 175 memes left in the queue.
+[2026-11-27 16:04:45] x: posted item 52 (39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG) -> sent to X via Buffer (post 6b09f06bc02ca0988ab5f98d)
+[2026-11-27 16:04:45] x: 175 memes left in the queue.
+[2026-11-27 16:05:02] tiktok: posted item 52 (39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG) -> sent to TikTok via Buffer as a video with music (02 - Mousey McMousekewitz.mp3) (post 6b09f073585cafb820e03492)
+[2026-11-27 16:05:02] tiktok: 175 memes left in the queue.
+[2026-11-27 16:05:11] facebook: posted item 52 (39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG) -> sent to Facebook via Buffer (post 6b09f07f71e8cc12a6cde47d)
+[2026-11-27 16:05:13] Moved 39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG into _posted (Dropbox).
+[2026-11-27 16:05:13] facebook: 175 memes left in the queue.
