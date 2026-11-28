@@ -1341,7 +1341,9 @@
         "#relationships",
         "#humor"
       ],
-      "caption": "One. Specifically one. Forever."
+      "caption": "One. Specifically one. Forever.",
+      "extra": true,
+      "note": "Extra post requested by the user on Nov 28 (on top of the daily meme)."
     },
     {
       "id": 54,
