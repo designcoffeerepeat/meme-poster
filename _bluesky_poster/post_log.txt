@@ -867,3 +867,14 @@ RuntimeError: Buffer refused the TikTok post: Invalid post: Image could not be r
 [2026-11-27 16:05:11] facebook: posted item 52 (39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG) -> sent to Facebook via Buffer (post 6b09f07f71e8cc12a6cde47d)
 [2026-11-27 16:05:13] Moved 39B6F4B7-BADF-470A-AEE0-1E197530D791.JPG into _posted (Dropbox).
 [2026-11-27 16:05:13] facebook: 175 memes left in the queue.
+[2026-11-28 05:40:12] bluesky: posted item 53 (4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG) -> at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n3ejambif523 (extra post)
+[2026-11-28 05:40:12] bluesky: 174 memes left in the queue.
+[2026-11-28 05:40:25] instagram: posted item 53 (4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG) -> 18121465754092590 (extra post)
+[2026-11-28 05:40:25] instagram: 174 memes left in the queue.
+[2026-11-28 05:40:29] x: posted item 53 (4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG) -> sent to X via Buffer (post 6b0aaf9ce897dadb1d7375b9) (extra post)
+[2026-11-28 05:40:29] x: 174 memes left in the queue.
+[2026-11-28 05:40:45] tiktok: posted item 53 (4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG) -> sent to TikTok via Buffer as a video with music (13 - Funny Energy.mp3) (post 6b0aafa3669c22f85de5c9b3) (extra post)
+[2026-11-28 05:40:45] tiktok: 174 memes left in the queue.
+[2026-11-28 05:40:51] facebook: posted item 53 (4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG) -> sent to Facebook via Buffer (post 6b0aafaee126bb75971fe5d5) (extra post)
+[2026-11-28 05:40:52] Moved 4279A5FB-2039-4CD1-92C2-8EC69BD8930A.JPG into _posted (Dropbox).
+[2026-11-28 05:40:52] facebook: 174 memes left in the queue.

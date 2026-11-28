@@ -1343,7 +1343,22 @@
       ],
       "caption": "One. Specifically one. Forever.",
       "extra": true,
-      "note": "Extra post requested by the user on Nov 28 (on top of the daily meme)."
+      "note": "Extra post requested by the user on Nov 28 (on top of the daily meme).",
+      "posted_at": "2026-11-28T05:40:12",
+      "uri": "at://did:plc:xd6aezx2srwkebgyemyexipp/app.bsky.feed.post/3n3ejambif523",
+      "bluesky_catchup": true,
+      "ig_posted_at": "2026-11-28T05:40:25",
+      "ig_id": "18121465754092590",
+      "instagram_catchup": true,
+      "x_posted_at": "2026-11-28T05:40:29",
+      "x_id": "buffer:6b0aaf9ce897dadb1d7375b9",
+      "x_catchup": true,
+      "tt_posted_at": "2026-11-28T05:40:45",
+      "tt_id": "buffer:6b0aafa3669c22f85de5c9b3",
+      "tiktok_catchup": true,
+      "fb_posted_at": "2026-11-28T05:40:51",
+      "fb_id": "buffer:6b0aafaee126bb75971fe5d5",
+      "facebook_catchup": true
     },
     {
       "id": 54,
